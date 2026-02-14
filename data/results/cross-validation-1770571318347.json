@@ -1,0 +1,142 @@
+{
+  "timestamp": "2026-02-08T17:21:58.347Z",
+  "config": {
+    "normalization": "minmax",
+    "candidateTemps": [
+      0.05,
+      0.1,
+      0.15,
+      0.2,
+      0.25,
+      0.3,
+      0.4,
+      0.5
+    ],
+    "bootstrapRepeats": 100,
+    "bootstrapTrainRatio": 0.7,
+    "seed": 42
+  },
+  "testSetSize": 62,
+  "domains": [
+    "satisfaction",
+    "likelihood",
+    "agreement",
+    "ease",
+    "importance",
+    "trust",
+    "value",
+    "purchase_intent"
+  ],
+  "lodo": [
+    {
+      "heldOutDomain": "satisfaction",
+      "calibratedTemp": 0.05,
+      "trainExactPct": 67,
+      "testExact": 5,
+      "testTotal": 10,
+      "testExactPct": 50,
+      "testWithinOnePct": 100,
+      "testMAE": 0.5
+    },
+    {
+      "heldOutDomain": "likelihood",
+      "calibratedTemp": 0.15,
+      "trainExactPct": 65,
+      "testExact": 6,
+      "testTotal": 8,
+      "testExactPct": 75,
+      "testWithinOnePct": 100,
+      "testMAE": 0.25
+    },
+    {
+      "heldOutDomain": "agreement",
+      "calibratedTemp": 0.15,
+      "trainExactPct": 63,
+      "testExact": 7,
+      "testTotal": 8,
+      "testExactPct": 88,
+      "testWithinOnePct": 100,
+      "testMAE": 0.125
+    },
+    {
+      "heldOutDomain": "ease",
+      "calibratedTemp": 0.15,
+      "trainExactPct": 69,
+      "testExact": 4,
+      "testTotal": 8,
+      "testExactPct": 50,
+      "testWithinOnePct": 63,
+      "testMAE": 0.875
+    },
+    {
+      "heldOutDomain": "importance",
+      "calibratedTemp": 0.15,
+      "trainExactPct": 70,
+      "testExact": 3,
+      "testTotal": 8,
+      "testExactPct": 38,
+      "testWithinOnePct": 75,
+      "testMAE": 0.875
+    },
+    {
+      "heldOutDomain": "trust",
+      "calibratedTemp": 0.15,
+      "trainExactPct": 69,
+      "testExact": 4,
+      "testTotal": 8,
+      "testExactPct": 50,
+      "testWithinOnePct": 100,
+      "testMAE": 0.5
+    },
+    {
+      "heldOutDomain": "value",
+      "calibratedTemp": 0.15,
+      "trainExactPct": 66,
+      "testExact": 4,
+      "testTotal": 6,
+      "testExactPct": 67,
+      "testWithinOnePct": 100,
+      "testMAE": 0.3333333333333333
+    },
+    {
+      "heldOutDomain": "purchase_intent",
+      "calibratedTemp": 0.15,
+      "trainExactPct": 64,
+      "testExact": 5,
+      "testTotal": 6,
+      "testExactPct": 83,
+      "testWithinOnePct": 100,
+      "testMAE": 0.16666666666666666
+    }
+  ],
+  "bootstrap": {
+    "exactPct": {
+      "mean": 60.61,
+      "ci95": [
+        42,
+        79
+      ]
+    },
+    "withinOnePct": {
+      "mean": 90.67,
+      "ci95": [
+        79,
+        100
+      ]
+    },
+    "mae": {
+      "mean": 0.4878947368421053,
+      "ci95": [
+        0.21052631578947367,
+        0.7894736842105263
+      ]
+    },
+    "temperature": {
+      "mean": 0.1405000000000001,
+      "ci95": [
+        0.05,
+        0.2
+      ]
+    }
+  }
+}

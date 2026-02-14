@@ -1,0 +1,1617 @@
+{
+  "timestamp": "2026-02-08T16:14:25.093Z",
+  "testCases": 17,
+  "configurations": 13,
+  "rawSimilarities": {
+    "SAT-1": [
+      0.7787674001528456,
+      0.7358231469927903,
+      0.7109912738902107,
+      0.7686237770150038,
+      0.75844201733786
+    ],
+    "SAT-2": [
+      0.8027166865953538,
+      0.7929189414868242,
+      0.7827101734748938,
+      0.8300431508241422,
+      0.8136775037950377
+    ],
+    "SAT-3": [
+      0.8026585836558104,
+      0.8213222673330267,
+      0.8207512560914977,
+      0.8523976437005656,
+      0.8253315973083272
+    ],
+    "SAT-4": [
+      0.7164976836903062,
+      0.7439527569416904,
+      0.7083654623311297,
+      0.802553383506384,
+      0.7752029844005422
+    ],
+    "SAT-5": [
+      0.7647218693266877,
+      0.7333680335208593,
+      0.7338705296593913,
+      0.7901289345931212,
+      0.8325634832739034
+    ],
+    "SAT-2b": [
+      0.7724275570701155,
+      0.7777877401279066,
+      0.722130626995061,
+      0.7955385138660589,
+      0.7771469111399808
+    ],
+    "SAT-4b": [
+      0.7921619746186431,
+      0.818971042779447,
+      0.7965903318872349,
+      0.8713766267219564,
+      0.8552422436385493
+    ],
+    "LIK-1": [
+      0.9002237668064881,
+      0.8046834363640455,
+      0.7576150990477176,
+      0.7796110566292616,
+      0.7883968686531259
+    ],
+    "LIK-2": [
+      0.8681305006362937,
+      0.8922866691390317,
+      0.8416774061627891,
+      0.8594625818116445,
+      0.842377333521674
+    ],
+    "LIK-3": [
+      0.837600556940729,
+      0.8291373507592755,
+      0.8946271094516073,
+      0.8159788124409689,
+      0.8117889442806601
+    ],
+    "LIK-4": [
+      0.7608334258308531,
+      0.7842737742604154,
+      0.700465915743746,
+      0.8317522729885867,
+      0.7904284358384869
+    ],
+    "LIK-5": [
+      0.7504621642011513,
+      0.7697614956029981,
+      0.7363074096027512,
+      0.8068677747992752,
+      0.8278699504333175
+    ],
+    "AGR-1": [
+      0.7975327066457087,
+      0.7298056036106338,
+      0.6829110565810389,
+      0.7244776770747914,
+      0.7840194478667191
+    ],
+    "AGR-2": [
+      0.7971918403077933,
+      0.7928492167917758,
+      0.7226088812808806,
+      0.754211917270546,
+      0.800977315837308
+    ],
+    "AGR-3": [
+      0.6930540200937678,
+      0.6976868630775781,
+      0.7176870091612773,
+      0.6735742542130777,
+      0.7175435911968912
+    ],
+    "AGR-4": [
+      0.7241575289371176,
+      0.702755722883712,
+      0.6716944318860524,
+      0.7197272171029088,
+      0.7706627077928947
+    ],
+    "AGR-5": [
+      0.723565019273182,
+      0.6659859291418606,
+      0.6433465561496958,
+      0.7068909585970363,
+      0.7860818104562776
+    ]
+  },
+  "results": [
+    {
+      "normalization": "none",
+      "temperature": 0.005,
+      "exact": 11,
+      "exactPct": 65,
+      "withinOne": 14,
+      "withinOnePct": 82,
+      "mae": 0.5294117647058824,
+      "meanConfidence": 0.88,
+      "details": [
+        {
+          "label": "SAT-1",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 0.73
+        },
+        {
+          "label": "SAT-2",
+          "expected": 2,
+          "predicted": 4,
+          "confidence": 0.88
+        },
+        {
+          "label": "SAT-3",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 0.97
+        },
+        {
+          "label": "SAT-4",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.98
+        },
+        {
+          "label": "SAT-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 1
+        },
+        {
+          "label": "SAT-2b",
+          "expected": 2,
+          "predicted": 4,
+          "confidence": 0.82
+        },
+        {
+          "label": "SAT-4b",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.9
+        },
+        {
+          "label": "LIK-1",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 1
+        },
+        {
+          "label": "LIK-2",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.96
+        },
+        {
+          "label": "LIK-3",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 1
+        },
+        {
+          "label": "LIK-4",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 1
+        },
+        {
+          "label": "LIK-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.95
+        },
+        {
+          "label": "AGR-1",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 0.85
+        },
+        {
+          "label": "AGR-2",
+          "expected": 2,
+          "predicted": 4,
+          "confidence": 0.43
+        },
+        {
+          "label": "AGR-3",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 0.53
+        },
+        {
+          "label": "AGR-4",
+          "expected": 4,
+          "predicted": 5,
+          "confidence": 1
+        },
+        {
+          "label": "AGR-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 1
+        }
+      ]
+    },
+    {
+      "normalization": "minmax",
+      "temperature": 0.05,
+      "exact": 11,
+      "exactPct": 65,
+      "withinOne": 14,
+      "withinOnePct": 82,
+      "mae": 0.5294117647058824,
+      "meanConfidence": 0.92,
+      "details": [
+        {
+          "label": "SAT-1",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 0.87
+        },
+        {
+          "label": "SAT-2",
+          "expected": 2,
+          "predicted": 4,
+          "confidence": 1
+        },
+        {
+          "label": "SAT-3",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 1
+        },
+        {
+          "label": "SAT-4",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.99
+        },
+        {
+          "label": "SAT-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 1
+        },
+        {
+          "label": "SAT-2b",
+          "expected": 2,
+          "predicted": 4,
+          "confidence": 0.94
+        },
+        {
+          "label": "SAT-4b",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.95
+        },
+        {
+          "label": "LIK-1",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 1
+        },
+        {
+          "label": "LIK-2",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 1
+        },
+        {
+          "label": "LIK-3",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 1
+        },
+        {
+          "label": "LIK-4",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.99
+        },
+        {
+          "label": "LIK-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.96
+        },
+        {
+          "label": "AGR-1",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 0.82
+        },
+        {
+          "label": "AGR-2",
+          "expected": 2,
+          "predicted": 4,
+          "confidence": 0.49
+        },
+        {
+          "label": "AGR-3",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 0.57
+        },
+        {
+          "label": "AGR-4",
+          "expected": 4,
+          "predicted": 5,
+          "confidence": 1
+        },
+        {
+          "label": "AGR-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 1
+        }
+      ]
+    },
+    {
+      "normalization": "zscore",
+      "temperature": 0.1,
+      "exact": 11,
+      "exactPct": 65,
+      "withinOne": 14,
+      "withinOnePct": 82,
+      "mae": 0.5294117647058824,
+      "meanConfidence": 0.94,
+      "details": [
+        {
+          "label": "SAT-1",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 0.95
+        },
+        {
+          "label": "SAT-2",
+          "expected": 2,
+          "predicted": 4,
+          "confidence": 1
+        },
+        {
+          "label": "SAT-3",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 1
+        },
+        {
+          "label": "SAT-4",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 1
+        },
+        {
+          "label": "SAT-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 1
+        },
+        {
+          "label": "SAT-2b",
+          "expected": 2,
+          "predicted": 4,
+          "confidence": 0.99
+        },
+        {
+          "label": "SAT-4b",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.98
+        },
+        {
+          "label": "LIK-1",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 1
+        },
+        {
+          "label": "LIK-2",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 1
+        },
+        {
+          "label": "LIK-3",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 1
+        },
+        {
+          "label": "LIK-4",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 1
+        },
+        {
+          "label": "LIK-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.99
+        },
+        {
+          "label": "AGR-1",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 0.9
+        },
+        {
+          "label": "AGR-2",
+          "expected": 2,
+          "predicted": 4,
+          "confidence": 0.56
+        },
+        {
+          "label": "AGR-3",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 0.57
+        },
+        {
+          "label": "AGR-4",
+          "expected": 4,
+          "predicted": 5,
+          "confidence": 1
+        },
+        {
+          "label": "AGR-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 1
+        }
+      ]
+    },
+    {
+      "normalization": "none",
+      "temperature": 0.001,
+      "exact": 11,
+      "exactPct": 65,
+      "withinOne": 14,
+      "withinOnePct": 82,
+      "mae": 0.5882352941176471,
+      "meanConfidence": 0.97,
+      "details": [
+        {
+          "label": "SAT-1",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 1
+        },
+        {
+          "label": "SAT-2",
+          "expected": 2,
+          "predicted": 4,
+          "confidence": 1
+        },
+        {
+          "label": "SAT-3",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 1
+        },
+        {
+          "label": "SAT-4",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 1
+        },
+        {
+          "label": "SAT-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 1
+        },
+        {
+          "label": "SAT-2b",
+          "expected": 2,
+          "predicted": 4,
+          "confidence": 1
+        },
+        {
+          "label": "SAT-4b",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 1
+        },
+        {
+          "label": "LIK-1",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 1
+        },
+        {
+          "label": "LIK-2",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 1
+        },
+        {
+          "label": "LIK-3",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 1
+        },
+        {
+          "label": "LIK-4",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 1
+        },
+        {
+          "label": "LIK-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 1
+        },
+        {
+          "label": "AGR-1",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 1
+        },
+        {
+          "label": "AGR-2",
+          "expected": 2,
+          "predicted": 5,
+          "confidence": 0.93
+        },
+        {
+          "label": "AGR-3",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 0.57
+        },
+        {
+          "label": "AGR-4",
+          "expected": 4,
+          "predicted": 5,
+          "confidence": 1
+        },
+        {
+          "label": "AGR-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 1
+        }
+      ]
+    },
+    {
+      "normalization": "minmax",
+      "temperature": 0.01,
+      "exact": 11,
+      "exactPct": 65,
+      "withinOne": 14,
+      "withinOnePct": 82,
+      "mae": 0.5882352941176471,
+      "meanConfidence": 0.97,
+      "details": [
+        {
+          "label": "SAT-1",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 1
+        },
+        {
+          "label": "SAT-2",
+          "expected": 2,
+          "predicted": 4,
+          "confidence": 1
+        },
+        {
+          "label": "SAT-3",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 1
+        },
+        {
+          "label": "SAT-4",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 1
+        },
+        {
+          "label": "SAT-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 1
+        },
+        {
+          "label": "SAT-2b",
+          "expected": 2,
+          "predicted": 4,
+          "confidence": 1
+        },
+        {
+          "label": "SAT-4b",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 1
+        },
+        {
+          "label": "LIK-1",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 1
+        },
+        {
+          "label": "LIK-2",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 1
+        },
+        {
+          "label": "LIK-3",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 1
+        },
+        {
+          "label": "LIK-4",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 1
+        },
+        {
+          "label": "LIK-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 1
+        },
+        {
+          "label": "AGR-1",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 1
+        },
+        {
+          "label": "AGR-2",
+          "expected": 2,
+          "predicted": 5,
+          "confidence": 0.97
+        },
+        {
+          "label": "AGR-3",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 0.58
+        },
+        {
+          "label": "AGR-4",
+          "expected": 4,
+          "predicted": 5,
+          "confidence": 1
+        },
+        {
+          "label": "AGR-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 1
+        }
+      ]
+    },
+    {
+      "normalization": "zscore",
+      "temperature": 0.2,
+      "exact": 10,
+      "exactPct": 59,
+      "withinOne": 15,
+      "withinOnePct": 88,
+      "mae": 0.5294117647058824,
+      "meanConfidence": 0.87,
+      "details": [
+        {
+          "label": "SAT-1",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 0.74
+        },
+        {
+          "label": "SAT-2",
+          "expected": 2,
+          "predicted": 4,
+          "confidence": 0.97
+        },
+        {
+          "label": "SAT-3",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 1
+        },
+        {
+          "label": "SAT-4",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.94
+        },
+        {
+          "label": "SAT-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.99
+        },
+        {
+          "label": "SAT-2b",
+          "expected": 2,
+          "predicted": 4,
+          "confidence": 0.83
+        },
+        {
+          "label": "SAT-4b",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.84
+        },
+        {
+          "label": "LIK-1",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 1
+        },
+        {
+          "label": "LIK-2",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.99
+        },
+        {
+          "label": "LIK-3",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 1
+        },
+        {
+          "label": "LIK-4",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.95
+        },
+        {
+          "label": "LIK-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.89
+        },
+        {
+          "label": "AGR-1",
+          "expected": 1,
+          "predicted": 2,
+          "confidence": 0.72
+        },
+        {
+          "label": "AGR-2",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.4
+        },
+        {
+          "label": "AGR-3",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 0.56
+        },
+        {
+          "label": "AGR-4",
+          "expected": 4,
+          "predicted": 5,
+          "confidence": 0.99
+        },
+        {
+          "label": "AGR-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "normalization": "minmax",
+      "temperature": 0.2,
+      "exact": 9,
+      "exactPct": 53,
+      "withinOne": 16,
+      "withinOnePct": 94,
+      "mae": 0.5294117647058824,
+      "meanConfidence": 0.54,
+      "details": [
+        {
+          "label": "SAT-1",
+          "expected": 1,
+          "predicted": 2,
+          "confidence": 0.35
+        },
+        {
+          "label": "SAT-2",
+          "expected": 2,
+          "predicted": 4,
+          "confidence": 0.57
+        },
+        {
+          "label": "SAT-3",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 0.65
+        },
+        {
+          "label": "SAT-4",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.57
+        },
+        {
+          "label": "SAT-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.68
+        },
+        {
+          "label": "SAT-2b",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.26
+        },
+        {
+          "label": "SAT-4b",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.54
+        },
+        {
+          "label": "LIK-1",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 0.79
+        },
+        {
+          "label": "LIK-2",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.69
+        },
+        {
+          "label": "LIK-3",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.81
+        },
+        {
+          "label": "LIK-4",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.41
+        },
+        {
+          "label": "LIK-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.53
+        },
+        {
+          "label": "AGR-1",
+          "expected": 1,
+          "predicted": 2,
+          "confidence": 0.44
+        },
+        {
+          "label": "AGR-2",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.27
+        },
+        {
+          "label": "AGR-3",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 0.39
+        },
+        {
+          "label": "AGR-4",
+          "expected": 4,
+          "predicted": 5,
+          "confidence": 0.59
+        },
+        {
+          "label": "AGR-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.62
+        }
+      ]
+    },
+    {
+      "normalization": "none",
+      "temperature": 0.01,
+      "exact": 9,
+      "exactPct": 53,
+      "withinOne": 15,
+      "withinOnePct": 88,
+      "mae": 0.5882352941176471,
+      "meanConfidence": 0.72,
+      "details": [
+        {
+          "label": "SAT-1",
+          "expected": 1,
+          "predicted": 2,
+          "confidence": 0.46
+        },
+        {
+          "label": "SAT-2",
+          "expected": 2,
+          "predicted": 4,
+          "confidence": 0.54
+        },
+        {
+          "label": "SAT-3",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 0.65
+        },
+        {
+          "label": "SAT-4",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.84
+        },
+        {
+          "label": "SAT-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.95
+        },
+        {
+          "label": "SAT-2b",
+          "expected": 2,
+          "predicted": 4,
+          "confidence": 0.42
+        },
+        {
+          "label": "SAT-4b",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.7
+        },
+        {
+          "label": "LIK-1",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 1
+        },
+        {
+          "label": "LIK-2",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.7
+        },
+        {
+          "label": "LIK-3",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.98
+        },
+        {
+          "label": "LIK-4",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.92
+        },
+        {
+          "label": "LIK-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.77
+        },
+        {
+          "label": "AGR-1",
+          "expected": 1,
+          "predicted": 2,
+          "confidence": 0.68
+        },
+        {
+          "label": "AGR-2",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.33
+        },
+        {
+          "label": "AGR-3",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 0.35
+        },
+        {
+          "label": "AGR-4",
+          "expected": 4,
+          "predicted": 5,
+          "confidence": 0.94
+        },
+        {
+          "label": "AGR-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "normalization": "minmax",
+      "temperature": 0.1,
+      "exact": 9,
+      "exactPct": 53,
+      "withinOne": 15,
+      "withinOnePct": 88,
+      "mae": 0.5882352941176471,
+      "meanConfidence": 0.8,
+      "details": [
+        {
+          "label": "SAT-1",
+          "expected": 1,
+          "predicted": 2,
+          "confidence": 0.61
+        },
+        {
+          "label": "SAT-2",
+          "expected": 2,
+          "predicted": 4,
+          "confidence": 0.9
+        },
+        {
+          "label": "SAT-3",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 0.97
+        },
+        {
+          "label": "SAT-4",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.86
+        },
+        {
+          "label": "SAT-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.95
+        },
+        {
+          "label": "SAT-2b",
+          "expected": 2,
+          "predicted": 4,
+          "confidence": 0.6
+        },
+        {
+          "label": "SAT-4b",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.77
+        },
+        {
+          "label": "LIK-1",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 0.99
+        },
+        {
+          "label": "LIK-2",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.96
+        },
+        {
+          "label": "LIK-3",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.99
+        },
+        {
+          "label": "LIK-4",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.81
+        },
+        {
+          "label": "LIK-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.8
+        },
+        {
+          "label": "AGR-1",
+          "expected": 1,
+          "predicted": 2,
+          "confidence": 0.65
+        },
+        {
+          "label": "AGR-2",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.36
+        },
+        {
+          "label": "AGR-3",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 0.54
+        },
+        {
+          "label": "AGR-4",
+          "expected": 4,
+          "predicted": 5,
+          "confidence": 0.94
+        },
+        {
+          "label": "AGR-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.94
+        }
+      ]
+    },
+    {
+      "normalization": "zscore",
+      "temperature": 0.5,
+      "exact": 9,
+      "exactPct": 53,
+      "withinOne": 15,
+      "withinOnePct": 88,
+      "mae": 0.5882352941176471,
+      "meanConfidence": 0.6,
+      "details": [
+        {
+          "label": "SAT-1",
+          "expected": 1,
+          "predicted": 2,
+          "confidence": 0.39
+        },
+        {
+          "label": "SAT-2",
+          "expected": 2,
+          "predicted": 4,
+          "confidence": 0.65
+        },
+        {
+          "label": "SAT-3",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 0.79
+        },
+        {
+          "label": "SAT-4",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.6
+        },
+        {
+          "label": "SAT-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.71
+        },
+        {
+          "label": "SAT-2b",
+          "expected": 2,
+          "predicted": 4,
+          "confidence": 0.32
+        },
+        {
+          "label": "SAT-4b",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.54
+        },
+        {
+          "label": "LIK-1",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 0.86
+        },
+        {
+          "label": "LIK-2",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.74
+        },
+        {
+          "label": "LIK-3",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.86
+        },
+        {
+          "label": "LIK-4",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.52
+        },
+        {
+          "label": "LIK-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.56
+        },
+        {
+          "label": "AGR-1",
+          "expected": 1,
+          "predicted": 2,
+          "confidence": 0.48
+        },
+        {
+          "label": "AGR-2",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.28
+        },
+        {
+          "label": "AGR-3",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 0.41
+        },
+        {
+          "label": "AGR-4",
+          "expected": 4,
+          "predicted": 5,
+          "confidence": 0.73
+        },
+        {
+          "label": "AGR-5",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.71
+        }
+      ]
+    },
+    {
+      "normalization": "minmax",
+      "temperature": 0.5,
+      "exact": 6,
+      "exactPct": 35,
+      "withinOne": 14,
+      "withinOnePct": 82,
+      "mae": 0.8235294117647058,
+      "meanConfidence": 0.15,
+      "details": [
+        {
+          "label": "SAT-1",
+          "expected": 1,
+          "predicted": 3,
+          "confidence": 0.11
+        },
+        {
+          "label": "SAT-2",
+          "expected": 2,
+          "predicted": 4,
+          "confidence": 0.15
+        },
+        {
+          "label": "SAT-3",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 0.15
+        },
+        {
+          "label": "SAT-4",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.16
+        },
+        {
+          "label": "SAT-5",
+          "expected": 5,
+          "predicted": 4,
+          "confidence": 0.19
+        },
+        {
+          "label": "SAT-2b",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.08
+        },
+        {
+          "label": "SAT-4b",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.17
+        },
+        {
+          "label": "LIK-1",
+          "expected": 1,
+          "predicted": 2,
+          "confidence": 0.2
+        },
+        {
+          "label": "LIK-2",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.18
+        },
+        {
+          "label": "LIK-3",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.22
+        },
+        {
+          "label": "LIK-4",
+          "expected": 4,
+          "predicted": 3,
+          "confidence": 0.1
+        },
+        {
+          "label": "LIK-5",
+          "expected": 5,
+          "predicted": 4,
+          "confidence": 0.16
+        },
+        {
+          "label": "AGR-1",
+          "expected": 1,
+          "predicted": 3,
+          "confidence": 0.14
+        },
+        {
+          "label": "AGR-2",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.11
+        },
+        {
+          "label": "AGR-3",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.13
+        },
+        {
+          "label": "AGR-4",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.13
+        },
+        {
+          "label": "AGR-5",
+          "expected": 5,
+          "predicted": 4,
+          "confidence": 0.15
+        }
+      ]
+    },
+    {
+      "normalization": "zscore",
+      "temperature": 1,
+      "exact": 6,
+      "exactPct": 35,
+      "withinOne": 14,
+      "withinOnePct": 82,
+      "mae": 0.8235294117647058,
+      "meanConfidence": 0.26,
+      "details": [
+        {
+          "label": "SAT-1",
+          "expected": 1,
+          "predicted": 3,
+          "confidence": 0.18
+        },
+        {
+          "label": "SAT-2",
+          "expected": 2,
+          "predicted": 4,
+          "confidence": 0.27
+        },
+        {
+          "label": "SAT-3",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 0.33
+        },
+        {
+          "label": "SAT-4",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.26
+        },
+        {
+          "label": "SAT-5",
+          "expected": 5,
+          "predicted": 4,
+          "confidence": 0.3
+        },
+        {
+          "label": "SAT-2b",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.14
+        },
+        {
+          "label": "SAT-4b",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.25
+        },
+        {
+          "label": "LIK-1",
+          "expected": 1,
+          "predicted": 2,
+          "confidence": 0.4
+        },
+        {
+          "label": "LIK-2",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.31
+        },
+        {
+          "label": "LIK-3",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.4
+        },
+        {
+          "label": "LIK-4",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.2
+        },
+        {
+          "label": "LIK-5",
+          "expected": 5,
+          "predicted": 4,
+          "confidence": 0.25
+        },
+        {
+          "label": "AGR-1",
+          "expected": 1,
+          "predicted": 3,
+          "confidence": 0.22
+        },
+        {
+          "label": "AGR-2",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.15
+        },
+        {
+          "label": "AGR-3",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 0.2
+        },
+        {
+          "label": "AGR-4",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.29
+        },
+        {
+          "label": "AGR-5",
+          "expected": 5,
+          "predicted": 4,
+          "confidence": 0.29
+        }
+      ]
+    },
+    {
+      "normalization": "minmax",
+      "temperature": 1,
+      "exact": 3,
+      "exactPct": 18,
+      "withinOne": 11,
+      "withinOnePct": 65,
+      "mae": 1.1764705882352942,
+      "meanConfidence": 0.04,
+      "details": [
+        {
+          "label": "SAT-1",
+          "expected": 1,
+          "predicted": 3,
+          "confidence": 0.03
+        },
+        {
+          "label": "SAT-2",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.04
+        },
+        {
+          "label": "SAT-3",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.04
+        },
+        {
+          "label": "SAT-4",
+          "expected": 4,
+          "predicted": 3,
+          "confidence": 0.04
+        },
+        {
+          "label": "SAT-5",
+          "expected": 5,
+          "predicted": 3,
+          "confidence": 0.05
+        },
+        {
+          "label": "SAT-2b",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.03
+        },
+        {
+          "label": "SAT-4b",
+          "expected": 4,
+          "predicted": 3,
+          "confidence": 0.05
+        },
+        {
+          "label": "LIK-1",
+          "expected": 1,
+          "predicted": 3,
+          "confidence": 0.05
+        },
+        {
+          "label": "LIK-2",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.05
+        },
+        {
+          "label": "LIK-3",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.05
+        },
+        {
+          "label": "LIK-4",
+          "expected": 4,
+          "predicted": 3,
+          "confidence": 0.03
+        },
+        {
+          "label": "LIK-5",
+          "expected": 5,
+          "predicted": 3,
+          "confidence": 0.04
+        },
+        {
+          "label": "AGR-1",
+          "expected": 1,
+          "predicted": 3,
+          "confidence": 0.04
+        },
+        {
+          "label": "AGR-2",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.04
+        },
+        {
+          "label": "AGR-3",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.04
+        },
+        {
+          "label": "AGR-4",
+          "expected": 4,
+          "predicted": 3,
+          "confidence": 0.03
+        },
+        {
+          "label": "AGR-5",
+          "expected": 5,
+          "predicted": 3,
+          "confidence": 0.04
+        }
+      ]
+    }
+  ],
+  "recommendation": {
+    "normalization": "none",
+    "temperature": 0.005,
+    "exact": 11,
+    "withinOne": 14,
+    "mae": 0.5294117647058824
+  }
+}

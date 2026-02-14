@@ -1,0 +1,9 @@
+Domain,N,Exact Match,Within ±1,MAE
+Satisfaction,10,90,100,0.10
+Purchase Intent,8,88,100,0.13
+Agreement,8,75,100,0.25
+Value,8,75,100,0.25
+Likelihood,8,63,100,0.38
+Ease,9,56,67,0.78
+Trust,9,44,100,0.56
+Importance,9,33,67,1.00

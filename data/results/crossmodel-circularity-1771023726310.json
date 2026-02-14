@@ -1,0 +1,4551 @@
+{
+  "timestamp": "2026-02-13T23:02:06.310Z",
+  "description": "Cross-model circularity: GPT-4o rating 345 Claude-generated texts",
+  "config": {
+    "ratingModel": "gpt-4o",
+    "generationModel": "claude-haiku-4-5-20251001",
+    "temperature": 0,
+    "nCases": 345,
+    "sourceFile": "circularity-results-1770677355621.json"
+  },
+  "gptRatings": [
+    {
+      "rating": 1,
+      "confidence": 0.95
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.95
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 2,
+      "confidence": 0.8
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 1
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 0.95
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 2,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.8
+    },
+    {
+      "rating": 4,
+      "confidence": 0.8
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 2,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.8
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.95
+    },
+    {
+      "rating": 1,
+      "confidence": 1
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 1
+    },
+    {
+      "rating": 1,
+      "confidence": 1
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 2,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 3,
+      "confidence": 0.7
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 3,
+      "confidence": 0.7
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.8
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 1
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 0.95
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 1
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.8
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 1
+    },
+    {
+      "rating": 1,
+      "confidence": 1
+    },
+    {
+      "rating": 2,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 1
+    },
+    {
+      "rating": 1,
+      "confidence": 1
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 2,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 1
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 1
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 2,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 2,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.95
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 1
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 2,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 1
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 0.95
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 2,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.8
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 2,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 2,
+      "confidence": 0.9
+    },
+    {
+      "rating": 2,
+      "confidence": 0.9
+    },
+    {
+      "rating": 2,
+      "confidence": 0.9
+    },
+    {
+      "rating": 2,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 1
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 0.95
+    },
+    {
+      "rating": 5,
+      "confidence": 1
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.8
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 2,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 2,
+      "confidence": 0.9
+    },
+    {
+      "rating": 2,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 0.95
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.8
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 1
+    },
+    {
+      "rating": 1,
+      "confidence": 1
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 1
+    },
+    {
+      "rating": 1,
+      "confidence": 1
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 1
+    },
+    {
+      "rating": 2,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.8
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 1
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 1
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 1
+    },
+    {
+      "rating": 2,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 2,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.8
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.95
+    },
+    {
+      "rating": 1,
+      "confidence": 0.95
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 1
+    },
+    {
+      "rating": 1,
+      "confidence": 1
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 1
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 0.95
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 2,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 1
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 1
+    },
+    {
+      "rating": 1,
+      "confidence": 1
+    },
+    {
+      "rating": 1,
+      "confidence": 0.95
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 3,
+      "confidence": 0.7
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.8
+    },
+    {
+      "rating": 4,
+      "confidence": 0.8
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 1
+    },
+    {
+      "rating": 5,
+      "confidence": 1
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 5,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.8
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 4,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 1
+    },
+    {
+      "rating": 2,
+      "confidence": 0.9
+    },
+    {
+      "rating": 1,
+      "confidence": 1
+    },
+    {
+      "rating": 1,
+      "confidence": 0.9
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 3,
+      "confidence": 0.7
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    },
+    {
+      "rating": 3,
+      "confidence": 0.8
+    }
+  ],
+  "metrics": {
+    "withinModel": {
+      "n": 345,
+      "exactMatch": 253,
+      "exactMatchPct": 73,
+      "withinOne": 345,
+      "withinOnePct": 100,
+      "mae": 0.267,
+      "meanSignedError": -0.232,
+      "sdError": 0.461,
+      "variance": 0.2129
+    },
+    "crossModel": {
+      "n": 345,
+      "exactMatch": 258,
+      "exactMatchPct": 75,
+      "withinOne": 345,
+      "withinOnePct": 100,
+      "mae": 0.252,
+      "meanSignedError": -0.154,
+      "sdError": 0.478,
+      "variance": 0.2286
+    },
+    "ssr": {
+      "n": 345,
+      "exactMatch": 173,
+      "exactMatchPct": 50,
+      "withinOne": 310,
+      "withinOnePct": 90,
+      "mae": 0.614,
+      "meanSignedError": 0.075,
+      "sdError": 0.933,
+      "variance": 0.8697
+    }
+  },
+  "varianceAnalysis": {
+    "withinModelVariance": 0.2129,
+    "crossModelVariance": 0.2286,
+    "ssrVariance": 0.8697,
+    "withinOverSSR": 0.2448,
+    "crossOverSSR": 0.2628,
+    "withinOverCross": 0.9313
+  },
+  "agreement": {
+    "samePrediction": 296,
+    "samePredictionPct": 86,
+    "bothCorrect": 231,
+    "onlyClaudeCorrect": 22,
+    "onlyGPTCorrect": 27,
+    "neitherCorrect": 65
+  },
+  "perCase": [
+    {
+      "testCaseLabel": "SAT-1",
+      "domain": "satisfaction",
+      "personaId": "detailed_professional",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "SAT-1",
+      "domain": "satisfaction",
+      "personaId": "blunt_retiree",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "SAT-1",
+      "domain": "satisfaction",
+      "personaId": "hedging_student",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 1
+    },
+    {
+      "testCaseLabel": "SAT-1",
+      "domain": "satisfaction",
+      "personaId": "busy_parent",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "SAT-1",
+      "domain": "satisfaction",
+      "personaId": "casual_young",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 1
+    },
+    {
+      "testCaseLabel": "SAT-2",
+      "domain": "satisfaction",
+      "personaId": "detailed_professional",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 1
+    },
+    {
+      "testCaseLabel": "SAT-2",
+      "domain": "satisfaction",
+      "personaId": "blunt_retiree",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 1
+    },
+    {
+      "testCaseLabel": "SAT-2",
+      "domain": "satisfaction",
+      "personaId": "hedging_student",
+      "targetRating": 2,
+      "withinModelRating": 2,
+      "crossModelRating": 2,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "SAT-2",
+      "domain": "satisfaction",
+      "personaId": "busy_parent",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 1
+    },
+    {
+      "testCaseLabel": "SAT-2",
+      "domain": "satisfaction",
+      "personaId": "casual_young",
+      "targetRating": 2,
+      "withinModelRating": 2,
+      "crossModelRating": 1,
+      "ssrRating": 1
+    },
+    {
+      "testCaseLabel": "SAT-3",
+      "domain": "satisfaction",
+      "personaId": "detailed_professional",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "SAT-3",
+      "domain": "satisfaction",
+      "personaId": "blunt_retiree",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "SAT-3",
+      "domain": "satisfaction",
+      "personaId": "hedging_student",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "SAT-3",
+      "domain": "satisfaction",
+      "personaId": "busy_parent",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "SAT-3",
+      "domain": "satisfaction",
+      "personaId": "casual_young",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "SAT-4",
+      "domain": "satisfaction",
+      "personaId": "detailed_professional",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "SAT-4",
+      "domain": "satisfaction",
+      "personaId": "blunt_retiree",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 5
+    },
+    {
+      "testCaseLabel": "SAT-4",
+      "domain": "satisfaction",
+      "personaId": "hedging_student",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 5
+    },
+    {
+      "testCaseLabel": "SAT-4",
+      "domain": "satisfaction",
+      "personaId": "busy_parent",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "SAT-4",
+      "domain": "satisfaction",
+      "personaId": "casual_young",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "SAT-5",
+      "domain": "satisfaction",
+      "personaId": "detailed_professional",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 5
+    },
+    {
+      "testCaseLabel": "SAT-5",
+      "domain": "satisfaction",
+      "personaId": "blunt_retiree",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 5
+    },
+    {
+      "testCaseLabel": "SAT-5",
+      "domain": "satisfaction",
+      "personaId": "hedging_student",
+      "targetRating": 5,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 5
+    },
+    {
+      "testCaseLabel": "SAT-5",
+      "domain": "satisfaction",
+      "personaId": "busy_parent",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 5
+    },
+    {
+      "testCaseLabel": "SAT-5",
+      "domain": "satisfaction",
+      "personaId": "casual_young",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 5
+    },
+    {
+      "testCaseLabel": "SAT-2s",
+      "domain": "satisfaction",
+      "personaId": "detailed_professional",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "SAT-2s",
+      "domain": "satisfaction",
+      "personaId": "blunt_retiree",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 1
+    },
+    {
+      "testCaseLabel": "SAT-2s",
+      "domain": "satisfaction",
+      "personaId": "hedging_student",
+      "targetRating": 2,
+      "withinModelRating": 2,
+      "crossModelRating": 2,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "SAT-2s",
+      "domain": "satisfaction",
+      "personaId": "busy_parent",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "SAT-2s",
+      "domain": "satisfaction",
+      "personaId": "casual_young",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 1
+    },
+    {
+      "testCaseLabel": "SAT-4s",
+      "domain": "satisfaction",
+      "personaId": "detailed_professional",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 5
+    },
+    {
+      "testCaseLabel": "SAT-4s",
+      "domain": "satisfaction",
+      "personaId": "blunt_retiree",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "SAT-4s",
+      "domain": "satisfaction",
+      "personaId": "hedging_student",
+      "targetRating": 4,
+      "withinModelRating": 3,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "SAT-4s",
+      "domain": "satisfaction",
+      "personaId": "busy_parent",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "SAT-4s",
+      "domain": "satisfaction",
+      "personaId": "casual_young",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "SAT-3s",
+      "domain": "satisfaction",
+      "personaId": "detailed_professional",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "SAT-3s",
+      "domain": "satisfaction",
+      "personaId": "blunt_retiree",
+      "targetRating": 3,
+      "withinModelRating": 4,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "SAT-3s",
+      "domain": "satisfaction",
+      "personaId": "hedging_student",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "SAT-3s",
+      "domain": "satisfaction",
+      "personaId": "busy_parent",
+      "targetRating": 3,
+      "withinModelRating": 4,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "SAT-3s",
+      "domain": "satisfaction",
+      "personaId": "casual_young",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "SAT-2e",
+      "domain": "satisfaction",
+      "personaId": "detailed_professional",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "SAT-2e",
+      "domain": "satisfaction",
+      "personaId": "blunt_retiree",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 1
+    },
+    {
+      "testCaseLabel": "SAT-2e",
+      "domain": "satisfaction",
+      "personaId": "hedging_student",
+      "targetRating": 2,
+      "withinModelRating": 2,
+      "crossModelRating": 2,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "SAT-2e",
+      "domain": "satisfaction",
+      "personaId": "busy_parent",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "SAT-2e",
+      "domain": "satisfaction",
+      "personaId": "casual_young",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "SAT-4e",
+      "domain": "satisfaction",
+      "personaId": "detailed_professional",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 5
+    },
+    {
+      "testCaseLabel": "SAT-4e",
+      "domain": "satisfaction",
+      "personaId": "blunt_retiree",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "SAT-4e",
+      "domain": "satisfaction",
+      "personaId": "hedging_student",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 5
+    },
+    {
+      "testCaseLabel": "SAT-4e",
+      "domain": "satisfaction",
+      "personaId": "busy_parent",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "SAT-4e",
+      "domain": "satisfaction",
+      "personaId": "casual_young",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 5
+    },
+    {
+      "testCaseLabel": "LIK-1",
+      "domain": "likelihood",
+      "personaId": "detailed_professional",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 1
+    },
+    {
+      "testCaseLabel": "LIK-1",
+      "domain": "likelihood",
+      "personaId": "blunt_retiree",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 1
+    },
+    {
+      "testCaseLabel": "LIK-1",
+      "domain": "likelihood",
+      "personaId": "hedging_student",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "LIK-1",
+      "domain": "likelihood",
+      "personaId": "busy_parent",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "LIK-1",
+      "domain": "likelihood",
+      "personaId": "casual_young",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "LIK-2",
+      "domain": "likelihood",
+      "personaId": "detailed_professional",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "LIK-2",
+      "domain": "likelihood",
+      "personaId": "blunt_retiree",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "LIK-2",
+      "domain": "likelihood",
+      "personaId": "hedging_student",
+      "targetRating": 2,
+      "withinModelRating": 2,
+      "crossModelRating": 2,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "LIK-2",
+      "domain": "likelihood",
+      "personaId": "busy_parent",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "LIK-2",
+      "domain": "likelihood",
+      "personaId": "casual_young",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "LIK-3",
+      "domain": "likelihood",
+      "personaId": "detailed_professional",
+      "targetRating": 3,
+      "withinModelRating": 2,
+      "crossModelRating": 3,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "LIK-3",
+      "domain": "likelihood",
+      "personaId": "blunt_retiree",
+      "targetRating": 3,
+      "withinModelRating": 2,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "LIK-3",
+      "domain": "likelihood",
+      "personaId": "hedging_student",
+      "targetRating": 3,
+      "withinModelRating": 2,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "LIK-3",
+      "domain": "likelihood",
+      "personaId": "busy_parent",
+      "targetRating": 3,
+      "withinModelRating": 2,
+      "crossModelRating": 3,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "LIK-3",
+      "domain": "likelihood",
+      "personaId": "casual_young",
+      "targetRating": 3,
+      "withinModelRating": 2,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "LIK-4",
+      "domain": "likelihood",
+      "personaId": "detailed_professional",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "LIK-4",
+      "domain": "likelihood",
+      "personaId": "blunt_retiree",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "LIK-4",
+      "domain": "likelihood",
+      "personaId": "hedging_student",
+      "targetRating": 4,
+      "withinModelRating": 3,
+      "crossModelRating": 4,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "LIK-4",
+      "domain": "likelihood",
+      "personaId": "busy_parent",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 5
+    },
+    {
+      "testCaseLabel": "LIK-4",
+      "domain": "likelihood",
+      "personaId": "casual_young",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "LIK-5",
+      "domain": "likelihood",
+      "personaId": "detailed_professional",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "LIK-5",
+      "domain": "likelihood",
+      "personaId": "blunt_retiree",
+      "targetRating": 5,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "LIK-5",
+      "domain": "likelihood",
+      "personaId": "hedging_student",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "LIK-5",
+      "domain": "likelihood",
+      "personaId": "busy_parent",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "LIK-5",
+      "domain": "likelihood",
+      "personaId": "casual_young",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "LIK-3s",
+      "domain": "likelihood",
+      "personaId": "detailed_professional",
+      "targetRating": 3,
+      "withinModelRating": 2,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "LIK-3s",
+      "domain": "likelihood",
+      "personaId": "blunt_retiree",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "LIK-3s",
+      "domain": "likelihood",
+      "personaId": "hedging_student",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "LIK-3s",
+      "domain": "likelihood",
+      "personaId": "busy_parent",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "LIK-3s",
+      "domain": "likelihood",
+      "personaId": "casual_young",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "LIK-4s",
+      "domain": "likelihood",
+      "personaId": "detailed_professional",
+      "targetRating": 4,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "LIK-4s",
+      "domain": "likelihood",
+      "personaId": "blunt_retiree",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "LIK-4s",
+      "domain": "likelihood",
+      "personaId": "hedging_student",
+      "targetRating": 4,
+      "withinModelRating": 3,
+      "crossModelRating": 4,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "LIK-4s",
+      "domain": "likelihood",
+      "personaId": "busy_parent",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "LIK-4s",
+      "domain": "likelihood",
+      "personaId": "casual_young",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 5,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "LIK-2e",
+      "domain": "likelihood",
+      "personaId": "detailed_professional",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 1
+    },
+    {
+      "testCaseLabel": "LIK-2e",
+      "domain": "likelihood",
+      "personaId": "blunt_retiree",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "LIK-2e",
+      "domain": "likelihood",
+      "personaId": "hedging_student",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "LIK-2e",
+      "domain": "likelihood",
+      "personaId": "busy_parent",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "LIK-2e",
+      "domain": "likelihood",
+      "personaId": "casual_young",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "AGR-1",
+      "domain": "agreement",
+      "personaId": "detailed_professional",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 1
+    },
+    {
+      "testCaseLabel": "AGR-1",
+      "domain": "agreement",
+      "personaId": "blunt_retiree",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "AGR-1",
+      "domain": "agreement",
+      "personaId": "hedging_student",
+      "targetRating": 1,
+      "withinModelRating": 2,
+      "crossModelRating": 2,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "AGR-1",
+      "domain": "agreement",
+      "personaId": "busy_parent",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "AGR-1",
+      "domain": "agreement",
+      "personaId": "casual_young",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "AGR-2",
+      "domain": "agreement",
+      "personaId": "detailed_professional",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "AGR-2",
+      "domain": "agreement",
+      "personaId": "blunt_retiree",
+      "targetRating": 2,
+      "withinModelRating": 2,
+      "crossModelRating": 1,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "AGR-2",
+      "domain": "agreement",
+      "personaId": "hedging_student",
+      "targetRating": 2,
+      "withinModelRating": 2,
+      "crossModelRating": 2,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "AGR-2",
+      "domain": "agreement",
+      "personaId": "busy_parent",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "AGR-2",
+      "domain": "agreement",
+      "personaId": "casual_young",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "AGR-3",
+      "domain": "agreement",
+      "personaId": "detailed_professional",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "AGR-3",
+      "domain": "agreement",
+      "personaId": "blunt_retiree",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "AGR-3",
+      "domain": "agreement",
+      "personaId": "hedging_student",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "AGR-3",
+      "domain": "agreement",
+      "personaId": "busy_parent",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "AGR-3",
+      "domain": "agreement",
+      "personaId": "casual_young",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "AGR-4",
+      "domain": "agreement",
+      "personaId": "detailed_professional",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 5,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "AGR-4",
+      "domain": "agreement",
+      "personaId": "blunt_retiree",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "AGR-4",
+      "domain": "agreement",
+      "personaId": "hedging_student",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "AGR-4",
+      "domain": "agreement",
+      "personaId": "busy_parent",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "AGR-4",
+      "domain": "agreement",
+      "personaId": "casual_young",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "AGR-5",
+      "domain": "agreement",
+      "personaId": "detailed_professional",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "AGR-5",
+      "domain": "agreement",
+      "personaId": "blunt_retiree",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "AGR-5",
+      "domain": "agreement",
+      "personaId": "hedging_student",
+      "targetRating": 5,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "AGR-5",
+      "domain": "agreement",
+      "personaId": "busy_parent",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "AGR-5",
+      "domain": "agreement",
+      "personaId": "casual_young",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "AGR-2s",
+      "domain": "agreement",
+      "personaId": "detailed_professional",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "AGR-2s",
+      "domain": "agreement",
+      "personaId": "blunt_retiree",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "AGR-2s",
+      "domain": "agreement",
+      "personaId": "hedging_student",
+      "targetRating": 2,
+      "withinModelRating": 2,
+      "crossModelRating": 2,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "AGR-2s",
+      "domain": "agreement",
+      "personaId": "busy_parent",
+      "targetRating": 2,
+      "withinModelRating": 2,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "AGR-2s",
+      "domain": "agreement",
+      "personaId": "casual_young",
+      "targetRating": 2,
+      "withinModelRating": 2,
+      "crossModelRating": 2,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "AGR-4s",
+      "domain": "agreement",
+      "personaId": "detailed_professional",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "AGR-4s",
+      "domain": "agreement",
+      "personaId": "blunt_retiree",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "AGR-4s",
+      "domain": "agreement",
+      "personaId": "hedging_student",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "AGR-4s",
+      "domain": "agreement",
+      "personaId": "busy_parent",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "AGR-4s",
+      "domain": "agreement",
+      "personaId": "casual_young",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "AGR-3e",
+      "domain": "agreement",
+      "personaId": "detailed_professional",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "AGR-3e",
+      "domain": "agreement",
+      "personaId": "blunt_retiree",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "AGR-3e",
+      "domain": "agreement",
+      "personaId": "hedging_student",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "AGR-3e",
+      "domain": "agreement",
+      "personaId": "busy_parent",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "AGR-3e",
+      "domain": "agreement",
+      "personaId": "casual_young",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "EASE-1",
+      "domain": "ease",
+      "personaId": "detailed_professional",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "EASE-1",
+      "domain": "ease",
+      "personaId": "blunt_retiree",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "EASE-1",
+      "domain": "ease",
+      "personaId": "hedging_student",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "EASE-1",
+      "domain": "ease",
+      "personaId": "busy_parent",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "EASE-1",
+      "domain": "ease",
+      "personaId": "casual_young",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "EASE-2",
+      "domain": "ease",
+      "personaId": "detailed_professional",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "EASE-2",
+      "domain": "ease",
+      "personaId": "blunt_retiree",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "EASE-2",
+      "domain": "ease",
+      "personaId": "hedging_student",
+      "targetRating": 2,
+      "withinModelRating": 2,
+      "crossModelRating": 2,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "EASE-2",
+      "domain": "ease",
+      "personaId": "busy_parent",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "EASE-2",
+      "domain": "ease",
+      "personaId": "casual_young",
+      "targetRating": 2,
+      "withinModelRating": 2,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "EASE-3",
+      "domain": "ease",
+      "personaId": "detailed_professional",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "EASE-3",
+      "domain": "ease",
+      "personaId": "blunt_retiree",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 5
+    },
+    {
+      "testCaseLabel": "EASE-3",
+      "domain": "ease",
+      "personaId": "hedging_student",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "EASE-3",
+      "domain": "ease",
+      "personaId": "busy_parent",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "EASE-3",
+      "domain": "ease",
+      "personaId": "casual_young",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "EASE-4",
+      "domain": "ease",
+      "personaId": "detailed_professional",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 5
+    },
+    {
+      "testCaseLabel": "EASE-4",
+      "domain": "ease",
+      "personaId": "blunt_retiree",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "EASE-4",
+      "domain": "ease",
+      "personaId": "hedging_student",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "EASE-4",
+      "domain": "ease",
+      "personaId": "busy_parent",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "EASE-4",
+      "domain": "ease",
+      "personaId": "casual_young",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "EASE-5",
+      "domain": "ease",
+      "personaId": "detailed_professional",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 5
+    },
+    {
+      "testCaseLabel": "EASE-5",
+      "domain": "ease",
+      "personaId": "blunt_retiree",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 5
+    },
+    {
+      "testCaseLabel": "EASE-5",
+      "domain": "ease",
+      "personaId": "hedging_student",
+      "targetRating": 5,
+      "withinModelRating": 4,
+      "crossModelRating": 5,
+      "ssrRating": 5
+    },
+    {
+      "testCaseLabel": "EASE-5",
+      "domain": "ease",
+      "personaId": "busy_parent",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 5
+    },
+    {
+      "testCaseLabel": "EASE-5",
+      "domain": "ease",
+      "personaId": "casual_young",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 5
+    },
+    {
+      "testCaseLabel": "EASE-4s",
+      "domain": "ease",
+      "personaId": "detailed_professional",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "EASE-4s",
+      "domain": "ease",
+      "personaId": "blunt_retiree",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 5
+    },
+    {
+      "testCaseLabel": "EASE-4s",
+      "domain": "ease",
+      "personaId": "hedging_student",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "EASE-4s",
+      "domain": "ease",
+      "personaId": "busy_parent",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "EASE-4s",
+      "domain": "ease",
+      "personaId": "casual_young",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "EASE-2s",
+      "domain": "ease",
+      "personaId": "detailed_professional",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "EASE-2s",
+      "domain": "ease",
+      "personaId": "blunt_retiree",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "EASE-2s",
+      "domain": "ease",
+      "personaId": "hedging_student",
+      "targetRating": 2,
+      "withinModelRating": 2,
+      "crossModelRating": 2,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "EASE-2s",
+      "domain": "ease",
+      "personaId": "busy_parent",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "EASE-2s",
+      "domain": "ease",
+      "personaId": "casual_young",
+      "targetRating": 2,
+      "withinModelRating": 2,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "EASE-3e",
+      "domain": "ease",
+      "personaId": "detailed_professional",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "EASE-3e",
+      "domain": "ease",
+      "personaId": "blunt_retiree",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 5
+    },
+    {
+      "testCaseLabel": "EASE-3e",
+      "domain": "ease",
+      "personaId": "hedging_student",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "EASE-3e",
+      "domain": "ease",
+      "personaId": "busy_parent",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "EASE-3e",
+      "domain": "ease",
+      "personaId": "casual_young",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "EASE-4e",
+      "domain": "ease",
+      "personaId": "detailed_professional",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 5
+    },
+    {
+      "testCaseLabel": "EASE-4e",
+      "domain": "ease",
+      "personaId": "blunt_retiree",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "EASE-4e",
+      "domain": "ease",
+      "personaId": "hedging_student",
+      "targetRating": 4,
+      "withinModelRating": 3,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "EASE-4e",
+      "domain": "ease",
+      "personaId": "busy_parent",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "EASE-4e",
+      "domain": "ease",
+      "personaId": "casual_young",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "IMP-1",
+      "domain": "importance",
+      "personaId": "detailed_professional",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "IMP-1",
+      "domain": "importance",
+      "personaId": "blunt_retiree",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 1
+    },
+    {
+      "testCaseLabel": "IMP-1",
+      "domain": "importance",
+      "personaId": "hedging_student",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 2,
+      "ssrRating": 1
+    },
+    {
+      "testCaseLabel": "IMP-1",
+      "domain": "importance",
+      "personaId": "busy_parent",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "IMP-1",
+      "domain": "importance",
+      "personaId": "casual_young",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "IMP-2",
+      "domain": "importance",
+      "personaId": "detailed_professional",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "IMP-2",
+      "domain": "importance",
+      "personaId": "blunt_retiree",
+      "targetRating": 2,
+      "withinModelRating": 2,
+      "crossModelRating": 2,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "IMP-2",
+      "domain": "importance",
+      "personaId": "hedging_student",
+      "targetRating": 2,
+      "withinModelRating": 2,
+      "crossModelRating": 2,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "IMP-2",
+      "domain": "importance",
+      "personaId": "busy_parent",
+      "targetRating": 2,
+      "withinModelRating": 2,
+      "crossModelRating": 2,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "IMP-2",
+      "domain": "importance",
+      "personaId": "casual_young",
+      "targetRating": 2,
+      "withinModelRating": 2,
+      "crossModelRating": 2,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "IMP-3",
+      "domain": "importance",
+      "personaId": "detailed_professional",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "IMP-3",
+      "domain": "importance",
+      "personaId": "blunt_retiree",
+      "targetRating": 3,
+      "withinModelRating": 2,
+      "crossModelRating": 3,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "IMP-3",
+      "domain": "importance",
+      "personaId": "hedging_student",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "IMP-3",
+      "domain": "importance",
+      "personaId": "busy_parent",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "IMP-3",
+      "domain": "importance",
+      "personaId": "casual_young",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "IMP-4",
+      "domain": "importance",
+      "personaId": "detailed_professional",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "IMP-4",
+      "domain": "importance",
+      "personaId": "blunt_retiree",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "IMP-4",
+      "domain": "importance",
+      "personaId": "hedging_student",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "IMP-4",
+      "domain": "importance",
+      "personaId": "busy_parent",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 5,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "IMP-4",
+      "domain": "importance",
+      "personaId": "casual_young",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 5,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "IMP-5",
+      "domain": "importance",
+      "personaId": "detailed_professional",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "IMP-5",
+      "domain": "importance",
+      "personaId": "blunt_retiree",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "IMP-5",
+      "domain": "importance",
+      "personaId": "hedging_student",
+      "targetRating": 5,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "IMP-5",
+      "domain": "importance",
+      "personaId": "busy_parent",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 5
+    },
+    {
+      "testCaseLabel": "IMP-5",
+      "domain": "importance",
+      "personaId": "casual_young",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "IMP-4s",
+      "domain": "importance",
+      "personaId": "detailed_professional",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 5,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "IMP-4s",
+      "domain": "importance",
+      "personaId": "blunt_retiree",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "IMP-4s",
+      "domain": "importance",
+      "personaId": "hedging_student",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "IMP-4s",
+      "domain": "importance",
+      "personaId": "busy_parent",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "IMP-4s",
+      "domain": "importance",
+      "personaId": "casual_young",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 5,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "IMP-3s",
+      "domain": "importance",
+      "personaId": "detailed_professional",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "IMP-3s",
+      "domain": "importance",
+      "personaId": "blunt_retiree",
+      "targetRating": 3,
+      "withinModelRating": 2,
+      "crossModelRating": 3,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "IMP-3s",
+      "domain": "importance",
+      "personaId": "hedging_student",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "IMP-3s",
+      "domain": "importance",
+      "personaId": "busy_parent",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "IMP-3s",
+      "domain": "importance",
+      "personaId": "casual_young",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "IMP-2e",
+      "domain": "importance",
+      "personaId": "detailed_professional",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "IMP-2e",
+      "domain": "importance",
+      "personaId": "blunt_retiree",
+      "targetRating": 2,
+      "withinModelRating": 2,
+      "crossModelRating": 2,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "IMP-2e",
+      "domain": "importance",
+      "personaId": "hedging_student",
+      "targetRating": 2,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "IMP-2e",
+      "domain": "importance",
+      "personaId": "busy_parent",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 2,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "IMP-2e",
+      "domain": "importance",
+      "personaId": "casual_young",
+      "targetRating": 2,
+      "withinModelRating": 2,
+      "crossModelRating": 2,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "IMP-4e",
+      "domain": "importance",
+      "personaId": "detailed_professional",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 5,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "IMP-4e",
+      "domain": "importance",
+      "personaId": "blunt_retiree",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "IMP-4e",
+      "domain": "importance",
+      "personaId": "hedging_student",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "IMP-4e",
+      "domain": "importance",
+      "personaId": "busy_parent",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 5,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "IMP-4e",
+      "domain": "importance",
+      "personaId": "casual_young",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 5,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "TRU-1",
+      "domain": "trust",
+      "personaId": "detailed_professional",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 1
+    },
+    {
+      "testCaseLabel": "TRU-1",
+      "domain": "trust",
+      "personaId": "blunt_retiree",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "TRU-1",
+      "domain": "trust",
+      "personaId": "hedging_student",
+      "targetRating": 1,
+      "withinModelRating": 2,
+      "crossModelRating": 1,
+      "ssrRating": 1
+    },
+    {
+      "testCaseLabel": "TRU-1",
+      "domain": "trust",
+      "personaId": "busy_parent",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "TRU-1",
+      "domain": "trust",
+      "personaId": "casual_young",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 1
+    },
+    {
+      "testCaseLabel": "TRU-2",
+      "domain": "trust",
+      "personaId": "detailed_professional",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "TRU-2",
+      "domain": "trust",
+      "personaId": "blunt_retiree",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "TRU-2",
+      "domain": "trust",
+      "personaId": "hedging_student",
+      "targetRating": 2,
+      "withinModelRating": 2,
+      "crossModelRating": 2,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "TRU-2",
+      "domain": "trust",
+      "personaId": "busy_parent",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 1
+    },
+    {
+      "testCaseLabel": "TRU-2",
+      "domain": "trust",
+      "personaId": "casual_young",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "TRU-3",
+      "domain": "trust",
+      "personaId": "detailed_professional",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "TRU-3",
+      "domain": "trust",
+      "personaId": "blunt_retiree",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "TRU-3",
+      "domain": "trust",
+      "personaId": "hedging_student",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "TRU-3",
+      "domain": "trust",
+      "personaId": "busy_parent",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "TRU-3",
+      "domain": "trust",
+      "personaId": "casual_young",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "TRU-4",
+      "domain": "trust",
+      "personaId": "detailed_professional",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "TRU-4",
+      "domain": "trust",
+      "personaId": "blunt_retiree",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "TRU-4",
+      "domain": "trust",
+      "personaId": "hedging_student",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "TRU-4",
+      "domain": "trust",
+      "personaId": "busy_parent",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "TRU-4",
+      "domain": "trust",
+      "personaId": "casual_young",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "TRU-5",
+      "domain": "trust",
+      "personaId": "detailed_professional",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "TRU-5",
+      "domain": "trust",
+      "personaId": "blunt_retiree",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "TRU-5",
+      "domain": "trust",
+      "personaId": "hedging_student",
+      "targetRating": 5,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "TRU-5",
+      "domain": "trust",
+      "personaId": "busy_parent",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 5
+    },
+    {
+      "testCaseLabel": "TRU-5",
+      "domain": "trust",
+      "personaId": "casual_young",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "TRU-4s",
+      "domain": "trust",
+      "personaId": "detailed_professional",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "TRU-4s",
+      "domain": "trust",
+      "personaId": "blunt_retiree",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "TRU-4s",
+      "domain": "trust",
+      "personaId": "hedging_student",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "TRU-4s",
+      "domain": "trust",
+      "personaId": "busy_parent",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "TRU-4s",
+      "domain": "trust",
+      "personaId": "casual_young",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "TRU-2s",
+      "domain": "trust",
+      "personaId": "detailed_professional",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "TRU-2s",
+      "domain": "trust",
+      "personaId": "blunt_retiree",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 1
+    },
+    {
+      "testCaseLabel": "TRU-2s",
+      "domain": "trust",
+      "personaId": "hedging_student",
+      "targetRating": 2,
+      "withinModelRating": 2,
+      "crossModelRating": 2,
+      "ssrRating": 1
+    },
+    {
+      "testCaseLabel": "TRU-2s",
+      "domain": "trust",
+      "personaId": "busy_parent",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "TRU-2s",
+      "domain": "trust",
+      "personaId": "casual_young",
+      "targetRating": 2,
+      "withinModelRating": 2,
+      "crossModelRating": 2,
+      "ssrRating": 5
+    },
+    {
+      "testCaseLabel": "TRU-3e",
+      "domain": "trust",
+      "personaId": "detailed_professional",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "TRU-3e",
+      "domain": "trust",
+      "personaId": "blunt_retiree",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "TRU-3e",
+      "domain": "trust",
+      "personaId": "hedging_student",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "TRU-3e",
+      "domain": "trust",
+      "personaId": "busy_parent",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "TRU-3e",
+      "domain": "trust",
+      "personaId": "casual_young",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "TRU-4e",
+      "domain": "trust",
+      "personaId": "detailed_professional",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "TRU-4e",
+      "domain": "trust",
+      "personaId": "blunt_retiree",
+      "targetRating": 4,
+      "withinModelRating": 3,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "TRU-4e",
+      "domain": "trust",
+      "personaId": "hedging_student",
+      "targetRating": 4,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "TRU-4e",
+      "domain": "trust",
+      "personaId": "busy_parent",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "TRU-4e",
+      "domain": "trust",
+      "personaId": "casual_young",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "VAL-1",
+      "domain": "value",
+      "personaId": "detailed_professional",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "VAL-1",
+      "domain": "value",
+      "personaId": "blunt_retiree",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 1
+    },
+    {
+      "testCaseLabel": "VAL-1",
+      "domain": "value",
+      "personaId": "hedging_student",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "VAL-1",
+      "domain": "value",
+      "personaId": "busy_parent",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 1
+    },
+    {
+      "testCaseLabel": "VAL-1",
+      "domain": "value",
+      "personaId": "casual_young",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 1
+    },
+    {
+      "testCaseLabel": "VAL-2",
+      "domain": "value",
+      "personaId": "detailed_professional",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "VAL-2",
+      "domain": "value",
+      "personaId": "blunt_retiree",
+      "targetRating": 2,
+      "withinModelRating": 2,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "VAL-2",
+      "domain": "value",
+      "personaId": "hedging_student",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "VAL-2",
+      "domain": "value",
+      "personaId": "busy_parent",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 1
+    },
+    {
+      "testCaseLabel": "VAL-2",
+      "domain": "value",
+      "personaId": "casual_young",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "VAL-3",
+      "domain": "value",
+      "personaId": "detailed_professional",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "VAL-3",
+      "domain": "value",
+      "personaId": "blunt_retiree",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "VAL-3",
+      "domain": "value",
+      "personaId": "hedging_student",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "VAL-3",
+      "domain": "value",
+      "personaId": "busy_parent",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "VAL-3",
+      "domain": "value",
+      "personaId": "casual_young",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "VAL-4",
+      "domain": "value",
+      "personaId": "detailed_professional",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "VAL-4",
+      "domain": "value",
+      "personaId": "blunt_retiree",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 5,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "VAL-4",
+      "domain": "value",
+      "personaId": "hedging_student",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "VAL-4",
+      "domain": "value",
+      "personaId": "busy_parent",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 5,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "VAL-4",
+      "domain": "value",
+      "personaId": "casual_young",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "VAL-5",
+      "domain": "value",
+      "personaId": "detailed_professional",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "VAL-5",
+      "domain": "value",
+      "personaId": "blunt_retiree",
+      "targetRating": 5,
+      "withinModelRating": 4,
+      "crossModelRating": 5,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "VAL-5",
+      "domain": "value",
+      "personaId": "hedging_student",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "VAL-5",
+      "domain": "value",
+      "personaId": "busy_parent",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "VAL-5",
+      "domain": "value",
+      "personaId": "casual_young",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 5
+    },
+    {
+      "testCaseLabel": "VAL-2s",
+      "domain": "value",
+      "personaId": "detailed_professional",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "VAL-2s",
+      "domain": "value",
+      "personaId": "blunt_retiree",
+      "targetRating": 2,
+      "withinModelRating": 2,
+      "crossModelRating": 1,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "VAL-2s",
+      "domain": "value",
+      "personaId": "hedging_student",
+      "targetRating": 2,
+      "withinModelRating": 2,
+      "crossModelRating": 2,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "VAL-2s",
+      "domain": "value",
+      "personaId": "busy_parent",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "VAL-2s",
+      "domain": "value",
+      "personaId": "casual_young",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 1
+    },
+    {
+      "testCaseLabel": "VAL-4s",
+      "domain": "value",
+      "personaId": "detailed_professional",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "VAL-4s",
+      "domain": "value",
+      "personaId": "blunt_retiree",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "VAL-4s",
+      "domain": "value",
+      "personaId": "hedging_student",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 5,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "VAL-4s",
+      "domain": "value",
+      "personaId": "busy_parent",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "VAL-4s",
+      "domain": "value",
+      "personaId": "casual_young",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "VAL-3e",
+      "domain": "value",
+      "personaId": "detailed_professional",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "VAL-3e",
+      "domain": "value",
+      "personaId": "blunt_retiree",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "VAL-3e",
+      "domain": "value",
+      "personaId": "hedging_student",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "VAL-3e",
+      "domain": "value",
+      "personaId": "busy_parent",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "VAL-3e",
+      "domain": "value",
+      "personaId": "casual_young",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "PI-1",
+      "domain": "purchase_intent",
+      "personaId": "detailed_professional",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "PI-1",
+      "domain": "purchase_intent",
+      "personaId": "blunt_retiree",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "PI-1",
+      "domain": "purchase_intent",
+      "personaId": "hedging_student",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "PI-1",
+      "domain": "purchase_intent",
+      "personaId": "busy_parent",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "PI-1",
+      "domain": "purchase_intent",
+      "personaId": "casual_young",
+      "targetRating": 1,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "PI-2",
+      "domain": "purchase_intent",
+      "personaId": "detailed_professional",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "PI-2",
+      "domain": "purchase_intent",
+      "personaId": "blunt_retiree",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "PI-2",
+      "domain": "purchase_intent",
+      "personaId": "hedging_student",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "PI-2",
+      "domain": "purchase_intent",
+      "personaId": "busy_parent",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 1
+    },
+    {
+      "testCaseLabel": "PI-2",
+      "domain": "purchase_intent",
+      "personaId": "casual_young",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "PI-3",
+      "domain": "purchase_intent",
+      "personaId": "detailed_professional",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "PI-3",
+      "domain": "purchase_intent",
+      "personaId": "blunt_retiree",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "PI-3",
+      "domain": "purchase_intent",
+      "personaId": "hedging_student",
+      "targetRating": 3,
+      "withinModelRating": 2,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "PI-3",
+      "domain": "purchase_intent",
+      "personaId": "busy_parent",
+      "targetRating": 3,
+      "withinModelRating": 2,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "PI-3",
+      "domain": "purchase_intent",
+      "personaId": "casual_young",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "PI-4",
+      "domain": "purchase_intent",
+      "personaId": "detailed_professional",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "PI-4",
+      "domain": "purchase_intent",
+      "personaId": "blunt_retiree",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "PI-4",
+      "domain": "purchase_intent",
+      "personaId": "hedging_student",
+      "targetRating": 4,
+      "withinModelRating": 3,
+      "crossModelRating": 4,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "PI-4",
+      "domain": "purchase_intent",
+      "personaId": "busy_parent",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "PI-4",
+      "domain": "purchase_intent",
+      "personaId": "casual_young",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "PI-5",
+      "domain": "purchase_intent",
+      "personaId": "detailed_professional",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 5
+    },
+    {
+      "testCaseLabel": "PI-5",
+      "domain": "purchase_intent",
+      "personaId": "blunt_retiree",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 5
+    },
+    {
+      "testCaseLabel": "PI-5",
+      "domain": "purchase_intent",
+      "personaId": "hedging_student",
+      "targetRating": 5,
+      "withinModelRating": 4,
+      "crossModelRating": 5,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "PI-5",
+      "domain": "purchase_intent",
+      "personaId": "busy_parent",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "PI-5",
+      "domain": "purchase_intent",
+      "personaId": "casual_young",
+      "targetRating": 5,
+      "withinModelRating": 5,
+      "crossModelRating": 5,
+      "ssrRating": 5
+    },
+    {
+      "testCaseLabel": "PI-4s",
+      "domain": "purchase_intent",
+      "personaId": "detailed_professional",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "PI-4s",
+      "domain": "purchase_intent",
+      "personaId": "blunt_retiree",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "PI-4s",
+      "domain": "purchase_intent",
+      "personaId": "hedging_student",
+      "targetRating": 4,
+      "withinModelRating": 3,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "PI-4s",
+      "domain": "purchase_intent",
+      "personaId": "busy_parent",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 4
+    },
+    {
+      "testCaseLabel": "PI-4s",
+      "domain": "purchase_intent",
+      "personaId": "casual_young",
+      "targetRating": 4,
+      "withinModelRating": 4,
+      "crossModelRating": 4,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "PI-2s",
+      "domain": "purchase_intent",
+      "personaId": "detailed_professional",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "PI-2s",
+      "domain": "purchase_intent",
+      "personaId": "blunt_retiree",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "PI-2s",
+      "domain": "purchase_intent",
+      "personaId": "hedging_student",
+      "targetRating": 2,
+      "withinModelRating": 2,
+      "crossModelRating": 2,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "PI-2s",
+      "domain": "purchase_intent",
+      "personaId": "busy_parent",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "PI-2s",
+      "domain": "purchase_intent",
+      "personaId": "casual_young",
+      "targetRating": 2,
+      "withinModelRating": 1,
+      "crossModelRating": 1,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "PI-3e",
+      "domain": "purchase_intent",
+      "personaId": "detailed_professional",
+      "targetRating": 3,
+      "withinModelRating": 2,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "PI-3e",
+      "domain": "purchase_intent",
+      "personaId": "blunt_retiree",
+      "targetRating": 3,
+      "withinModelRating": 2,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "PI-3e",
+      "domain": "purchase_intent",
+      "personaId": "hedging_student",
+      "targetRating": 3,
+      "withinModelRating": 2,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    },
+    {
+      "testCaseLabel": "PI-3e",
+      "domain": "purchase_intent",
+      "personaId": "busy_parent",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 2
+    },
+    {
+      "testCaseLabel": "PI-3e",
+      "domain": "purchase_intent",
+      "personaId": "casual_young",
+      "targetRating": 3,
+      "withinModelRating": 3,
+      "crossModelRating": 3,
+      "ssrRating": 3
+    }
+  ]
+}

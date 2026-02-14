@@ -1,0 +1,800 @@
+{
+  "timestamp": "2026-02-09T17:13:49.842Z",
+  "model": "claude-haiku-4-5-20241022",
+  "testSetSize": 62,
+  "domains": [
+    "satisfaction",
+    "likelihood",
+    "agreement",
+    "ease",
+    "importance",
+    "trust",
+    "value",
+    "purchase_intent"
+  ],
+  "prompt": "Exact mapToLikertViaLLM prompt from ssr-engine.ts",
+  "global": {
+    "exact": 16,
+    "exactPct": 26,
+    "withinOne": 46,
+    "withinOnePct": 74,
+    "mae": 1,
+    "total": 62
+  },
+  "perDomain": {
+    "satisfaction": {
+      "exact": 2,
+      "exactPct": 20,
+      "withinOne": 8,
+      "withinOnePct": 80,
+      "mae": 1,
+      "total": 10
+    },
+    "likelihood": {
+      "exact": 2,
+      "exactPct": 25,
+      "withinOne": 6,
+      "withinOnePct": 75,
+      "mae": 1,
+      "total": 8
+    },
+    "agreement": {
+      "exact": 2,
+      "exactPct": 25,
+      "withinOne": 6,
+      "withinOnePct": 75,
+      "mae": 1,
+      "total": 8
+    },
+    "ease": {
+      "exact": 2,
+      "exactPct": 25,
+      "withinOne": 6,
+      "withinOnePct": 75,
+      "mae": 1,
+      "total": 8
+    },
+    "importance": {
+      "exact": 2,
+      "exactPct": 25,
+      "withinOne": 6,
+      "withinOnePct": 75,
+      "mae": 1,
+      "total": 8
+    },
+    "trust": {
+      "exact": 2,
+      "exactPct": 25,
+      "withinOne": 6,
+      "withinOnePct": 75,
+      "mae": 1,
+      "total": 8
+    },
+    "value": {
+      "exact": 2,
+      "exactPct": 33,
+      "withinOne": 4,
+      "withinOnePct": 67,
+      "mae": 1,
+      "total": 6
+    },
+    "purchase_intent": {
+      "exact": 2,
+      "exactPct": 33,
+      "withinOne": 4,
+      "withinOnePct": 67,
+      "mae": 1,
+      "total": 6
+    }
+  },
+  "perDifficulty": {
+    "clear": {
+      "exact": 8,
+      "exactPct": 24,
+      "withinOne": 17,
+      "withinOnePct": 52,
+      "mae": 1.24,
+      "total": 33
+    },
+    "subtle": {
+      "exact": 3,
+      "exactPct": 18,
+      "withinOne": 17,
+      "withinOnePct": 100,
+      "mae": 0.82,
+      "total": 17
+    },
+    "edge": {
+      "exact": 5,
+      "exactPct": 42,
+      "withinOne": 12,
+      "withinOnePct": 100,
+      "mae": 0.58,
+      "total": 12
+    }
+  },
+  "results": [
+    {
+      "label": "SAT-1",
+      "domain": "satisfaction",
+      "difficulty": "clear",
+      "expected": 1,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 2,
+      "exact": false,
+      "withinOne": false
+    },
+    {
+      "label": "SAT-2",
+      "domain": "satisfaction",
+      "difficulty": "clear",
+      "expected": 2,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "SAT-3",
+      "domain": "satisfaction",
+      "difficulty": "clear",
+      "expected": 3,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 0,
+      "exact": true,
+      "withinOne": true
+    },
+    {
+      "label": "SAT-4",
+      "domain": "satisfaction",
+      "difficulty": "clear",
+      "expected": 4,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "SAT-5",
+      "domain": "satisfaction",
+      "difficulty": "clear",
+      "expected": 5,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 2,
+      "exact": false,
+      "withinOne": false
+    },
+    {
+      "label": "SAT-2s",
+      "domain": "satisfaction",
+      "difficulty": "subtle",
+      "expected": 2,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "SAT-4s",
+      "domain": "satisfaction",
+      "difficulty": "subtle",
+      "expected": 4,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "SAT-3s",
+      "domain": "satisfaction",
+      "difficulty": "subtle",
+      "expected": 3,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 0,
+      "exact": true,
+      "withinOne": true
+    },
+    {
+      "label": "SAT-2e",
+      "domain": "satisfaction",
+      "difficulty": "edge",
+      "expected": 2,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "SAT-4e",
+      "domain": "satisfaction",
+      "difficulty": "edge",
+      "expected": 4,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "LIK-1",
+      "domain": "likelihood",
+      "difficulty": "clear",
+      "expected": 1,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 2,
+      "exact": false,
+      "withinOne": false
+    },
+    {
+      "label": "LIK-2",
+      "domain": "likelihood",
+      "difficulty": "clear",
+      "expected": 2,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "LIK-3",
+      "domain": "likelihood",
+      "difficulty": "clear",
+      "expected": 3,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 0,
+      "exact": true,
+      "withinOne": true
+    },
+    {
+      "label": "LIK-4",
+      "domain": "likelihood",
+      "difficulty": "clear",
+      "expected": 4,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "LIK-5",
+      "domain": "likelihood",
+      "difficulty": "clear",
+      "expected": 5,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 2,
+      "exact": false,
+      "withinOne": false
+    },
+    {
+      "label": "LIK-3s",
+      "domain": "likelihood",
+      "difficulty": "subtle",
+      "expected": 3,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 0,
+      "exact": true,
+      "withinOne": true
+    },
+    {
+      "label": "LIK-4s",
+      "domain": "likelihood",
+      "difficulty": "subtle",
+      "expected": 4,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "LIK-2e",
+      "domain": "likelihood",
+      "difficulty": "edge",
+      "expected": 2,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "AGR-1",
+      "domain": "agreement",
+      "difficulty": "clear",
+      "expected": 1,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 2,
+      "exact": false,
+      "withinOne": false
+    },
+    {
+      "label": "AGR-2",
+      "domain": "agreement",
+      "difficulty": "clear",
+      "expected": 2,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "AGR-3",
+      "domain": "agreement",
+      "difficulty": "clear",
+      "expected": 3,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 0,
+      "exact": true,
+      "withinOne": true
+    },
+    {
+      "label": "AGR-4",
+      "domain": "agreement",
+      "difficulty": "clear",
+      "expected": 4,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "AGR-5",
+      "domain": "agreement",
+      "difficulty": "clear",
+      "expected": 5,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 2,
+      "exact": false,
+      "withinOne": false
+    },
+    {
+      "label": "AGR-2s",
+      "domain": "agreement",
+      "difficulty": "subtle",
+      "expected": 2,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "AGR-4s",
+      "domain": "agreement",
+      "difficulty": "subtle",
+      "expected": 4,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "AGR-3e",
+      "domain": "agreement",
+      "difficulty": "edge",
+      "expected": 3,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 0,
+      "exact": true,
+      "withinOne": true
+    },
+    {
+      "label": "EASE-1",
+      "domain": "ease",
+      "difficulty": "clear",
+      "expected": 1,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 2,
+      "exact": false,
+      "withinOne": false
+    },
+    {
+      "label": "EASE-2",
+      "domain": "ease",
+      "difficulty": "clear",
+      "expected": 2,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "EASE-3",
+      "domain": "ease",
+      "difficulty": "clear",
+      "expected": 3,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 0,
+      "exact": true,
+      "withinOne": true
+    },
+    {
+      "label": "EASE-5",
+      "domain": "ease",
+      "difficulty": "clear",
+      "expected": 5,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 2,
+      "exact": false,
+      "withinOne": false
+    },
+    {
+      "label": "EASE-4s",
+      "domain": "ease",
+      "difficulty": "subtle",
+      "expected": 4,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "EASE-2s",
+      "domain": "ease",
+      "difficulty": "subtle",
+      "expected": 2,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "EASE-3e",
+      "domain": "ease",
+      "difficulty": "edge",
+      "expected": 3,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 0,
+      "exact": true,
+      "withinOne": true
+    },
+    {
+      "label": "EASE-4e",
+      "domain": "ease",
+      "difficulty": "edge",
+      "expected": 4,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "IMP-1",
+      "domain": "importance",
+      "difficulty": "clear",
+      "expected": 1,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 2,
+      "exact": false,
+      "withinOne": false
+    },
+    {
+      "label": "IMP-2",
+      "domain": "importance",
+      "difficulty": "clear",
+      "expected": 2,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "IMP-3",
+      "domain": "importance",
+      "difficulty": "clear",
+      "expected": 3,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 0,
+      "exact": true,
+      "withinOne": true
+    },
+    {
+      "label": "IMP-5",
+      "domain": "importance",
+      "difficulty": "clear",
+      "expected": 5,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 2,
+      "exact": false,
+      "withinOne": false
+    },
+    {
+      "label": "IMP-4s",
+      "domain": "importance",
+      "difficulty": "subtle",
+      "expected": 4,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "IMP-3s",
+      "domain": "importance",
+      "difficulty": "subtle",
+      "expected": 3,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 0,
+      "exact": true,
+      "withinOne": true
+    },
+    {
+      "label": "IMP-2e",
+      "domain": "importance",
+      "difficulty": "edge",
+      "expected": 2,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "IMP-4e",
+      "domain": "importance",
+      "difficulty": "edge",
+      "expected": 4,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "TRU-1",
+      "domain": "trust",
+      "difficulty": "clear",
+      "expected": 1,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 2,
+      "exact": false,
+      "withinOne": false
+    },
+    {
+      "label": "TRU-2",
+      "domain": "trust",
+      "difficulty": "clear",
+      "expected": 2,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "TRU-3",
+      "domain": "trust",
+      "difficulty": "clear",
+      "expected": 3,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 0,
+      "exact": true,
+      "withinOne": true
+    },
+    {
+      "label": "TRU-5",
+      "domain": "trust",
+      "difficulty": "clear",
+      "expected": 5,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 2,
+      "exact": false,
+      "withinOne": false
+    },
+    {
+      "label": "TRU-4s",
+      "domain": "trust",
+      "difficulty": "subtle",
+      "expected": 4,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "TRU-2s",
+      "domain": "trust",
+      "difficulty": "subtle",
+      "expected": 2,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "TRU-3e",
+      "domain": "trust",
+      "difficulty": "edge",
+      "expected": 3,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 0,
+      "exact": true,
+      "withinOne": true
+    },
+    {
+      "label": "TRU-4e",
+      "domain": "trust",
+      "difficulty": "edge",
+      "expected": 4,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "VAL-1",
+      "domain": "value",
+      "difficulty": "clear",
+      "expected": 1,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 2,
+      "exact": false,
+      "withinOne": false
+    },
+    {
+      "label": "VAL-3",
+      "domain": "value",
+      "difficulty": "clear",
+      "expected": 3,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 0,
+      "exact": true,
+      "withinOne": true
+    },
+    {
+      "label": "VAL-5",
+      "domain": "value",
+      "difficulty": "clear",
+      "expected": 5,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 2,
+      "exact": false,
+      "withinOne": false
+    },
+    {
+      "label": "VAL-2s",
+      "domain": "value",
+      "difficulty": "subtle",
+      "expected": 2,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "VAL-4s",
+      "domain": "value",
+      "difficulty": "subtle",
+      "expected": 4,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "VAL-3e",
+      "domain": "value",
+      "difficulty": "edge",
+      "expected": 3,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 0,
+      "exact": true,
+      "withinOne": true
+    },
+    {
+      "label": "PI-1",
+      "domain": "purchase_intent",
+      "difficulty": "clear",
+      "expected": 1,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 2,
+      "exact": false,
+      "withinOne": false
+    },
+    {
+      "label": "PI-3",
+      "domain": "purchase_intent",
+      "difficulty": "clear",
+      "expected": 3,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 0,
+      "exact": true,
+      "withinOne": true
+    },
+    {
+      "label": "PI-5",
+      "domain": "purchase_intent",
+      "difficulty": "clear",
+      "expected": 5,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 2,
+      "exact": false,
+      "withinOne": false
+    },
+    {
+      "label": "PI-4s",
+      "domain": "purchase_intent",
+      "difficulty": "subtle",
+      "expected": 4,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "PI-2s",
+      "domain": "purchase_intent",
+      "difficulty": "subtle",
+      "expected": 2,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 1,
+      "exact": false,
+      "withinOne": true
+    },
+    {
+      "label": "PI-3e",
+      "domain": "purchase_intent",
+      "difficulty": "edge",
+      "expected": 3,
+      "predicted": 3,
+      "confidence": 0.5,
+      "error": 0,
+      "exact": true,
+      "withinOne": true
+    }
+  ]
+}

@@ -1,0 +1,3452 @@
+[
+  {
+    "testCaseLabel": "SAT-1",
+    "domain": "satisfaction",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process is unnecessarily complicated—I had to enter my shipping information twice because the form kept resetting, and then the payment screen froze right after I submitted my card details, leaving me uncertain whether my order went through for a full ten minutes. The whole experience made me question whether I'd shop with you again, especially when competitors make this so straightforward. I ended up having to contact customer service just to confirm my purchase was actually completed, which shouldn't be necessary."
+  },
+  {
+    "testCaseLabel": "SAT-1",
+    "domain": "satisfaction",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process is a mess—slow, confusing, and I had to start over twice before it finally went through. Fix it before you lose more customers."
+  },
+  {
+    "testCaseLabel": "SAT-1",
+    "domain": "satisfaction",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process is kind of a mess, to be honest—like, it kept freezing on me and I had to start over multiple times, which was really frustrating. I guess there might be technical reasons for it, but from my perspective as a user it just felt broken and made me not want to shop there again."
+  },
+  {
+    "testCaseLabel": "SAT-1",
+    "domain": "satisfaction",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process is unnecessarily complicated and keeps freezing halfway through—I've abandoned my cart more than once because it's faster to just go to the store. You need to streamline it because right now it's costing you sales."
+  },
+  {
+    "testCaseLabel": "SAT-1",
+    "domain": "satisfaction",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process on your app is literally so frustrating—it kept crashing right when I was trying to pay and I had to start over like three times. Honestly just made me want to give up and shop somewhere else instead, which is super annoying because I actually liked the products. Fix that before you lose more customers lol."
+  },
+  {
+    "testCaseLabel": "SAT-2",
+    "domain": "satisfaction",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process is frustratingly clunky—I had to re-enter my shipping address three times because the form kept resetting, and then the payment screen took so long to load that I thought my transaction had failed. I ended up abandoning my cart and ordering from a competitor instead, which is disappointing because I actually prefer your product selection. The experience felt outdated compared to other apps I use regularly, and it left me questioning whether I'd shop with you again."
+  },
+  {
+    "testCaseLabel": "SAT-2",
+    "domain": "satisfaction",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process is clunky and takes too many taps to get through. I've abandoned carts because of it."
+  },
+  {
+    "testCaseLabel": "SAT-2",
+    "domain": "satisfaction",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process kind of feels unnecessarily complicated, I guess—like there are too many steps when it could be more straightforward, though I understand they probably have reasons for how it's designed. I'm sort of disappointed because I expected something smoother based on other apps I use, but I can see how different companies have different priorities with their platforms."
+  },
+  {
+    "testCaseLabel": "SAT-2",
+    "domain": "satisfaction",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process is clunky and takes forever—I've abandoned carts because it's faster to just go to the store. You'd think paying for something would be straightforward, but instead I'm clicking through endless screens and it keeps asking me to confirm the same information twice."
+  },
+  {
+    "testCaseLabel": "SAT-2",
+    "domain": "satisfaction",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "Dude, the checkout on that app is honestly kinda frustrating—like it takes way too many steps and keeps glitching on me. I've abandoned my cart more than once because of it, which sucks because I actually wanted the stuff. It's definitely not what I'd expect from an app in 2024, ya know?"
+  },
+  {
+    "testCaseLabel": "SAT-3",
+    "domain": "satisfaction",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process works fine for what I need it to do, but there's nothing that really stands out as particularly smooth or frustrating. I can complete my purchase without running into major obstacles, though I've noticed the payment method entry could be streamlined since I always have to re-enter my information even though I've saved it before. It gets the job done, which is what matters most to me, but I wouldn't say it's an experience that makes me want to come back specifically because of how easy it is."
+  },
+  {
+    "testCaseLabel": "SAT-3",
+    "domain": "satisfaction",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout works fine, nothing to complain about but nothing special either. Gets the job done."
+  },
+  {
+    "testCaseLabel": "SAT-3",
+    "domain": "satisfaction",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process kind of does what it needs to do, I guess—like, it's not frustrating or anything, but it's also not particularly smooth or memorable either. I mean, there are a few steps that feel a bit clunky, though I suppose that's pretty standard for most apps these days. It gets the job done, but I could see it being streamlined in ways that would make it feel less tedious."
+  },
+  {
+    "testCaseLabel": "SAT-3",
+    "domain": "satisfaction",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout works fine—nothing's broken me about it, but nothing's made it easier either. It gets the job done when I need it to."
+  },
+  {
+    "testCaseLabel": "SAT-3",
+    "domain": "satisfaction",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout's fine, like it does what it needs to do but nothing crazy stands out either way. It's not frustrating me or making me hyped, just kinda there doing its job, you know?"
+  },
+  {
+    "testCaseLabel": "SAT-4",
+    "domain": "satisfaction",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process is smooth and intuitive—I appreciate how quickly I can get through payment without unnecessary steps. My only minor frustration is that the app occasionally freezes for a second or two when loading the payment methods screen, which makes me second-guess whether my tap registered. Otherwise, it's genuinely one of the better checkout experiences I've used compared to competitors."
+  },
+  {
+    "testCaseLabel": "SAT-4",
+    "domain": "satisfaction",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout works fine, gets the job done without unnecessary fussing around. Only complaint is the shipping options page could be clearer, but nothing that breaks the deal."
+  },
+  {
+    "testCaseLabel": "SAT-4",
+    "domain": "satisfaction",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process is pretty smooth overall, though I guess there are a couple of small things that could be streamlined—like maybe the payment options could load a bit faster sometimes. I kind of appreciate how straightforward it is though, since I've definitely used apps where it's way more complicated than it needs to be."
+  },
+  {
+    "testCaseLabel": "SAT-4",
+    "domain": "satisfaction",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The app makes checkout quick and painless, which is exactly what I need when I'm juggling everything else. My only gripe is the payment options could be simpler—I end up scrolling through stuff I don't use."
+  },
+  {
+    "testCaseLabel": "SAT-4",
+    "domain": "satisfaction",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The app's pretty smooth to use, like I can actually find stuff and pay without wanting to throw my phone across the room. There's definitely some small things that could be better, but honestly it gets the job done way faster than dealing with websites on mobile."
+  },
+  {
+    "testCaseLabel": "SAT-5",
+    "domain": "satisfaction",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process on your app is genuinely smooth—I appreciate how you've streamlined it to just a few taps, and the saved payment methods mean I'm not fumbling through my wallet every time. What really stands out is that the order confirmation arrives instantly with tracking information already populated, so I know exactly what to expect. I've recommended this app to colleagues specifically because the checkout experience doesn't feel like a chore, which honestly sets you apart from most competitors I use regularly."
+  },
+  {
+    "testCaseLabel": "SAT-5",
+    "domain": "satisfaction",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process is smooth and straightforward—no unnecessary steps or confusion. I'm pleased with how it works."
+  },
+  {
+    "testCaseLabel": "SAT-5",
+    "domain": "satisfaction",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process on your app is kind of seamless, I guess—like, it's really straightforward without being overly complicated, which I appreciate. I mean, there are always little things that could theoretically be tweaked, but honestly the experience feels pretty intuitive and doesn't frustrate me the way some apps do. It sort of just works when you need it to, which is kind of the whole point, right?"
+  },
+  {
+    "testCaseLabel": "SAT-5",
+    "domain": "satisfaction",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process is smooth and fast—I can get in and out without any hassle, which is exactly what I need when I'm juggling everything else. I really appreciate that it remembers my info and doesn't make me jump through hoops."
+  },
+  {
+    "testCaseLabel": "SAT-5",
+    "domain": "satisfaction",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process on your app is honestly so smooth—like I can get through my order in literally two taps and I'm done. It's refreshing compared to other apps that make you jump through a million hoops, so props for that!"
+  },
+  {
+    "testCaseLabel": "SAT-2s",
+    "domain": "satisfaction",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process feels unnecessarily complicated—I had to enter my shipping address twice, and the payment section kept timing out on me. I expected a smoother experience given how polished the rest of your app is, so it's frustrating that the final step where I'm actually completing a purchase is the weakest part. You're losing potential sales because people like me abandon their carts when the process becomes this cumbersome."
+  },
+  {
+    "testCaseLabel": "SAT-2s",
+    "domain": "satisfaction",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process is clunky and takes too long. I've abandoned my cart more than once because of it."
+  },
+  {
+    "testCaseLabel": "SAT-2s",
+    "domain": "satisfaction",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process kind of feels unnecessarily complicated, I guess—like there are too many steps when it could be more straightforward. I mean, I understand they probably want to collect certain information, but it's sort of frustrating when other apps manage to do this more smoothly, you know?"
+  },
+  {
+    "testCaseLabel": "SAT-2s",
+    "domain": "satisfaction",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process is clunky and takes forever—I've abandoned carts because it's just not worth the hassle when I'm trying to get things done quickly. You should really streamline it because right now it feels outdated compared to other apps I use."
+  },
+  {
+    "testCaseLabel": "SAT-2s",
+    "domain": "satisfaction",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "Honestly the checkout process is pretty frustrating—like it keeps asking me to create an account when I just wanna buy something quick, and then it takes forever to load. Definitely not what I'd expect from an app in 2024, ngl."
+  },
+  {
+    "testCaseLabel": "SAT-4s",
+    "domain": "satisfaction",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process is genuinely smooth—I appreciate how the saved payment methods populate automatically and the estimated delivery date appears right away. My only minor frustration is that the app doesn't clearly show whether I'm eligible for free shipping until the very final screen, which would be helpful to know earlier when deciding between options. Overall, it's a straightforward experience that gets me through to purchase without unnecessary friction."
+  },
+  {
+    "testCaseLabel": "SAT-4s",
+    "domain": "satisfaction",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The app gets me through checkout without nonsense, which is what matters. Could be smoother in a couple spots, but it works."
+  },
+  {
+    "testCaseLabel": "SAT-4s",
+    "domain": "satisfaction",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process is pretty smooth overall, I guess—like, it's definitely faster than dealing with a website on my phone. There are kind of some small friction points, though, like the way it asks for your address info feels a bit clunky compared to some other apps I've used."
+  },
+  {
+    "testCaseLabel": "SAT-4s",
+    "domain": "satisfaction",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The app makes checkout pretty straightforward—I can get through it fast, which matters when I'm squeezing in shopping between work and the kids' schedules. There are a couple of small things that could be smoother, but honestly nothing that's going to stop me from using it again."
+  },
+  {
+    "testCaseLabel": "SAT-4s",
+    "domain": "satisfaction",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout flow is pretty smooth honestly, like I can get through it without any frustration. There's just a couple little things that could be cleaner, but overall it's way better than most apps I use."
+  },
+  {
+    "testCaseLabel": "SAT-3s",
+    "domain": "satisfaction",
+    "difficulty": "subtle",
+    "targetRating": 3,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process gets the job done, but it feels pretty standard—nothing that stands out as particularly smooth or frustrating. I've encountered similar flows on other shopping apps, and yours doesn't differentiate itself in either direction. There are a few steps I could do without, though the payment options are convenient enough that I don't feel compelled to shop elsewhere because of it."
+  },
+  {
+    "testCaseLabel": "SAT-3s",
+    "domain": "satisfaction",
+    "difficulty": "subtle",
+    "targetRating": 3,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout works fine, nothing special about it. Gets the job done without any hassle, but there's nothing that makes it stand out either."
+  },
+  {
+    "testCaseLabel": "SAT-3s",
+    "domain": "satisfaction",
+    "difficulty": "subtle",
+    "targetRating": 3,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "I guess the checkout process kind of works fine, but it's not really doing anything special either—like, it gets the job done, but there's definitely room for improvement that would make it less of a hassle. I mean, I don't have major complaints, but I also wouldn't say I'm thrilled about it or anything."
+  },
+  {
+    "testCaseLabel": "SAT-3s",
+    "domain": "satisfaction",
+    "difficulty": "subtle",
+    "targetRating": 3,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout works fine—it gets the job done without frustrating me, but there's nothing about it that makes me think twice. It's just straightforward enough that I can grab what I need and move on with my day."
+  },
+  {
+    "testCaseLabel": "SAT-3s",
+    "domain": "satisfaction",
+    "difficulty": "subtle",
+    "targetRating": 3,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout's fine, like it does what it needs to do but nothing crazy impressive or annoying about it, you know? It's just... there, gets the job done without making me wanna throw my phone."
+  },
+  {
+    "testCaseLabel": "SAT-2e",
+    "domain": "satisfaction",
+    "difficulty": "edge",
+    "targetRating": 2,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process feels unnecessarily complicated—I had to enter my shipping information twice because the form didn't save properly, and then I couldn't find where to apply my loyalty discount until I'd already moved to the payment screen. I expected a smoother experience, especially compared to competitors like Target or Amazon where I can check out in under a minute. The app needs significant streamlining before I'd recommend it to colleagues."
+  },
+  {
+    "testCaseLabel": "SAT-2e",
+    "domain": "satisfaction",
+    "difficulty": "edge",
+    "targetRating": 2,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process is clunky and takes too many steps. I've abandoned my cart more than once because it's just not worth the hassle."
+  },
+  {
+    "testCaseLabel": "SAT-2e",
+    "domain": "satisfaction",
+    "difficulty": "edge",
+    "targetRating": 2,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process kind of feels unnecessarily complicated, like I'm jumping through more hoops than I should have to, and I guess I expected it to be smoother given how polished the rest of the app is. I mean, it *works*, but there's something about the flow that just doesn't feel intuitive, and I sort of end up frustrated by the time I actually complete a purchase."
+  },
+  {
+    "testCaseLabel": "SAT-2e",
+    "domain": "satisfaction",
+    "difficulty": "edge",
+    "targetRating": 2,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process is clunky and takes way too long—I've abandoned my cart more than once because it's faster to just go to the store. You need to streamline it, especially the payment step."
+  },
+  {
+    "testCaseLabel": "SAT-2e",
+    "domain": "satisfaction",
+    "difficulty": "edge",
+    "targetRating": 2,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "Ugh, the checkout process is honestly pretty frustrating—like it takes way too many steps and I keep getting confused about where my shipping info went. I'd definitely use the app more if it was smoother, but right now I usually just bail and order from somewhere else instead."
+  },
+  {
+    "testCaseLabel": "SAT-4e",
+    "domain": "satisfaction",
+    "difficulty": "edge",
+    "targetRating": 4,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process is straightforward and I appreciate how the app remembers my payment methods and address from previous purchases. My only minor frustration is that it doesn't show me an order summary before the final confirmation step, so I sometimes second-guess whether I've selected the right shipping option. Overall, it's one of the smoother checkout experiences I've encountered compared to other retailers."
+  },
+  {
+    "testCaseLabel": "SAT-4e",
+    "domain": "satisfaction",
+    "difficulty": "edge",
+    "targetRating": 4,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The app works fine—gets the job done without unnecessary fussing around. Wish the payment options loaded a bit faster, but nothing that's going to keep me up at night."
+  },
+  {
+    "testCaseLabel": "SAT-4e",
+    "domain": "satisfaction",
+    "difficulty": "edge",
+    "targetRating": 4,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process is pretty smooth overall, though I guess there are a couple of small things that could be streamlined—like, the payment section kind of takes an extra step that feels unnecessary. But honestly, it gets the job done efficiently most of the time, and I appreciate that it remembers my preferences, so that's kind of nice."
+  },
+  {
+    "testCaseLabel": "SAT-4e",
+    "domain": "satisfaction",
+    "difficulty": "edge",
+    "targetRating": 4,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout process is smooth and straightforward—I can get through it quickly without any hassle. My only thing is sometimes the payment options feel limited, but overall it works well for how I use it."
+  },
+  {
+    "testCaseLabel": "SAT-4e",
+    "domain": "satisfaction",
+    "difficulty": "edge",
+    "targetRating": 4,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How satisfied are you with the checkout experience on our e-commerce app?",
+    "generatedText": "The checkout flow is super smooth, honestly makes me way less annoyed about online shopping than I used to be. Only thing that kinda bugs me is when it doesn't remember my address from last time, but it's not a big deal."
+  },
+  {
+    "testCaseLabel": "LIK-1",
+    "domain": "likelihood",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "I don't see myself coming back anytime soon. The product arrived damaged, and when I contacted customer service, they were dismissive about the whole situation rather than actually trying to solve it. That kind of experience makes me question whether it's worth shopping with you again, especially when there are other brands that handle issues professionally. I'd rather spend my money somewhere that values customer satisfaction."
+  },
+  {
+    "testCaseLabel": "LIK-1",
+    "domain": "likelihood",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "Not buying from you again. Your service was terrible and I won't waste my time."
+  },
+  {
+    "testCaseLabel": "LIK-1",
+    "domain": "likelihood",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "I'm kind of doubting I'd come back, to be honest—the experience was pretty frustrating and I guess it would take a lot to change my mind about it. That said, I don't want to say never, but yeah, the next month seems unlikely given how things went."
+  },
+  {
+    "testCaseLabel": "LIK-1",
+    "domain": "likelihood",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "I'm not coming back—the whole experience was a waste of my time and money. You'd need to make some serious changes before I'd even consider giving you another chance."
+  },
+  {
+    "testCaseLabel": "LIK-1",
+    "domain": "likelihood",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "Nah, honestly I'm not coming back anytime soon—that whole experience was pretty rough and left a bad taste, you know? Like, I wanted to give you guys a shot but that's just not gonna happen again."
+  },
+  {
+    "testCaseLabel": "LIK-2",
+    "domain": "likelihood",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "I don't think I'll be coming back anytime soon, honestly. The product quality didn't match what was advertised, and when I reached out about it, the customer service response felt dismissive rather than helpful. I had higher expectations based on your brand reputation, and this experience fell short in ways that would make me hesitant to give you another chance in the near future."
+  },
+  {
+    "testCaseLabel": "LIK-2",
+    "domain": "likelihood",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "Don't think I'll be back. You didn't deliver what you promised."
+  },
+  {
+    "testCaseLabel": "LIK-2",
+    "domain": "likelihood",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "I kind of doubt I'd come back anytime soon, to be honest—the experience just didn't really meet what I was hoping for. There are other options out there that seem like they'd work better for what I need, though I guess it's possible things could change if something shifts. It's not that there's anything catastrophically wrong, it's just sort of... underwhelming compared to what I expected."
+  },
+  {
+    "testCaseLabel": "LIK-2",
+    "domain": "likelihood",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "I probably won't be back anytime soon—the experience just didn't meet what I was hoping for. You'd need to make some real changes before I'd consider giving you another shot."
+  },
+  {
+    "testCaseLabel": "LIK-2",
+    "domain": "likelihood",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "Yeah, probably not gonna come back anytime soon—I was really let down by my last experience and it just didn't hit what I was expecting. You'd have to seriously step it up for me to give it another shot honestly."
+  },
+  {
+    "testCaseLabel": "LIK-3",
+    "domain": "likelihood",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "I'd probably come back if I need something specific that you offer, but I'm not actively planning to shop with you anytime soon. There's nothing that's made me want to return quickly, but there's also nothing that's turned me away—it's just not top of mind right now. If the right product or promotion came across my inbox, I might reconsider, but otherwise I'm content exploring other options in the meantime."
+  },
+  {
+    "testCaseLabel": "LIK-3",
+    "domain": "likelihood",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "Might come back if I need something, might not—depends what comes up."
+  },
+  {
+    "testCaseLabel": "LIK-3",
+    "domain": "likelihood",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "I mean, I'd probably come back if I need something you have, but I'm not really planning to seek you out specifically or anything like that. It kind of depends on whether I remember you exist when I'm actually shopping, I guess, and whether your prices stay competitive with other places."
+  },
+  {
+    "testCaseLabel": "LIK-3",
+    "domain": "likelihood",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "I'd probably come back if I need something, but nothing's really pulling me to shop with you specifically over anyone else."
+  },
+  {
+    "testCaseLabel": "LIK-3",
+    "domain": "likelihood",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "Honestly I'm not sure yet, depends on what you've got going on and if I'm even in the area tbh. Like it could happen but I'm not counting on it either way."
+  },
+  {
+    "testCaseLabel": "LIK-4",
+    "domain": "likelihood",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "I'm planning to place another order soon since your product has genuinely improved my workflow, though I'd like to see how the new pricing structure affects my overall budget before committing to the same purchase frequency I had last quarter. The customer service experience has been consistently smooth, which definitely makes me want to come back rather than test out competitors. There's just one thing—if you could streamline the checkout process a bit more, that would remove my last hesitation about repeat purchases."
+  },
+  {
+    "testCaseLabel": "LIK-4",
+    "domain": "likelihood",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "I'll be back. Got what I needed and no complaints about how you handled it."
+  },
+  {
+    "testCaseLabel": "LIK-4",
+    "domain": "likelihood",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "I think I'd probably come back pretty soon, like there's a decent chance I'll need something else you have, though I guess it depends on what comes up in my budget situation. The experience was kind of solid overall—nothing really turned me off, but there were maybe a couple small things that could've been smoother, you know?"
+  },
+  {
+    "testCaseLabel": "LIK-4",
+    "domain": "likelihood",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "I'll probably order from you again soon—you've got what I need and the process is straightforward. Just make sure you keep your shipping times consistent, because that's what matters most to me."
+  },
+  {
+    "testCaseLabel": "LIK-4",
+    "domain": "likelihood",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "Yeah, I'd definitely come back! The vibe is good and the product's solid, though I'm always gonna shop around a bit depending on what's going on with my budget that week, you know?"
+  },
+  {
+    "testCaseLabel": "LIK-5",
+    "domain": "likelihood",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "I'm definitely coming back to make another purchase next month—your team really delivered on what I needed. The whole experience from browsing to checkout felt straightforward, and the product quality matched what you promised, which honestly doesn't happen everywhere. I'm already thinking about what I'll order next."
+  },
+  {
+    "testCaseLabel": "LIK-5",
+    "domain": "likelihood",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "I'll be back. Your product does what it's supposed to do, and that's all that matters."
+  },
+  {
+    "testCaseLabel": "LIK-5",
+    "domain": "likelihood",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "I'd definitely come back and shop with you again soon, like probably within the next month for sure. You kind of nailed what I was looking for, and the whole experience was pretty seamless, so there's not really a reason not to return."
+  },
+  {
+    "testCaseLabel": "LIK-5",
+    "domain": "likelihood",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "I'll definitely be back—you made this easy and got it right the first time. That's all I need."
+  },
+  {
+    "testCaseLabel": "LIK-5",
+    "domain": "likelihood",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "Dude, I'm totally coming back—your stuff is legit and I'm already planning my next order! Honestly can't wait to grab more, you guys really got it right."
+  },
+  {
+    "testCaseLabel": "LIK-3s",
+    "domain": "likelihood",
+    "difficulty": "subtle",
+    "targetRating": 3,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "I'd probably come back if I need something specific you carry, but there's nothing drawing me in right now that would make me seek you out. Your products work fine for what I need, though I haven't found anything that really stands out compared to other options I use. It really depends on whether something catches my attention or if I run out of what I typically buy from you."
+  },
+  {
+    "testCaseLabel": "LIK-3s",
+    "domain": "likelihood",
+    "difficulty": "subtle",
+    "targetRating": 3,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "Might come back, might not—depends on what you've got and if the price is right. Nothing's pushing me one way or the other right now."
+  },
+  {
+    "testCaseLabel": "LIK-3s",
+    "domain": "likelihood",
+    "difficulty": "subtle",
+    "targetRating": 3,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "I mean, it kind of depends on whether I actually need something from you guys in that timeframe, you know? Like, I'm not opposed to it or anything, but I also don't have specific plans to come back soon, so I guess it could go either way."
+  },
+  {
+    "testCaseLabel": "LIK-3s",
+    "domain": "likelihood",
+    "difficulty": "subtle",
+    "targetRating": 3,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "I'll probably shop with you again if I need something, but it really depends on what comes up and whether I find better options elsewhere. Nothing's making me want to rush back, but nothing's pushing me away either."
+  },
+  {
+    "testCaseLabel": "LIK-3s",
+    "domain": "likelihood",
+    "difficulty": "subtle",
+    "targetRating": 3,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "Honestly, I'd probably come back sometime soon but I'm not gonna lie, I'm not like super committed to it either—just depends on if I need what you're selling when I'm out and about."
+  },
+  {
+    "testCaseLabel": "LIK-4s",
+    "domain": "likelihood",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "I'll definitely be back—your product solved a real problem for me and the customer service team was responsive when I had questions. The only thing that might change my mind is if I find a more convenient way to get similar products, but right now you're my go-to option. I'm planning to reorder within the next few weeks."
+  },
+  {
+    "testCaseLabel": "LIK-4s",
+    "domain": "likelihood",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "I'll probably order from you again soon. Nothing's broken, so unless something changes, I see no reason not to come back."
+  },
+  {
+    "testCaseLabel": "LIK-4s",
+    "domain": "likelihood",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "I'd probably come back, yeah—like, I've had a pretty good experience so far and don't really see why I wouldn't, though I guess it depends on whether something better comes along or if my needs change. There's kind of nothing holding me back at this point, but I'm also not making any promises since things shift sometimes."
+  },
+  {
+    "testCaseLabel": "LIK-4s",
+    "domain": "likelihood",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "I'll probably come back soon—you've got what I need and it's convenient. Just make sure the quality stays consistent because I don't have time to deal with problems."
+  },
+  {
+    "testCaseLabel": "LIK-4s",
+    "domain": "likelihood",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "Yeah, I'd definitely come back soon—your stuff's solid and I've had a good experience so far. There's nothing really stopping me, though I might space it out depending on what else is going on with my schedule and budget, you know?"
+  },
+  {
+    "testCaseLabel": "LIK-2e",
+    "domain": "likelihood",
+    "difficulty": "edge",
+    "targetRating": 2,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "I'm disappointed because your service fell short of what I'd experienced before—the product quality seemed rushed, and when I reached out about an issue, the response time was much slower than usual. Given that I have other reliable vendors I can turn to, I don't see myself coming back in the near term unless something changes significantly. You'd need to demonstrate a real commitment to improving your standards before I'd feel confident ordering again."
+  },
+  {
+    "testCaseLabel": "LIK-2e",
+    "domain": "likelihood",
+    "difficulty": "edge",
+    "targetRating": 2,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "Probably not. You didn't deliver what you promised, and I've got better options out there."
+  },
+  {
+    "testCaseLabel": "LIK-2e",
+    "domain": "likelihood",
+    "difficulty": "edge",
+    "targetRating": 2,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "I kind of doubt I'd come back anytime soon, to be honest—the whole experience was just sort of disappointing in ways I didn't expect. I guess there are probably other options out there that might work better for what I need, though I'm sure you guys do fine for some people."
+  },
+  {
+    "testCaseLabel": "LIK-2e",
+    "domain": "likelihood",
+    "difficulty": "edge",
+    "targetRating": 2,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "I probably won't be back anytime soon—the service didn't meet what I was expecting. Unless something changes, I'd rather take my business elsewhere."
+  },
+  {
+    "testCaseLabel": "LIK-2e",
+    "domain": "likelihood",
+    "difficulty": "edge",
+    "targetRating": 2,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How likely are you to purchase from us again in the next month?",
+    "generatedText": "Nah, probably not gonna come back anytime soon tbh. You guys really let me down last time and I'm just not feeling it anymore."
+  },
+  {
+    "testCaseLabel": "AGR-1",
+    "domain": "agreement",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "This product completely failed to deliver on its promises—the materials feel cheap, it broke within two weeks of regular use, and their customer service was unhelpful when I tried to get it replaced. I expected much better quality for what I paid, especially compared to competitors offering similar items at the same price point. The whole experience left me frustrated and disappointed, and I honestly wouldn't recommend it to anyone looking for something reliable."
+  },
+  {
+    "testCaseLabel": "AGR-1",
+    "domain": "agreement",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "This product is garbage. Fell apart after two weeks and the company won't stand behind it."
+  },
+  {
+    "testCaseLabel": "AGR-1",
+    "domain": "agreement",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "The product kind of fell apart after a few weeks, which was pretty disappointing since I had high hopes for it. I guess I'd say it didn't really meet what I was expecting, and honestly the whole experience left me feeling pretty frustrated. It's not like there's nothing good about it, but the issues I ran into were significant enough that I can't really recommend it to anyone."
+  },
+  {
+    "testCaseLabel": "AGR-1",
+    "domain": "agreement",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "This product fell apart after a few weeks, and it's been nothing but frustration ever since. I wouldn't recommend it to anyone—there are better options out there that actually hold up."
+  },
+  {
+    "testCaseLabel": "AGR-1",
+    "domain": "agreement",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "Yeah, this product is honestly trash—like it fell apart way faster than it should've and doesn't do what it's supposed to do at all. I'm pretty frustrated because I spent good money on something that's basically useless to me now. Definitely wouldn't recommend it to anyone."
+  },
+  {
+    "testCaseLabel": "AGR-2",
+    "domain": "agreement",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "The product just hasn't delivered what I expected based on the marketing materials and price point. I found the materials feel cheaper than comparable options, and the functionality has been glitchy—I've had to troubleshoot basic features that should work seamlessly. For what I paid, I'm genuinely disappointed because I can see where corners were cut, and it's affecting my daily use."
+  },
+  {
+    "testCaseLabel": "AGR-2",
+    "domain": "agreement",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "This product doesn't hold up. I expected better for the price."
+  },
+  {
+    "testCaseLabel": "AGR-2",
+    "domain": "agreement",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "I guess I kind of expected more from this, you know? It's not terrible or anything, but it's definitely fallen short of what I was hoping for, and I'm sort of disappointed with how it's turned out overall."
+  },
+  {
+    "testCaseLabel": "AGR-2",
+    "domain": "agreement",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "This product hasn't held up like I expected—I'm disappointed with the quality for what I paid. I wouldn't recommend it to anyone looking for something reliable."
+  },
+  {
+    "testCaseLabel": "AGR-2",
+    "domain": "agreement",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "This thing honestly let me down way more than I expected—like I had decent hopes for it and it just didn't deliver. Definitely not worth what I paid for it, and I'm pretty bummed about that."
+  },
+  {
+    "testCaseLabel": "AGR-3",
+    "domain": "agreement",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "The product does what it's supposed to do, but it's not exceptional in any particular way. I've used similar offerings from competitors that had standout features or better attention to detail, while this one feels more like a solid baseline option. There's nothing that makes me want to recommend it enthusiastically, but there's also nothing that frustrates me enough to switch."
+  },
+  {
+    "testCaseLabel": "AGR-3",
+    "domain": "agreement",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "The product does what it's supposed to do, nothing more or less. Can't complain, but nothing special either."
+  },
+  {
+    "testCaseLabel": "AGR-3",
+    "domain": "agreement",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "I mean, it's kind of hard to say because there are definitely things about it that work well, but then there are other aspects that feel like they could be better, I guess. It's not like I'm frustrated with it or anything, but I'm not exactly thrilled either—it's sort of just... fine, you know?"
+  },
+  {
+    "testCaseLabel": "AGR-3",
+    "domain": "agreement",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "The product does what it's supposed to do, but nothing special—it gets the job done and that's enough for me. I wouldn't go out of my way to recommend it, but I'm not frustrated with it either."
+  },
+  {
+    "testCaseLabel": "AGR-3",
+    "domain": "agreement",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "I mean, it's fine—like, it does what it's supposed to do, but nothing really jumps out at me as like, super impressive or disappointing either way. Could be better, could be worse, you know?"
+  },
+  {
+    "testCaseLabel": "AGR-4",
+    "domain": "agreement",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "This product delivers on what matters most to me—it does its job reliably and the build quality feels solid. There are a couple of minor things that could be refined, like the interface could be more intuitive, but they don't detract from the overall experience. I'd genuinely recommend it to colleagues and wouldn't hesitate to purchase from this brand again."
+  },
+  {
+    "testCaseLabel": "AGR-4",
+    "domain": "agreement",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "Product works fine and does what it's supposed to do. Nothing fancy, but it gets the job done."
+  },
+  {
+    "testCaseLabel": "AGR-4",
+    "domain": "agreement",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "I think the product actually works pretty well for what I need, though there are definitely some small things that could be better. It's kind of exceeded my expectations in most ways, even if it's not absolutely perfect or anything. I guess I'd say I'm genuinely happy with it overall, just with maybe a few minor quibbles here and there."
+  },
+  {
+    "testCaseLabel": "AGR-4",
+    "domain": "agreement",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "The product does what it's supposed to do and holds up well, though there are a couple of small things that could be better. Overall, I'd recommend it without hesitation."
+  },
+  {
+    "testCaseLabel": "AGR-4",
+    "domain": "agreement",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "Yeah, I'm pretty happy with it honestly—does what it's supposed to do and it's solid quality. There's like a couple small things that could be better, but nothing that's gonna make me regret getting it."
+  },
+  {
+    "testCaseLabel": "AGR-5",
+    "domain": "agreement",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "This product consistently delivers on what it promises—the build quality is solid, the design is intuitive, and it's performed reliably through daily use without any hiccups. I appreciate that the manufacturer clearly invested in the details, from the packaging to the user interface, which shows they care about the customer experience. It's genuinely one of the better purchases I've made in this category, and I'd recommend it to anyone looking for something dependable in this space."
+  },
+  {
+    "testCaseLabel": "AGR-5",
+    "domain": "agreement",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "Product does exactly what it's supposed to do. Can't ask for better than that."
+  },
+  {
+    "testCaseLabel": "AGR-5",
+    "domain": "agreement",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "The product really does seem to deliver on what it promises, which I kind of appreciate more than I expected to. I guess I'm genuinely pleased with how well it's holding up and doing what it's supposed to do, though I suppose there's always room for something to improve somewhere."
+  },
+  {
+    "testCaseLabel": "AGR-5",
+    "domain": "agreement",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "This product does exactly what it's supposed to do without any fuss, and I'd definitely buy it again. I don't have time for things that don't work, so when something actually delivers, that matters to me."
+  },
+  {
+    "testCaseLabel": "AGR-5",
+    "domain": "agreement",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "This product absolutely slaps, honestly couldn't ask for better quality! Like, I've been using it constantly and it just keeps delivering every single time, no complaints whatsoever."
+  },
+  {
+    "testCaseLabel": "AGR-2s",
+    "domain": "agreement",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "The product hasn't delivered what I expected based on the marketing materials and price point. I've noticed the stitching is already coming loose after just a few weeks of regular use, and the color faded noticeably after the first wash despite following care instructions. For what I paid, I'd expect better durability and attention to quality control."
+  },
+  {
+    "testCaseLabel": "AGR-2s",
+    "domain": "agreement",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "This product doesn't hold up. I expected better for what I paid."
+  },
+  {
+    "testCaseLabel": "AGR-2s",
+    "domain": "agreement",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "I guess I'm kind of disappointed because it doesn't really match what I was hoping for, you know? It sort of feels like it's below what I'd expect at this price point, though I mean, it does work okay for the most part. There are definitely some things that could be better, and I'm not sure I'd recommend it to someone else, but I also don't want to say it's totally terrible or anything."
+  },
+  {
+    "testCaseLabel": "AGR-2s",
+    "domain": "agreement",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "This product didn't hold up like I expected it to. I've had better quality for the same price, and honestly, I'm disappointed enough that I probably won't buy it again."
+  },
+  {
+    "testCaseLabel": "AGR-2s",
+    "domain": "agreement",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "Man, this thing really let me down honestly—I was expecting way better quality for what I paid. It's got some solid features but the build feels cheap and it's already showing wear after just a couple weeks of normal use."
+  },
+  {
+    "testCaseLabel": "AGR-4s",
+    "domain": "agreement",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "The product delivers on what it promises and handles the core functions really well—I've been using it consistently for a few months now and it's become reliable in my daily workflow. There are a couple of small friction points, like the interface could be more intuitive in certain areas, but they don't significantly impact the value I'm getting from it. Overall, I'd recommend this to colleagues and I'm confident enough to stick with it rather than explore alternatives."
+  },
+  {
+    "testCaseLabel": "AGR-4s",
+    "domain": "agreement",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "Product does what it's supposed to do and does it well. Got a couple minor quibbles, but nothing that would make me regret buying it."
+  },
+  {
+    "testCaseLabel": "AGR-4s",
+    "domain": "agreement",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "I think the product is pretty solid overall, kind of exceeds what I was expecting in most ways, though there are a few small things that could be better. I guess I'd say I'm genuinely happy with it, even if it's not absolutely perfect or anything."
+  },
+  {
+    "testCaseLabel": "AGR-4s",
+    "domain": "agreement",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "The product does what it's supposed to do and holds up well, though there are a couple of small things that could be better. Overall, I'd definitely recommend it."
+  },
+  {
+    "testCaseLabel": "AGR-4s",
+    "domain": "agreement",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "Yeah, I'm pretty happy with it overall—like, it does what it's supposed to do and hasn't let me down. There's just a couple little things that could be better, but honestly nothing that's gonna make me regret getting it."
+  },
+  {
+    "testCaseLabel": "AGR-3e",
+    "domain": "agreement",
+    "difficulty": "edge",
+    "targetRating": 3,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "The product does what it's supposed to do, but it's not without its quirks. I've seen comparable options that handle certain features more elegantly, while this one excels in areas where others fall short. It's the kind of thing where I'd need to weigh my specific priorities before deciding if it's the right fit for my needs."
+  },
+  {
+    "testCaseLabel": "AGR-3e",
+    "domain": "agreement",
+    "difficulty": "edge",
+    "targetRating": 3,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "The product does what it's supposed to do, nothing more or less. It's fine."
+  },
+  {
+    "testCaseLabel": "AGR-3e",
+    "domain": "agreement",
+    "difficulty": "edge",
+    "targetRating": 3,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "I guess the product does what it's supposed to do, but it's kind of hard to say I'm really excited about it or anything—it's just sort of... fine? Like, there are definitely things about it that work well, but then there are also aspects that feel a bit lacking, so I'm not sure I'd call myself satisfied exactly, but I'm not dissatisfied either."
+  },
+  {
+    "testCaseLabel": "AGR-3e",
+    "domain": "agreement",
+    "difficulty": "edge",
+    "targetRating": 3,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "The product does what it's supposed to do, but nothing special—it gets the job done without any real complaints or standout features. I'd use it again if I needed to, but I'm not going out of my way to recommend it to anyone."
+  },
+  {
+    "testCaseLabel": "AGR-3e",
+    "domain": "agreement",
+    "difficulty": "edge",
+    "targetRating": 3,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "I am satisfied with the overall quality of this product.",
+    "generatedText": "Yeah honestly the product's fine, like it does what it's supposed to do but nothing really blew me away about it either. It's just... there, you know?"
+  },
+  {
+    "testCaseLabel": "EASE-1",
+    "domain": "ease",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "I spent twenty minutes clicking through your site looking for pricing details on your enterprise packages, only to find the information buried in a PDF that wasn't even linked from your main services page. The navigation structure made me assume features I was searching for didn't exist, when they actually did—I just couldn't locate them through any logical path. Your search function returned irrelevant results, which forced me to give up and contact your sales team instead of getting answers independently. It was frustrating because I wanted to evaluate your offering on my own terms before committing to a conversation."
+  },
+  {
+    "testCaseLabel": "EASE-1",
+    "domain": "ease",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "Your website is a mess. I wasted twenty minutes hunting for basic information that should be right up front."
+  },
+  {
+    "testCaseLabel": "EASE-1",
+    "domain": "ease",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "Finding what I needed was kind of a nightmare, to be honest—I ended up clicking through like a million different pages and still couldn't locate the specific thing I was after. I guess the navigation could be clearer, or maybe I'm just not great at using websites, but it felt pretty frustrating either way. The search function didn't really help much, which sort of made the whole experience worse."
+  },
+  {
+    "testCaseLabel": "EASE-1",
+    "domain": "ease",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "Your website is a maze—I spent twenty minutes clicking around before I gave up and called instead. The search function doesn't work, and nothing's organized logically."
+  },
+  {
+    "testCaseLabel": "EASE-1",
+    "domain": "ease",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "Dude, finding anything on that website was a nightmare honestly. I was clicking around forever and just kept getting lost, it was so frustrating!"
+  },
+  {
+    "testCaseLabel": "EASE-2",
+    "domain": "ease",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "I had to dig through multiple pages and menu sections before I found what I needed, and even then I wasn't confident I had the right information. The navigation structure doesn't match how I naturally think about your product categories, so I kept backtracking and second-guessing myself. Your website falls short of what I'd expect from a company in your space—competitors make this process much more intuitive."
+  },
+  {
+    "testCaseLabel": "EASE-2",
+    "domain": "ease",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "Your site's a mess—took me forever to find what I needed. Won't be coming back if you don't fix the navigation."
+  },
+  {
+    "testCaseLabel": "EASE-2",
+    "domain": "ease",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "I kind of struggled to locate what I needed, honestly—like, the navigation felt a bit confusing and I ended up going in circles before finding anything useful. I guess I was expecting it to be more straightforward, so it's a little disappointing in that sense. The information is probably there somewhere, but it sort of requires more digging than it probably should."
+  },
+  {
+    "testCaseLabel": "EASE-2",
+    "domain": "ease",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "Your website made me hunt around way too much for basic information I needed quickly. I'd expect better organization from a healthcare site, honestly—my time is limited and I shouldn't have to dig through multiple pages just to find contact numbers or appointment details."
+  },
+  {
+    "testCaseLabel": "EASE-2",
+    "domain": "ease",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "Man, your site was honestly kind of a mess to navigate through – I was bouncing around for like ten minutes before I found what I needed and it was frustrating. Definitely expected better from you guys, not gonna lie."
+  },
+  {
+    "testCaseLabel": "EASE-3",
+    "domain": "ease",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "The website layout is straightforward enough that I can usually locate what I need, but it often takes me a few extra clicks to get there. I found the product pages clearly organized, though the search function could be more intuitive when looking for specific features or comparisons. It's functional and gets the job done, but I wouldn't say the navigation feels particularly polished or intuitive either."
+  },
+  {
+    "testCaseLabel": "EASE-3",
+    "domain": "ease",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "Your website's fine—I found what I needed, but it wasn't laid out in any special way that made it obvious."
+  },
+  {
+    "testCaseLabel": "EASE-3",
+    "domain": "ease",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "I kind of had a mixed experience, honestly—like, some things were pretty straightforward to locate, but then other stuff took me a while to track down, I guess. It wasn't frustrating or anything, but it also wasn't super intuitive, if that makes sense."
+  },
+  {
+    "testCaseLabel": "EASE-3",
+    "domain": "ease",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "The site had what I needed, but I had to poke around a bit to find it—nothing terrible, just could've been more straightforward."
+  },
+  {
+    "testCaseLabel": "EASE-3",
+    "domain": "ease",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "The site's pretty middle-of-the-road honestly—like I could find what I needed but it took some clicking around, you know? Wasn't frustrating or anything, just wasn't super intuitive either."
+  },
+  {
+    "testCaseLabel": "EASE-4",
+    "domain": "ease",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "I was able to locate what I needed pretty quickly—your navigation structure made sense and the search function pulled up relevant results right away. That said, I did have to poke around a bit in your resources section before I found the specific case studies I was looking for, which could have been more intuitive. Overall, the experience was straightforward and I'd be comfortable directing colleagues to your site."
+  },
+  {
+    "testCaseLabel": "EASE-4",
+    "domain": "ease",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "Found what I needed without much hassle. Site's laid out sensibly, though the search function could be sharper."
+  },
+  {
+    "testCaseLabel": "EASE-4",
+    "domain": "ease",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "I mean, I found what I needed pretty quickly, which was kind of nice, though I guess there were a few moments where I had to click around a bit to figure out where things were. Overall it seemed pretty straightforward and I didn't run into major frustrations or anything like that."
+  },
+  {
+    "testCaseLabel": "EASE-4",
+    "domain": "ease",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "The site layout made sense and I found what I needed pretty quickly. A couple of sections could be organized better, but overall it wasn't frustrating."
+  },
+  {
+    "testCaseLabel": "EASE-4",
+    "domain": "ease",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "Honestly finding stuff on your site was pretty straightforward, like I knew where to click and things loaded fast which was awesome. There were maybe a couple spots where I had to poke around a bit longer than I expected, but nothing that made me want to throw my phone across the room lol."
+  },
+  {
+    "testCaseLabel": "EASE-5",
+    "domain": "ease",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "The website layout made it straightforward to locate exactly what I needed—the navigation menu was intuitive and the search function delivered relevant results immediately. I appreciated how the information was organized by category, so I could browse related topics without jumping between different sections. It's refreshing when a site respects your time by getting you to the right content without unnecessary clicks or confusion."
+  },
+  {
+    "testCaseLabel": "EASE-5",
+    "domain": "ease",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "Found everything I needed right away. Your site's laid out properly and doesn't waste my time with clutter."
+  },
+  {
+    "testCaseLabel": "EASE-5",
+    "domain": "ease",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "The website layout kind of just made sense to me, so I found what I needed pretty quickly without much hassle. I guess I was pleasantly surprised by how straightforward it all was, though I suppose that's probably what good design is supposed to do anyway."
+  },
+  {
+    "testCaseLabel": "EASE-5",
+    "domain": "ease",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "Your site is straightforward—I found exactly what I needed without any hassle. That's how it should be."
+  },
+  {
+    "testCaseLabel": "EASE-5",
+    "domain": "ease",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "Dude, finding stuff on your site was literally so smooth—like I knew exactly where to go and boom, there it was! Honestly made my day way easier than I expected, so props to whoever designed that."
+  },
+  {
+    "testCaseLabel": "EASE-4s",
+    "domain": "ease",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "I found what I needed pretty quickly—your product pages are well-organized and the search function pulled up exactly what I was looking for. The only thing that gave me a tiny bit of pause was that some of the technical specs were buried a couple of clicks deeper than I expected, but it wasn't a real obstacle. Overall, navigating your site felt straightforward and intuitive."
+  },
+  {
+    "testCaseLabel": "EASE-4s",
+    "domain": "ease",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "Found what I needed without much fuss. Site layout made sense, though a couple things could be organized better."
+  },
+  {
+    "testCaseLabel": "EASE-4s",
+    "domain": "ease",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "The website layout kind of made sense to me, like I found what I needed pretty quickly, though I guess there were a couple spots where I had to poke around a bit before landing on the right page. I'd say it was pretty straightforward overall, even if the navigation could sort of be a touch more intuitive in places."
+  },
+  {
+    "testCaseLabel": "EASE-4s",
+    "domain": "ease",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "The site layout made sense and I found what I needed pretty quickly. There were a couple of spots where I had to poke around, but nothing that held me up."
+  },
+  {
+    "testCaseLabel": "EASE-4s",
+    "domain": "ease",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "Finding what I needed was pretty straightforward, honestly the site layout just makes sense. There were a couple spots where I had to poke around a bit, but nothing that made me want to pull my hair out or anything!"
+  },
+  {
+    "testCaseLabel": "EASE-2s",
+    "domain": "ease",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "I spent quite a bit of time hunting through your site trying to find pricing details for your enterprise packages, and I kept getting redirected in circles between different pages. The navigation structure made it feel like information was scattered across multiple sections with no clear pathway, which was frustrating given that I had a specific goal in mind. I expected a more intuitive layout based on your reputation in the industry."
+  },
+  {
+    "testCaseLabel": "EASE-2s",
+    "domain": "ease",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "Your website's a mess. I spent twenty minutes hunting for basic specs that should be on the front page."
+  },
+  {
+    "testCaseLabel": "EASE-2s",
+    "domain": "ease",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "I kind of struggled to find what I needed, to be honest—like, the navigation felt pretty unclear and I ended up clicking through way more pages than I probably should have. I guess I was expecting something more straightforward, so it was sort of disappointing in that way. It's possible I just missed something obvious, but the overall experience felt harder than it needed to be."
+  },
+  {
+    "testCaseLabel": "EASE-2s",
+    "domain": "ease",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "Your website made me hunt around way too much—I couldn't find what I needed without clicking through multiple pages. I expected better navigation since you're supposed to be a healthcare provider."
+  },
+  {
+    "testCaseLabel": "EASE-2s",
+    "domain": "ease",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "Dude, honestly it was pretty frustrating trying to navigate that site—like I had to click through way too many random pages just to find what I needed. Definitely not what I was hoping for, kinda disappointed tbh."
+  },
+  {
+    "testCaseLabel": "EASE-3e",
+    "domain": "ease",
+    "difficulty": "edge",
+    "targetRating": 3,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "The website layout is functional, but I had to dig through a couple of different sections before I found what I needed. It wasn't frustrating or anything, just required a bit more clicking around than I would've preferred. The information itself was clear once I located it, though a better search function or more intuitive navigation would've saved me some time."
+  },
+  {
+    "testCaseLabel": "EASE-3e",
+    "domain": "ease",
+    "difficulty": "edge",
+    "targetRating": 3,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "Your website's fine—nothing special, nothing wrong. I found what I needed, but it wasn't laid out in any way that made it obvious."
+  },
+  {
+    "testCaseLabel": "EASE-3e",
+    "domain": "ease",
+    "difficulty": "edge",
+    "targetRating": 3,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "I mean, it was kind of hit or miss—like, some things were pretty straightforward to locate, but then I'd get a little lost trying to find other stuff, I guess. It wasn't frustrating or anything, but it also wasn't like everything just jumped out at me either."
+  },
+  {
+    "testCaseLabel": "EASE-3e",
+    "domain": "ease",
+    "difficulty": "edge",
+    "targetRating": 3,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "The website works fine—I found what I needed, but it took a bit of clicking around to get there. Nothing frustrating, just could be more straightforward."
+  },
+  {
+    "testCaseLabel": "EASE-3e",
+    "domain": "ease",
+    "difficulty": "edge",
+    "targetRating": 3,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "The site's okay, like it took me a minute to figure out where stuff was but I got what I needed eventually. Could be clearer but it's not frustrating or anything, you know?"
+  },
+  {
+    "testCaseLabel": "EASE-4e",
+    "domain": "ease",
+    "difficulty": "edge",
+    "targetRating": 4,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "The site layout made it straightforward to locate what I needed—the navigation menu was intuitive and the search function pulled up relevant results quickly. I did have to dig through a couple of pages to find specific details about your service options, but overall the information architecture worked well for my purposes. The main content areas were clearly labeled, which saved me time compared to other sites I've used recently."
+  },
+  {
+    "testCaseLabel": "EASE-4e",
+    "domain": "ease",
+    "difficulty": "edge",
+    "targetRating": 4,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "Found what I needed without much trouble. Site's organized well enough, though the search function could be sharper."
+  },
+  {
+    "testCaseLabel": "EASE-4e",
+    "domain": "ease",
+    "difficulty": "edge",
+    "targetRating": 4,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "I found what I needed pretty quickly, though I guess there were a couple of things that could've been organized slightly better—like, the navigation kind of made sense once I got used to it, but it took me a minute to figure out where everything was at first."
+  },
+  {
+    "testCaseLabel": "EASE-4e",
+    "domain": "ease",
+    "difficulty": "edge",
+    "targetRating": 4,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "The site was straightforward—I found what I needed pretty quickly. There were a couple of sections that could've been labeled better, but nothing that stopped me."
+  },
+  {
+    "testCaseLabel": "EASE-4e",
+    "domain": "ease",
+    "difficulty": "edge",
+    "targetRating": 4,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How easy was it to find the information you were looking for on our website?",
+    "generatedText": "Yeah, the site was pretty straightforward to navigate—I found what I needed without too much hassle. There were a couple spots where things could've been laid out a bit clearer, but honestly nothing that got in my way."
+  },
+  {
+    "testCaseLabel": "IMP-1",
+    "domain": "importance",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Fast shipping honestly doesn't factor into my decision-making at all—in fact, my last experience with expedited delivery actually turned me off from prioritizing it. I ordered something that arrived in two days, but the packaging was damaged and the product came with missing components, which created way more hassle than if I'd just waited for standard shipping. Now I'm more focused on finding retailers with reliable quality control and good return policies, since those actually protect me when something goes wrong. Speed means nothing if what shows up at my door isn't what I paid for."
+  },
+  {
+    "testCaseLabel": "IMP-1",
+    "domain": "importance",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Fast shipping doesn't matter to me one bit—I'd rather wait and pay less than get gouged for overnight delivery. Had a company promise me two-day shipping, took three weeks, and they wouldn't refund the fee."
+  },
+  {
+    "testCaseLabel": "IMP-1",
+    "domain": "importance",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "I guess fast shipping kind of seems like a marketing thing that doesn't really matter to me, especially since I had this awful experience where something arrived \"fast\" but completely damaged. It's sort of made me realize that getting something quickly doesn't mean much if it shows up broken, you know? I'd rather wait longer for something that actually arrives in decent condition than rush through the whole process."
+  },
+  {
+    "testCaseLabel": "IMP-1",
+    "domain": "importance",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Fast shipping doesn't matter to me—what matters is getting something that actually works when it arrives. I ordered from a place with \"guaranteed next-day delivery\" last month and the item was broken, so I wasted two weeks going back and forth trying to return it."
+  },
+  {
+    "testCaseLabel": "IMP-1",
+    "domain": "importance",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Honestly fast shipping is so overrated, like I'd rather wait a few extra days and actually get what I ordered intact than have some company rush it and send me broken stuff. That happened to me once and it was such a nightmare dealing with returns, totally killed it for me."
+  },
+  {
+    "testCaseLabel": "IMP-2",
+    "domain": "importance",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Honestly, fast shipping rarely factors into my decisions—I'm usually planning ahead anyway, so I just work around standard delivery timelines. What actually matters to me is whether the product itself meets my needs and if the price makes sense; I'd rather wait an extra week for something I genuinely want than rush-order something mediocre. I've been let down too many times by retailers who prioritize speed but skimp on quality or packaging, so I've learned that expedited shipping often masks other shortcomings. At this point, I'm more frustrated when companies use fast shipping as their main selling point instead of focusing on the fundamentals like product accuracy and customer service."
+  },
+  {
+    "testCaseLabel": "IMP-2",
+    "domain": "importance",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Fast shipping doesn't matter much to me—I plan ahead anyway. If a company can't get it right in a reasonable timeframe, that's a different problem."
+  },
+  {
+    "testCaseLabel": "IMP-2",
+    "domain": "importance",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "I guess fast shipping kind of feels like a given at this point rather than something that actually influences where I shop, so it's not really a major factor for me. It's more that when shipping *is* slow, I'm sort of let down, but that's different from it being something I'm actively seeking out, if that makes sense. The whole thing feels a bit oversold as this major decision-maker when there are other things that matter way more to me."
+  },
+  {
+    "testCaseLabel": "IMP-2",
+    "domain": "importance",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Fast shipping doesn't really factor into my decision—I plan ahead and order when I need something, so waiting a few extra days isn't a problem. Honestly, I'm more bothered by places that charge ridiculous shipping fees or make the whole process complicated than I am about speed."
+  },
+  {
+    "testCaseLabel": "IMP-2",
+    "domain": "importance",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Honestly fast shipping isn't really a dealbreaker for me—like I'll wait an extra week if the price is right, you know? It's kinda disappointing when places hype up their shipping times like it's some huge perk when the stuff arrives damaged or whatever. I'd rather get something that actually works than something that just shows up quick, tbh."
+  },
+  {
+    "testCaseLabel": "IMP-3",
+    "domain": "importance",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Fast shipping is definitely something I consider, but it's not a make-or-break factor for me. If a retailer has exactly what I need at a good price, I'm willing to wait a few extra days—though I'd obviously prefer not to. What matters more is whether the product arrives in good condition and matches the description, since I've had experiences where rushed shipping meant damaged items."
+  },
+  {
+    "testCaseLabel": "IMP-3",
+    "domain": "importance",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Shipping speed doesn't make or break it for me—I'll wait a few extra days if the price is right and the product's what I need."
+  },
+  {
+    "testCaseLabel": "IMP-3",
+    "domain": "importance",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "I think it matters, but kind of depends on what I'm buying and how much of a rush I'm in, you know? Like, it's definitely nice when things arrive quickly, but I guess I'm willing to wait a bit longer if the price is right or the product is exactly what I want."
+  },
+  {
+    "testCaseLabel": "IMP-3",
+    "domain": "importance",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Fast shipping is nice when I need something quickly, but it's not a deal-breaker for me—I'm usually flexible on timing if the price is right and the product quality is good."
+  },
+  {
+    "testCaseLabel": "IMP-3",
+    "domain": "importance",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Honestly, it's like... it matters sometimes but not enough to make or break where I shop, you know? If shipping's gonna take forever I'll probably look elsewhere, but I'm not gonna stress if it takes an extra few days either."
+  },
+  {
+    "testCaseLabel": "IMP-4",
+    "domain": "importance",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Fast shipping is definitely a major factor for me when I'm choosing where to shop online. I work long hours and have limited time to wait around for deliveries, so knowing something will arrive quickly affects whether I'll complete a purchase or abandon my cart. That said, I won't always pick the fastest option if it means paying an exorbitant fee or if the product quality seems compromised—there's a balance between speed and value that matters to me."
+  },
+  {
+    "testCaseLabel": "IMP-4",
+    "domain": "importance",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Fast shipping matters to me—I'm not waiting around for stuff to show up weeks later. That said, I won't pay a fortune for overnight delivery if standard gets here in a few days."
+  },
+  {
+    "testCaseLabel": "IMP-4",
+    "domain": "importance",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Fast shipping kind of matters a lot to me when I'm choosing where to shop, I guess because waiting around for stuff is pretty frustrating. That said, I'm willing to be a bit more patient if the price is significantly better or if it's something I don't need right away, so it's not like it's the only thing I consider."
+  },
+  {
+    "testCaseLabel": "IMP-4",
+    "domain": "importance",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Fast shipping is pretty much a deal-breaker for me at this point—I don't have time to wait around, and honestly, if I'm ordering something, I need it reasonably quick. That said, I'm not going to pay crazy fees just to get something a day earlier, so it has to make sense price-wise."
+  },
+  {
+    "testCaseLabel": "IMP-4",
+    "domain": "importance",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Honestly, fast shipping is like a huge deal for me—if I'm ordering something, I want it here ASAP, not waiting around forever. There are definitely times when I'll pay extra just to get stuff quicker, but I guess it depends on what I'm buying and how badly I need it. It's probably one of the main things I check before I decide where to order from, not gonna lie."
+  },
+  {
+    "testCaseLabel": "IMP-5",
+    "domain": "importance",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Fast shipping is absolutely crucial to my shopping decisions—I won't even consider retailers that take weeks to deliver unless there's something truly unique I can't find elsewhere. When I'm buying something, I'm usually thinking about when I'll actually need it, and waiting around just creates friction. The brands I keep coming back to are the ones that get packages to my door within a couple of days because that reliability means I can trust them with my time and money."
+  },
+  {
+    "testCaseLabel": "IMP-5",
+    "domain": "importance",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Fast shipping is the difference between a good retailer and one I won't bother with again. If they can't get it to me quickly, I'm taking my business elsewhere."
+  },
+  {
+    "testCaseLabel": "IMP-5",
+    "domain": "importance",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Fast shipping is kind of essential for me, I guess—like, it definitely influences where I decide to spend my money because waiting around for stuff is frustrating. I mean, I appreciate when a place can get things to me quickly, though I suppose some retailers make it work even without the fastest options. But yeah, when I have the choice, I'm definitely drawn to places that prioritize getting orders out speedily."
+  },
+  {
+    "testCaseLabel": "IMP-5",
+    "domain": "importance",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Fast shipping is absolutely crucial for me—when you're juggling work and kids, waiting around for deliveries just isn't realistic. I'll honestly choose a retailer with quicker options even if it costs a bit more because getting what I need when I actually need it saves me so much stress."
+  },
+  {
+    "testCaseLabel": "IMP-5",
+    "domain": "importance",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Dude, fast shipping is literally everything to me – like, if I'm ordering something I want it ASAP, not waiting around forever. It's honestly one of the biggest factors in where I shop because nothing kills the vibe like ordering something and then just... waiting endlessly."
+  },
+  {
+    "testCaseLabel": "IMP-4s",
+    "domain": "importance",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Fast shipping is a major factor for me—when I'm ordering something, I want it to arrive within a few days, not weeks. I've definitely chosen one retailer over another based on their delivery speed, especially when I need something for an upcoming event or project. That said, I'm willing to be a bit flexible if a slower option offers significantly better pricing or product selection, though that's becoming rarer as same-day and next-day delivery become standard."
+  },
+  {
+    "testCaseLabel": "IMP-4s",
+    "domain": "importance",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Fast shipping matters to me—I don't like waiting around for stuff I've already paid for. That said, I'm not going to overpay just to get something a day earlier if the price difference is ridiculous."
+  },
+  {
+    "testCaseLabel": "IMP-4s",
+    "domain": "importance",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Fast shipping is kind of a big deal for me when I'm shopping online, I guess—like, it definitely influences where I'll buy from. That said, I'll sort of weigh it against other things like price or whether they actually have what I need, so it's not always the deciding factor, but it's definitely up there."
+  },
+  {
+    "testCaseLabel": "IMP-4s",
+    "domain": "importance",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Fast shipping makes a real difference—when I'm ordering something, I need it to actually arrive when promised, not sit in a warehouse for weeks. That said, I won't pay crazy fees for it, so I try to plan ahead when I can."
+  },
+  {
+    "testCaseLabel": "IMP-4s",
+    "domain": "importance",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Honestly fast shipping is like, pretty much a dealbreaker for me at this point—I'm not trying to wait forever for something I ordered. That said, I'll still shop somewhere if the price is way better, but yeah, if two places have the same stuff, I'm definitely going with whoever gets it to me quicker."
+  },
+  {
+    "testCaseLabel": "IMP-3s",
+    "domain": "importance",
+    "difficulty": "subtle",
+    "targetRating": 3,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Fast shipping matters to me, but it's honestly just one piece of the puzzle. I'll choose a retailer with slightly slower delivery if their product quality is better or the price is significantly lower, but I also won't tolerate waiting two weeks for something I need in a reasonable timeframe. It really depends on what I'm buying and how urgent it is—a birthday gift has different requirements than office supplies."
+  },
+  {
+    "testCaseLabel": "IMP-3s",
+    "domain": "importance",
+    "difficulty": "subtle",
+    "targetRating": 3,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Shipping speed doesn't make or break it for me—I'll wait a few extra days if the price is right and the product's what I need."
+  },
+  {
+    "testCaseLabel": "IMP-3s",
+    "domain": "importance",
+    "difficulty": "subtle",
+    "targetRating": 3,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "I mean, it matters kind of depending on what I'm buying, I guess? Like if I need something urgently it's definitely a factor, but honestly most of the time I'm willing to wait a bit if the price is right or the product is what I actually want."
+  },
+  {
+    "testCaseLabel": "IMP-3s",
+    "domain": "importance",
+    "difficulty": "subtle",
+    "targetRating": 3,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Shipping speed matters when I'm in a pinch, but honestly I plan ahead most of the time so it's not a dealbreaker either way. I care more about getting what I need without overpaying for expedited delivery."
+  },
+  {
+    "testCaseLabel": "IMP-3s",
+    "domain": "importance",
+    "difficulty": "subtle",
+    "targetRating": 3,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Honestly, it's kinda whatever to me—like, I'm not gonna lose sleep if something takes an extra few days, but I also don't wanna wait forever, you know? It's just one of those things that's nice to have but doesn't really make or break my decision."
+  },
+  {
+    "testCaseLabel": "IMP-2e",
+    "domain": "importance",
+    "difficulty": "edge",
+    "targetRating": 2,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Fast shipping really isn't a factor for me—I'd rather wait an extra week for a company that has their act together in other ways. When I ordered from that boutique furniture retailer last month, they took three weeks to deliver, but the quality was exceptional and their customer service actually responded to my questions, unlike some of these places that promise two-day delivery but send damaged items. Honestly, I've had terrible experiences with retailers who prioritize speed over everything else; they cut corners on packaging and product quality just to hit those shipping windows. What matters to me is getting something that works well and lasts, not how fast it shows up at my door."
+  },
+  {
+    "testCaseLabel": "IMP-2e",
+    "domain": "importance",
+    "difficulty": "edge",
+    "targetRating": 2,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Fast shipping doesn't matter much to me—I plan ahead and order what I need when I need it. If a company can't get basic stuff right, that's the real problem."
+  },
+  {
+    "testCaseLabel": "IMP-2e",
+    "domain": "importance",
+    "difficulty": "edge",
+    "targetRating": 2,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "I guess fast shipping is kind of nice to have, but it's not really what makes or breaks my decision about where to shop—there are other things that matter way more to me, like whether they actually have what I need and if the price is reasonable. Though I'll admit I'm sort of disappointed when places take forever to deliver, so maybe I care about it more than I think I do."
+  },
+  {
+    "testCaseLabel": "IMP-2e",
+    "domain": "importance",
+    "difficulty": "edge",
+    "targetRating": 2,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Fast shipping isn't really a factor for me—I plan ahead anyway since I'm usually juggling work and the kids' schedules. If a place has what I need at a good price, I'll wait the extra days without much fuss."
+  },
+  {
+    "testCaseLabel": "IMP-2e",
+    "domain": "importance",
+    "difficulty": "edge",
+    "targetRating": 2,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Honestly, fast shipping doesn't really move the needle for me—like, I can wait a few extra days if the price is right or the product is actually good, you know? It kinda bugs me when companies act like two-day shipping is this huge deal when the stuff I'm ordering isn't even urgent most of the time."
+  },
+  {
+    "testCaseLabel": "IMP-4e",
+    "domain": "importance",
+    "difficulty": "edge",
+    "targetRating": 4,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Fast shipping is absolutely critical to my shopping decisions—I've completely changed where I buy from based on delivery speed alone. When I'm ordering supplies for work events or gifts that are time-sensitive, waiting two weeks simply isn't an option, so I'll pay extra for expedited delivery without hesitation. That said, I'm willing to be flexible if a retailer offers genuinely better prices or product selection, though I do find myself gravitating toward companies that have made shipping efficiency a priority."
+  },
+  {
+    "testCaseLabel": "IMP-4e",
+    "domain": "importance",
+    "difficulty": "edge",
+    "targetRating": 4,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Fast shipping matters to me—I don't want to wait around for stuff I ordered. That said, I'm not going to pay a fortune for overnight delivery unless it's actually urgent."
+  },
+  {
+    "testCaseLabel": "IMP-4e",
+    "domain": "importance",
+    "difficulty": "edge",
+    "targetRating": 4,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Fast shipping kind of matters a lot to me, I guess—like, it definitely influences where I'll buy from, though I admit I'm willing to wait longer if the price is significantly better or it's something I don't need right away. I sort of see both sides though, because sometimes the environmental cost of overnight shipping makes me feel conflicted about prioritizing speed. But yeah, in general it's pretty important to me when I'm making a purchase decision."
+  },
+  {
+    "testCaseLabel": "IMP-4e",
+    "domain": "importance",
+    "difficulty": "edge",
+    "targetRating": 4,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Fast shipping is pretty much make-or-break for me—when you're juggling work and kids, waiting around for packages isn't an option. That said, I won't pay crazy shipping fees, so it has to be reasonable."
+  },
+  {
+    "testCaseLabel": "IMP-4e",
+    "domain": "importance",
+    "difficulty": "edge",
+    "targetRating": 4,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How important is fast shipping when you decide where to shop online?",
+    "generatedText": "Dude, fast shipping is honestly huge for me—like, I'm not trying to wait around forever for something I ordered, especially when I'm already committed to buying it online instead of just hitting up a store. The only time it doesn't matter as much is if I'm getting something I don't desperately need and the slower option saves me cash, but yeah, quick delivery definitely makes me way more likely to actually complete the purchase."
+  },
+  {
+    "testCaseLabel": "TRU-1",
+    "domain": "trust",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I wouldn't trust them with my data after what happened to me. They had a breach last year that exposed customer information, and their response was inadequate—it took them weeks to notify affected customers and their explanations kept changing. The fact that they've been vague about what security measures they've actually implemented since then makes it worse. I actively avoid giving them any personal information now and would recommend others do the same."
+  },
+  {
+    "testCaseLabel": "TRU-1",
+    "domain": "trust",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "They lost my information in a data breach and took months to tell me about it. I wouldn't trust them with my grocery list."
+  },
+  {
+    "testCaseLabel": "TRU-1",
+    "domain": "trust",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I kind of can't trust them with my data after what happened—they were pretty careless with my information and it's hard to move past that, I guess. Like, I understand companies deal with a lot of data, but that doesn't really excuse what went wrong in my case. I'd probably avoid giving them anything personal if I could, though I realize that might be overly cautious."
+  },
+  {
+    "testCaseLabel": "TRU-1",
+    "domain": "trust",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I wouldn't trust them with my data after what happened—they had a breach and their response was a mess. I've already switched to competitors and tell everyone I know to do the same."
+  },
+  {
+    "testCaseLabel": "TRU-1",
+    "domain": "trust",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "Dude, I don't trust them at all after what happened with my info last year—it was a total mess and they basically ghosted me when I tried to get answers. Like honestly, why would I give them another shot when they clearly don't care about keeping my stuff safe?"
+  },
+  {
+    "testCaseLabel": "TRU-2",
+    "domain": "trust",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I've had some concerning experiences with how they handle customer information—there was that incident where their data breach took weeks to disclose, and I've noticed they're pretty aggressive about collecting information I never asked them to gather. Their privacy policy is buried in legal jargon that feels intentionally obscure, which doesn't inspire confidence. Frankly, I'd rather use a competitor who's more transparent about what they're doing with my data."
+  },
+  {
+    "testCaseLabel": "TRU-2",
+    "domain": "trust",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "They've had breaches before and didn't handle it well—lost my confidence in them. I wouldn't trust them with anything sensitive."
+  },
+  {
+    "testCaseLabel": "TRU-2",
+    "domain": "trust",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I kind of feel like they've had some pretty questionable practices, so I'm not super confident they'd actually keep my data safe, you know? Like, I want to trust them but there's just enough stuff out there that makes me hesitant, I guess. It's sort of disappointing because I'd hoped they'd be better about this than they apparently are."
+  },
+  {
+    "testCaseLabel": "TRU-2",
+    "domain": "trust",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I don't have much confidence in them with my information—they've had issues before and I haven't seen them really fix anything. Honestly, with everything that's happened, I'd rather just avoid giving them data altogether if I can."
+  },
+  {
+    "testCaseLabel": "TRU-2",
+    "domain": "trust",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "Honestly? They've had like three data breaches in the past year, so nah—I'm not feeling confident about trusting them with my stuff anymore. It's pretty disappointing because I used to be way more chill about shopping with them, but at this point I'm just gonna go elsewhere."
+  },
+  {
+    "testCaseLabel": "TRU-3",
+    "domain": "trust",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I'd say the brand seems competent enough with data security based on what I've seen, but I haven't really tested their systems or looked into their privacy practices deeply enough to feel strongly confident either way. They haven't given me any reason to worry, but they also haven't done anything that makes me think they're particularly ahead of the curve on this issue. It's more of a \"they're probably fine\" feeling than genuine conviction."
+  },
+  {
+    "testCaseLabel": "TRU-3",
+    "domain": "trust",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "They do okay, nothing special. I've seen them handle things properly enough, but I'm not betting the farm on it either."
+  },
+  {
+    "testCaseLabel": "TRU-3",
+    "domain": "trust",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I mean, I don't have strong feelings either way about it—they seem kind of fine with data stuff, but I guess I haven't really paid close attention to whether they're doing anything particularly better or worse than other companies, sort of."
+  },
+  {
+    "testCaseLabel": "TRU-3",
+    "domain": "trust",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I don't have any reason to distrust them, but I haven't seen anything that makes me feel confident about it either. They're probably fine, but I'm not banking my life on it."
+  },
+  {
+    "testCaseLabel": "TRU-3",
+    "domain": "trust",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "Honestly, I'm kinda torn on it—like they seem fine but I'm not gonna pretend I know what they're actually doing with my info behind the scenes, you know? They haven't messed up that I'm aware of, but they also haven't really proven anything to me either."
+  },
+  {
+    "testCaseLabel": "TRU-4",
+    "domain": "trust",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I trust them pretty solidly when it comes to protecting my data. They've been transparent about their privacy policies, and I haven't encountered any sketchy practices or breaches that would make me second-guess them. My only hesitation is that no company is completely immune to threats, so I still practice basic caution like using strong passwords and monitoring my accounts—but that's just general prudence on my part."
+  },
+  {
+    "testCaseLabel": "TRU-4",
+    "domain": "trust",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "They do a decent job with my data, better than most outfits I've dealt with. I don't have any major complaints, though I keep my guard up anyway—that's just common sense."
+  },
+  {
+    "testCaseLabel": "TRU-4",
+    "domain": "trust",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I think they're pretty solid with my data, kind of the kind of company that seems to take that stuff seriously, though I guess there's always that underlying worry that nobody's totally bulletproof these days. They've got a decent track record from what I can tell, so I'm fairly comfortable trusting them with my information, but I wouldn't say I'm completely without some nagging doubts in the back of my mind."
+  },
+  {
+    "testCaseLabel": "TRU-4",
+    "domain": "trust",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I trust them pretty well with my information—they seem to take it seriously and haven't given me reason to worry. I'd still be cautious about what I share anywhere, but they're one of the ones I feel good about."
+  },
+  {
+    "testCaseLabel": "TRU-4",
+    "domain": "trust",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "Honestly, I feel pretty good about them with my data—like, they seem legit and I haven't had any sketchy stuff happen. There's always that tiny voice in the back of my head wondering if any company really has it all figured out, but yeah, I'd trust them more than most places."
+  },
+  {
+    "testCaseLabel": "TRU-5",
+    "domain": "trust",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I trust them completely with my personal data. They've been transparent about their privacy practices, and I've watched them actually follow through—when they said they wouldn't sell customer information, they backed it up with their policies. Every interaction I've had with their customer service team shows they take security seriously, from how they handle payment information to how they manage email communications. It's rare to find a company that walks the talk on privacy, but this one genuinely does."
+  },
+  {
+    "testCaseLabel": "TRU-5",
+    "domain": "trust",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "They do it right—keep your data locked down tight and don't mess around with it. That's the kind of company I want to do business with."
+  },
+  {
+    "testCaseLabel": "TRU-5",
+    "domain": "trust",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I kind of feel really confident that they actually take data protection seriously, like they seem to have their act together in a way a lot of companies don't. There's something reassuring about how transparent they are with privacy policies and stuff, even though I guess you can never be totally certain about these things."
+  },
+  {
+    "testCaseLabel": "TRU-5",
+    "domain": "trust",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I trust them completely with my information—they've never given me reason to worry and their security practices are transparent. That kind of reliability is rare these days and honestly makes a real difference in whether I'll do business with them."
+  },
+  {
+    "testCaseLabel": "TRU-5",
+    "domain": "trust",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "Dude, I'm totally confident they've got my back with my info—like, they actually seem to care about keeping stuff secure and not being sketchy about it. It's honestly one of the few brands where I don't stress about handing over my data!"
+  },
+  {
+    "testCaseLabel": "TRU-4s",
+    "domain": "trust",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I trust them to protect my data—they've been transparent about their security practices and haven't given me reason to doubt them. My only hesitation is that no company is completely immune to breaches, so I stay cautious about what information I share with any organization. Overall though, their privacy policies are clearer than most competitors I've worked with, and they seem to take it seriously."
+  },
+  {
+    "testCaseLabel": "TRU-4s",
+    "domain": "trust",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I trust them to handle my data properly. They've been solid so far, though I'd still rather they didn't collect more than necessary."
+  },
+  {
+    "testCaseLabel": "TRU-4s",
+    "domain": "trust",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I think they're pretty solid about protecting my data, kind of like they actually care about that stuff rather than just saying it for legal reasons. There's always that nagging feeling that no company is totally bulletproof, but I guess I'd feel comfortable giving them my information compared to a lot of other places out there."
+  },
+  {
+    "testCaseLabel": "TRU-4s",
+    "domain": "trust",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I trust them pretty well with my information—they seem to take it seriously and I haven't had any issues. There's always that small nagging doubt in the back of my mind since you hear so much about data breaches these days, but overall I feel good about giving them my details."
+  },
+  {
+    "testCaseLabel": "TRU-4s",
+    "domain": "trust",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I'd trust them with my stuff, honestly—like they seem pretty solid about keeping things secure and not being sketchy with my info. There's always that tiny voice in the back of my head wondering if *anyone* is totally bulletproof with data these days, but yeah, they're one of the ones I actually feel good about."
+  },
+  {
+    "testCaseLabel": "TRU-2s",
+    "domain": "trust",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I've had too many experiences with their customer service team mishandling information to feel confident they're taking data security seriously. When I contacted them about a billing issue last year, they asked me to verify sensitive details through an unsecured email chain—that alone told me they weren't prioritizing protection. Their privacy policy is also buried in dense legal language that seems designed to obscure rather than clarify what happens to customer information. I'd expect better from a company at their size and price point."
+  },
+  {
+    "testCaseLabel": "TRU-2s",
+    "domain": "trust",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "They've had breaches before and didn't handle them right. I don't trust them with my data."
+  },
+  {
+    "testCaseLabel": "TRU-2s",
+    "domain": "trust",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I guess I'm kind of disappointed with how they've handled data privacy stuff, like their track record doesn't really inspire much confidence, you know? It's sort of hard to trust them when there's been so much unclear communication about what they're actually doing with information. I mean, maybe they're better than some other companies, but it definitely feels like they're falling short of what I'd expect from a brand I'm supposed to rely on."
+  },
+  {
+    "testCaseLabel": "TRU-2s",
+    "domain": "trust",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I've had issues with how they handle information before, so honestly I'm not confident they take data security seriously enough. At this point I'd rather shop somewhere else if I have options."
+  },
+  {
+    "testCaseLabel": "TRU-2s",
+    "domain": "trust",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "Honestly, I'm not feeling super confident about how they handle my stuff—they've had some sketchy moments that honestly killed my trust a bit. Like, I want to believe they've got my back, but they kinda dropped the ball before and that's hard to come back from, you know?"
+  },
+  {
+    "testCaseLabel": "TRU-3e",
+    "domain": "trust",
+    "difficulty": "edge",
+    "targetRating": 3,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I'd say the brand seems competent enough with data security based on what I've seen, but they haven't given me a compelling reason to feel confident about it either. They handle my information fine in practice, yet I notice they're pretty vague about their actual privacy practices when you dig into the details. I'm not worried about using them, but I'm also not the type to assume they're taking extra precautions beyond what's legally required."
+  },
+  {
+    "testCaseLabel": "TRU-3e",
+    "domain": "trust",
+    "difficulty": "edge",
+    "targetRating": 3,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I don't have a strong opinion either way. They seem competent enough, but I'm not banking my life on it."
+  },
+  {
+    "testCaseLabel": "TRU-3e",
+    "domain": "trust",
+    "difficulty": "edge",
+    "targetRating": 3,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I guess I'm kind of torn on it—like, they seem to have decent security practices, but I don't really know what happens behind the scenes with all my information, you know? It's sort of one of those situations where I don't have a strong reason to distrust them, but I'm not exactly confident either."
+  },
+  {
+    "testCaseLabel": "TRU-3e",
+    "domain": "trust",
+    "difficulty": "edge",
+    "targetRating": 3,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I don't have strong feelings about it either way—they seem fine with data, but I'm not going to lose sleep over it. Same as most companies, really."
+  },
+  {
+    "testCaseLabel": "TRU-3e",
+    "domain": "trust",
+    "difficulty": "edge",
+    "targetRating": 3,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "Honestly, I don't really know what to think about it—like they seem fine but I'm not gonna pretend I trust any company with my stuff completely, you know? It's just one of those things where I'm not worried but I'm not exactly confident either."
+  },
+  {
+    "testCaseLabel": "TRU-4e",
+    "domain": "trust",
+    "difficulty": "edge",
+    "targetRating": 4,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I trust them to protect my data because they've been transparent about their privacy policies and I haven't heard of any major breaches from them like I have with other companies. They seem to take security seriously based on how they handle payment information and the regular security updates they communicate to users. That said, I remain cautious since no company is completely immune to cyber threats, and I always monitor my accounts for unusual activity just to be safe."
+  },
+  {
+    "testCaseLabel": "TRU-4e",
+    "domain": "trust",
+    "difficulty": "edge",
+    "targetRating": 4,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "This brand handles my data responsibly. I've got no major complaints, though I'd still rather they were more transparent about what they do with it."
+  },
+  {
+    "testCaseLabel": "TRU-4e",
+    "domain": "trust",
+    "difficulty": "edge",
+    "targetRating": 4,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I kind of trust them to handle my data responsibly, though I guess there's always that lingering worry in the back of my mind about whether any company can really be totally secure these days. They seem to have decent practices from what I've seen, but I wouldn't say I'm completely carefree about it or anything—it's sort of a qualified confidence, if that makes sense."
+  },
+  {
+    "testCaseLabel": "TRU-4e",
+    "domain": "trust",
+    "difficulty": "edge",
+    "targetRating": 4,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "I trust them pretty well with my information—they seem to take it seriously and haven't given me reason to worry. There's always that nagging feeling in the back of my mind that anything online carries some risk, but honestly, they handle things better than most places I deal with."
+  },
+  {
+    "testCaseLabel": "TRU-4e",
+    "domain": "trust",
+    "difficulty": "edge",
+    "targetRating": 4,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How much do you trust this brand to protect your personal data?",
+    "generatedText": "Honestly, I feel pretty good about them with my data—like, they seem legit and I haven't had any sketchy stuff happen. There's always that tiny voice in the back of my head that's like \"what if,\" but overall I'm not stressed about it, you know?"
+  },
+  {
+    "testCaseLabel": "VAL-1",
+    "domain": "value",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "This product simply doesn't justify what they're charging for it. I bought it expecting quality comparable to competitors in this price range, but the materials feel cheap and it broke after just three weeks of normal use. For what I paid, I could have gotten something far more durable from another brand, and I genuinely regret not doing more research beforehand. The company isn't offering any meaningful warranty either, so I'm essentially out the money with nothing to show for it."
+  },
+  {
+    "testCaseLabel": "VAL-1",
+    "domain": "value",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "This product's a ripoff—I paid good money for something that barely works and fell apart in weeks."
+  },
+  {
+    "testCaseLabel": "VAL-1",
+    "domain": "value",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "I guess the price just doesn't match what you're actually getting—like, I kind of felt like I was paying way more than the product was worth, you know? The whole experience was pretty disappointing, so it's hard to see how anyone would feel like they got their money's worth here. I mean, there might be people who value different things, but from where I'm sitting, it just doesn't add up."
+  },
+  {
+    "testCaseLabel": "VAL-1",
+    "domain": "value",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "This product is a complete waste of money—I could've bought something actually useful with what I spent on this. Save yourself the hassle and look elsewhere, because you'll just end up frustrated like I am."
+  },
+  {
+    "testCaseLabel": "VAL-1",
+    "domain": "value",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "This thing was a total ripoff, honestly not worth what I paid at all. The quality was garbage and it fell apart like immediately, so yeah definitely not getting that money back anytime soon lol. Would've been better off just throwing my cash in the trash tbh."
+  },
+  {
+    "testCaseLabel": "VAL-2",
+    "domain": "value",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "The product doesn't justify what I paid for it—I expected better quality for the price point, especially compared to competitors offering similar features. I've purchased similar items before that delivered more durability and functionality without costing extra, which makes this purchase feel like a step backward. The materials feel cheaper than advertised, and I'm already noticing wear after just a few weeks of regular use."
+  },
+  {
+    "testCaseLabel": "VAL-2",
+    "domain": "value",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "This product doesn't deliver what it costs. I expected better for the money."
+  },
+  {
+    "testCaseLabel": "VAL-2",
+    "domain": "value",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "I guess the price just doesn't match what you're actually getting, kind of feels like you're paying way more than it's worth. It's disappointing because I kind of expected better quality or more features for the cost, so it's sort of left me feeling like I made a mistake with this purchase."
+  },
+  {
+    "testCaseLabel": "VAL-2",
+    "domain": "value",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "This product doesn't deliver what I paid for—I can get better quality for the same price elsewhere. I'm genuinely disappointed and won't be buying it again."
+  },
+  {
+    "testCaseLabel": "VAL-2",
+    "domain": "value",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "Honestly, it's kind of a ripoff for what you're getting—I expected way more for the price and I'm pretty bummed about it."
+  },
+  {
+    "testCaseLabel": "VAL-3",
+    "domain": "value",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "The product delivers what you'd expect for the price—nothing that makes you feel like you overpaid, but also nothing that feels like a steal. It performs its core functions well enough, though I notice some competitors offer similar features at comparable costs. I'd say it's a solid, straightforward purchase rather than something that excites me or frustrates me financially."
+  },
+  {
+    "testCaseLabel": "VAL-3",
+    "domain": "value",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "It does what it's supposed to do for the price—nothing special, nothing to complain about either."
+  },
+  {
+    "testCaseLabel": "VAL-3",
+    "domain": "value",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "I guess it kind of depends on what you're comparing it to, but it seems like you're getting roughly what you'd expect to pay for something like this? It's not like I feel ripped off or anything, but it's also not some amazing deal that blew my mind, you know?"
+  },
+  {
+    "testCaseLabel": "VAL-3",
+    "domain": "value",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "It does what it's supposed to do without breaking the bank, but there's nothing special about it either. I'd buy it again if I needed it, but I'm not going out of my way to recommend it."
+  },
+  {
+    "testCaseLabel": "VAL-3",
+    "domain": "value",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "Honestly, it's like... you get what you pay for, you know? Nothing that's gonna blow your mind or make you feel ripped off, just kinda middle-of-the-road vibes."
+  },
+  {
+    "testCaseLabel": "VAL-4",
+    "domain": "value",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "This product delivers solid value—the quality of materials and thoughtful design justify the price point, especially compared to similar options I've looked at. I do think there are a couple of areas where they could streamline costs without sacrificing what makes it work well, but overall I'd confidently recommend it to someone weighing whether the investment makes sense."
+  },
+  {
+    "testCaseLabel": "VAL-4",
+    "domain": "value",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "Worth every penny, though the packaging could be better. You get solid quality without breaking the bank."
+  },
+  {
+    "testCaseLabel": "VAL-4",
+    "domain": "value",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "I think it's kind of a solid buy, honestly—like, you're getting pretty good quality for what you're paying, though I guess there are maybe a couple of features that feel like they could've been included at this price point. Overall though, I'd say it's definitely worth the money, sort of a no-brainer if you're in the market for something like this."
+  },
+  {
+    "testCaseLabel": "VAL-4",
+    "domain": "value",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "This product does what it's supposed to do without breaking the bank, which is really all I need. For the price, I'm getting solid quality and it'll last me a good while."
+  },
+  {
+    "testCaseLabel": "VAL-4",
+    "domain": "value",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "Honestly, I think you're getting pretty solid bang for your buck with this one – like, it does what it's supposed to do without breaking the bank, which is honestly all I ask for. There's maybe a couple tiny things that could be better, but nothing that's gonna make me regret the purchase or anything."
+  },
+  {
+    "testCaseLabel": "VAL-5",
+    "domain": "value",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "This product delivers exactly what you pay for—I got premium quality without the premium price tag. The materials feel durable, the features actually work as advertised, and I'm not paying for unnecessary bells and whistles. Compared to similar options I've researched, this represents a genuinely smart purchase that I'd confidently recommend to colleagues looking for something reliable."
+  },
+  {
+    "testCaseLabel": "VAL-5",
+    "domain": "value",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "This product delivers exactly what it should for the price—no wasted frills, solid performance, does the job right."
+  },
+  {
+    "testCaseLabel": "VAL-5",
+    "domain": "value",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "I think this product kind of delivers way more than you'd expect for what you're paying, which is pretty great. Like, I guess I was pleasantly surprised by how well it actually works compared to similar things out there. It's definitely one of those purchases where you feel good about the decision afterward, you know?"
+  },
+  {
+    "testCaseLabel": "VAL-5",
+    "domain": "value",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "This product does exactly what it's supposed to do without breaking the bank—I'd buy it again in a heartbeat. For what you're getting, it's a solid choice that doesn't waste your money."
+  },
+  {
+    "testCaseLabel": "VAL-5",
+    "domain": "value",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "Dude, honestly this thing is such a steal for what you're getting – like, the quality is way better than I expected for the price and I'm genuinely stoked about it."
+  },
+  {
+    "testCaseLabel": "VAL-2s",
+    "domain": "value",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "This product doesn't deliver what it promises for the price point. I expected better quality materials and durability based on what I paid, but it feels like corners were cut in the manufacturing. For what competitors are offering at similar price levels, this one falls short in both performance and longevity."
+  },
+  {
+    "testCaseLabel": "VAL-2s",
+    "domain": "value",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "This product doesn't deliver what you're paying for. I expected better quality at this price point."
+  },
+  {
+    "testCaseLabel": "VAL-2s",
+    "domain": "value",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "I kind of feel like I'm not getting what I paid for here, honestly—it's sort of underwhelming compared to what I was expecting. The quality doesn't really match the price tag, though I guess some people might find it acceptable depending on what they're looking for. I'd say it's pretty disappointing overall, but then again, maybe I just had unrealistic expectations going in."
+  },
+  {
+    "testCaseLabel": "VAL-2s",
+    "domain": "value",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "It's overpriced for what you actually get—I expected better quality at this cost. I won't be buying it again."
+  },
+  {
+    "testCaseLabel": "VAL-2s",
+    "domain": "value",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "Man, honestly this thing is just not worth what they're charging for it – I could get way better quality for the same price elsewhere. Total letdown compared to what I was expecting, not gonna lie."
+  },
+  {
+    "testCaseLabel": "VAL-4s",
+    "domain": "value",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "I think this product delivers solid value for what you're paying. The quality of the materials and the functionality genuinely justify the investment, especially compared to similar options in the market. There are a couple of minor features I wish were included at this price point, but they're not deal-breakers by any means. Overall, I'd confidently recommend it to someone looking for a reliable product without breaking the bank."
+  },
+  {
+    "testCaseLabel": "VAL-4s",
+    "domain": "value",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "The product does what it's supposed to do and won't break the bank. Worth the investment if you actually need it."
+  },
+  {
+    "testCaseLabel": "VAL-4s",
+    "domain": "value",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "I think it's kind of a steal, honestly—like, you're getting a lot for what you're paying. There are maybe a couple small things that could be better, but overall the value feels pretty solid to me. I guess I'd say it's definitely worth the price, even if it's not absolutely perfect or anything."
+  },
+  {
+    "testCaseLabel": "VAL-4s",
+    "domain": "value",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "This product does exactly what it's supposed to do without breaking the bank, so I'm happy with it. The quality is solid for the price, though I wish it came with better packaging or lasted a bit longer before needing replacement."
+  },
+  {
+    "testCaseLabel": "VAL-4s",
+    "domain": "value",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "Honestly the price feels pretty fair for what you're getting—like, it does exactly what it's supposed to do without breaking the bank. There's maybe a couple small things that could be better, but nothing that makes me regret the purchase or anything."
+  },
+  {
+    "testCaseLabel": "VAL-3e",
+    "domain": "value",
+    "difficulty": "edge",
+    "targetRating": 3,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "The product delivers what it promises, but it doesn't stand out as either a bargain or an overpriced option—it's solidly middle-of-the-road. You're getting reasonable quality for the price point, though I wouldn't say it offers exceptional savings or compelling advantages that would make me enthusiastically recommend it based on value alone. It's the kind of purchase where you won't feel like you've overpaid, but you also won't feel like you've discovered a great deal."
+  },
+  {
+    "testCaseLabel": "VAL-3e",
+    "domain": "value",
+    "difficulty": "edge",
+    "targetRating": 3,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "It does what it's supposed to do for a fair price. Nothing special, nothing to complain about."
+  },
+  {
+    "testCaseLabel": "VAL-3e",
+    "domain": "value",
+    "difficulty": "edge",
+    "targetRating": 3,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "I mean, it's kind of hard to say because it depends on what you're comparing it to, but I guess it feels like you're getting roughly what you'd expect to pay for something like this? It's not like I feel ripped off or anything, but I wouldn't say it's some amazing deal either—it's sort of just... there, you know?"
+  },
+  {
+    "testCaseLabel": "VAL-3e",
+    "domain": "value",
+    "difficulty": "edge",
+    "targetRating": 3,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "It does what it's supposed to do without breaking the bank, but there's nothing special about it either. I'd buy it again if I needed it, but I wouldn't go out of my way to recommend it."
+  },
+  {
+    "testCaseLabel": "VAL-3e",
+    "domain": "value",
+    "difficulty": "edge",
+    "targetRating": 3,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How would you rate the value for money of this product?",
+    "generatedText": "It's like, it does what it's supposed to do and the price isn't crazy, but it's not gonna blow your mind either—just pretty standard stuff for what you're paying."
+  },
+  {
+    "testCaseLabel": "PI-1",
+    "domain": "purchase_intent",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I wouldn't purchase this product again. My last experience was frustrating—the item arrived damaged, and getting a refund took weeks of back-and-forth emails with customer service. That kind of hassle makes me hesitant to give the brand another chance, especially when there are competitors who handle things more smoothly."
+  },
+  {
+    "testCaseLabel": "PI-1",
+    "domain": "purchase_intent",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "Not buying it. Had a terrible experience last time and won't make that mistake again."
+  },
+  {
+    "testCaseLabel": "PI-1",
+    "domain": "purchase_intent",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I mean, honestly I'm kind of not going to buy it again after what happened last time—that experience was pretty bad and it's hard to move past that, you know? I guess there's always a chance I could change my mind down the road, but right now I'm sort of leaning toward just finding something else that works better for me."
+  },
+  {
+    "testCaseLabel": "PI-1",
+    "domain": "purchase_intent",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I wouldn't touch it—had a nightmare with their customer service last time and it's not worth the headache. Life's too short to deal with companies that don't back up their products."
+  },
+  {
+    "testCaseLabel": "PI-1",
+    "domain": "purchase_intent",
+    "difficulty": "clear",
+    "targetRating": 1,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "Nah, I'm not touching that again after last time—it was honestly such a letdown and I'm still kinda mad about it. There's no way I'm giving them another shot, especially not anytime soon."
+  },
+  {
+    "testCaseLabel": "PI-2",
+    "domain": "purchase_intent",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I don't see myself buying this—it just doesn't align with what I was hoping for. The product feels like it's missing some key features that would actually make it useful for my workflow, and honestly, there are competitors out there doing this better. Unless something significant changes with how it's designed or priced, I'll probably pass and stick with what I'm already using."
+  },
+  {
+    "testCaseLabel": "PI-2",
+    "domain": "purchase_intent",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "Not interested. The product doesn't deliver what you're promising."
+  },
+  {
+    "testCaseLabel": "PI-2",
+    "domain": "purchase_intent",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I kind of doubt I'd actually buy it, honestly—it's just not really what I was hoping for when I looked into it. I guess I'm a bit disappointed because I expected something different, sort of in terms of what it delivers versus what seemed promising at first."
+  },
+  {
+    "testCaseLabel": "PI-2",
+    "domain": "purchase_intent",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I'm not going to buy it—it doesn't do what I need it to do for the price. Save your money and look elsewhere."
+  },
+  {
+    "testCaseLabel": "PI-2",
+    "domain": "purchase_intent",
+    "difficulty": "clear",
+    "targetRating": 2,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "Nah, I'm not feeling it honestly—like it just doesn't hit the way I was hoping it would. Definitely not something I'd grab anytime soon, it's kinda a letdown."
+  },
+  {
+    "testCaseLabel": "PI-3",
+    "domain": "purchase_intent",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I'd need to see how it fits into my actual routine before committing either way. Right now I'm genuinely torn—there's nothing about it that's turning me off, but there's also nothing compelling me to prioritize it over what I'm already using. It really depends on whether it solves a specific problem I'm facing in the next month or if something else comes along first."
+  },
+  {
+    "testCaseLabel": "PI-3",
+    "domain": "purchase_intent",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I might grab it, might not—depends what else comes up and if the price stays reasonable."
+  },
+  {
+    "testCaseLabel": "PI-3",
+    "domain": "purchase_intent",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I kind of see myself maybe picking it up if I happen to need it, but it's not like I'm actively looking for it either, you know? It's one of those things that could go either way depending on what else comes up in the next month, I guess."
+  },
+  {
+    "testCaseLabel": "PI-3",
+    "domain": "purchase_intent",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I'd probably pick it up if I happened to see it on sale, but it's not something I'm actively looking for right now. Depends on what else comes up and whether I actually have time to deal with it."
+  },
+  {
+    "testCaseLabel": "PI-3",
+    "domain": "purchase_intent",
+    "difficulty": "clear",
+    "targetRating": 3,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I mean, it's not really calling to me right now, but I'm not gonna rule it out either—just depends what happens in the next month, you know?"
+  },
+  {
+    "testCaseLabel": "PI-4",
+    "domain": "purchase_intent",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I'd definitely be interested in picking this up soon—it solves a real problem I've been dealing with at work. My only hesitation is that I want to compare it against the alternative option I've been considering, just to make sure I'm making the smartest choice for my budget. Once I do that quick comparison, I'm pretty confident I'll move forward with it."
+  },
+  {
+    "testCaseLabel": "PI-4",
+    "domain": "purchase_intent",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I'd buy it. Got a couple small concerns, but nothing that'd stop me from getting one."
+  },
+  {
+    "testCaseLabel": "PI-4",
+    "domain": "purchase_intent",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I think I'd probably end up buying it, though I guess it depends a bit on whether I actually need it right now or if it's more of a want thing. There's something appealing about it, but I'm kind of the type to sit with decisions for a bit before committing, so maybe not immediately but pretty soon."
+  },
+  {
+    "testCaseLabel": "PI-4",
+    "domain": "purchase_intent",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I'd probably buy it—it solves a real problem I actually have. My only hesitation is whether I can squeeze it into the budget this month, but if I can make room, I'm getting it."
+  },
+  {
+    "testCaseLabel": "PI-4",
+    "domain": "purchase_intent",
+    "difficulty": "clear",
+    "targetRating": 4,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "Yeah, I'd probably grab it honestly – like it actually seems pretty solid for what I need. There's just a couple small things that make me hesitate a tiny bit, but nothing that'd stop me from buying it."
+  },
+  {
+    "testCaseLabel": "PI-5",
+    "domain": "purchase_intent",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I'd absolutely buy this product—it solves a real problem I've been dealing with for months. The design feels intuitive, and it integrates seamlessly with tools I already use daily, which makes it a practical addition rather than something I'd have to learn from scratch. I'm genuinely excited about it and would recommend it to my team."
+  },
+  {
+    "testCaseLabel": "PI-5",
+    "domain": "purchase_intent",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I'd buy it tomorrow if I could. It's exactly what I've been looking for."
+  },
+  {
+    "testCaseLabel": "PI-5",
+    "domain": "purchase_intent",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I'd definitely grab this, like I'm pretty confident I'd pick it up soon. There's something about it that just kind of clicks for me, so I think I'd actually follow through and buy it rather than just bookmarking it and forgetting about it like I usually do."
+  },
+  {
+    "testCaseLabel": "PI-5",
+    "domain": "purchase_intent",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I'd definitely buy it—it solves a real problem I deal with every day and honestly saves me time, which is worth it to me."
+  },
+  {
+    "testCaseLabel": "PI-5",
+    "domain": "purchase_intent",
+    "difficulty": "clear",
+    "targetRating": 5,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I'm totally gonna grab this, like it's exactly what I've been looking for! Genuinely stoked about it, not gonna lie."
+  },
+  {
+    "testCaseLabel": "PI-4s",
+    "domain": "purchase_intent",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I'd definitely consider buying this—it solves a real problem I deal with regularly. My main hesitation is whether the quality will match what I'm used to from my current brand, but based on what I've seen so far, I'm leaning toward giving it a try soon. The timing actually works well since I'm running low on my usual product anyway."
+  },
+  {
+    "testCaseLabel": "PI-4s",
+    "domain": "purchase_intent",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I'd buy it. Got a couple small concerns but nothing that'd stop me from pulling the trigger."
+  },
+  {
+    "testCaseLabel": "PI-4s",
+    "domain": "purchase_intent",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I'd probably end up buying it, though I guess I'd want to check if there's something similar that might work just as well for less money. It kind of seems like the right thing for what I need, but I'd probably sleep on it for a day or two before actually committing."
+  },
+  {
+    "testCaseLabel": "PI-4s",
+    "domain": "purchase_intent",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I'd probably buy it—it solves something I actually need. My only hesitation is whether it's worth the price compared to what I'm using now, but I'm leaning toward making the switch."
+  },
+  {
+    "testCaseLabel": "PI-4s",
+    "domain": "purchase_intent",
+    "difficulty": "subtle",
+    "targetRating": 4,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "Honestly yeah, I'd probably grab it! There's just like, a couple small things that make me hesitate a tiny bit, but overall it seems solid and I could definitely see myself picking it up soon."
+  },
+  {
+    "testCaseLabel": "PI-2s",
+    "domain": "purchase_intent",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I don't think I'd actually buy this. It's not meeting what I was hoping to find when I started looking at it—the features seem pretty standard compared to what competitors are offering, and honestly, there are other options out there that feel like better investments right now. Unless something changes significantly about how this product delivers value, I'm going to pass."
+  },
+  {
+    "testCaseLabel": "PI-2s",
+    "domain": "purchase_intent",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "Not interested. Product doesn't deliver what I need."
+  },
+  {
+    "testCaseLabel": "PI-2s",
+    "domain": "purchase_intent",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I kind of don't think I'd actually buy it, to be honest—it's just not really meeting what I was hoping for. There's something about it that feels sort of underwhelming compared to what I expected, though I guess I could see why other people might want it."
+  },
+  {
+    "testCaseLabel": "PI-2s",
+    "domain": "purchase_intent",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I'm not going to buy it—it doesn't do what I need it to do, and honestly there are better options out there. Save your money and look elsewhere."
+  },
+  {
+    "testCaseLabel": "PI-2s",
+    "domain": "purchase_intent",
+    "difficulty": "subtle",
+    "targetRating": 2,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "Nah, I'm gonna pass on this one—it's just not hitting what I was hoping for, you know? Like, I had higher expectations and it kinda fell short, so I'm not really feeling it enough to actually buy it."
+  },
+  {
+    "testCaseLabel": "PI-3e",
+    "domain": "purchase_intent",
+    "difficulty": "edge",
+    "targetRating": 3,
+    "personaId": "detailed_professional",
+    "personaName": "Maria",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I'd need to see how it actually performs in my daily routine before committing to a purchase—right now I'm genuinely undecided. The product addresses something I deal with, but I'm not convinced it's better than what I'm currently using or worth the investment at this point. If I happened to run out of my current solution or saw compelling evidence it delivered real advantages, then I'd seriously consider it."
+  },
+  {
+    "testCaseLabel": "PI-3e",
+    "domain": "purchase_intent",
+    "difficulty": "edge",
+    "targetRating": 3,
+    "personaId": "blunt_retiree",
+    "personaName": "James",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "Might pick it up if I need it, might not. Depends what else comes along."
+  },
+  {
+    "testCaseLabel": "PI-3e",
+    "domain": "purchase_intent",
+    "difficulty": "edge",
+    "targetRating": 3,
+    "personaId": "hedging_student",
+    "personaName": "Alex",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I mean, I could see myself grabbing it depending on what else comes up, but I'm also kind of fine without it right now, so it's really hard to say. It's not like I'm actively looking for it or anything, but if I happened to need something like that I'd probably consider it, I guess."
+  },
+  {
+    "testCaseLabel": "PI-3e",
+    "domain": "purchase_intent",
+    "difficulty": "edge",
+    "targetRating": 3,
+    "personaId": "busy_parent",
+    "personaName": "Linda",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "I might pick it up if I see it and it fits what I need, but I'm not going out of my way for it either way."
+  },
+  {
+    "testCaseLabel": "PI-3e",
+    "domain": "purchase_intent",
+    "difficulty": "edge",
+    "targetRating": 3,
+    "personaId": "casual_young",
+    "personaName": "Ryan",
+    "questionText": "How likely are you to purchase this product in the next 30 days?",
+    "generatedText": "Honestly can't really say either way right now—like, it's not something I'm dying to get, but I'm also not ruling it out if I happen to need it down the line."
+  }
+]

@@ -1,0 +1,418 @@
+{
+  "timestamp": "2026-02-08T15:53:29.395Z",
+  "conditions": [
+    "D",
+    "A"
+  ],
+  "questions": [
+    {
+      "id": "q1_satisfaction",
+      "type": "likert",
+      "text": "How satisfied are you with the checkout experience on our e-commerce app?"
+    },
+    {
+      "id": "q2_likelihood",
+      "type": "likert",
+      "text": "How likely are you to purchase from us again in the next month?"
+    },
+    {
+      "id": "q3_nps",
+      "type": "nps",
+      "text": "How likely are you to recommend our service to a friend or colleague?"
+    }
+  ],
+  "personas": [
+    {
+      "id": "positive-persona",
+      "occupation": "UX Designer"
+    },
+    {
+      "id": "neutral-persona",
+      "occupation": "Office manager"
+    },
+    {
+      "id": "negative-persona",
+      "occupation": "Warehouse worker"
+    }
+  ],
+  "results": [
+    {
+      "condition": "D",
+      "model": "claude-haiku-4-5-20251001",
+      "mapping": "embedding",
+      "persona": "positive-persona",
+      "question": "q1_satisfaction",
+      "questionType": "likert",
+      "rating": 3,
+      "confidence": 0,
+      "text": "I'd rate it a 4—the payment flow is straightforward and the saved card option saves time on repeat purchases, but the address validation sometimes flags legitimate entries and requires manual correcti",
+      "distribution": [
+        0.20158865581154492,
+        0.1956202413986979,
+        0.20174637325807185,
+        0.20173860755193088,
+        0.1993061219797544
+      ],
+      "elapsedMs": 2788
+    },
+    {
+      "condition": "D",
+      "model": "claude-haiku-4-5-20251001",
+      "mapping": "embedding",
+      "persona": "positive-persona",
+      "question": "q2_likelihood",
+      "questionType": "likert",
+      "rating": 3,
+      "confidence": 0,
+      "text": "I'd rate this a 4 — I've had a solid experience over the past couple years and the product integrates well into my routine, but I'm always evaluating alternatives since the design space moves quickly.",
+      "distribution": [
+        0.195933805040588,
+        0.19855808304522715,
+        0.2039799573688683,
+        0.20099879403001583,
+        0.20052936051530076
+      ],
+      "elapsedMs": 3328
+    },
+    {
+      "condition": "D",
+      "model": "claude-haiku-4-5-20251001",
+      "mapping": "embedding",
+      "persona": "positive-persona",
+      "question": "q3_nps",
+      "questionType": "nps",
+      "rating": 5,
+      "confidence": 0,
+      "text": "I'd rate it around a 7—it's reliable and does what it's supposed to do well, but there are some friction points in the interface that keep me from pushing it higher. I'd definitely recommend it to som",
+      "distribution": [
+        0.09084422582185281,
+        0.08634811475809223,
+        0.08974322784037843,
+        0.08957793462841537,
+        0.09398660865113019,
+        0.0921630978062197,
+        0.09493722023569082,
+        0.09378223553306135,
+        0.09066640808343535,
+        0.09032164670250233,
+        0.08762927993922168
+      ],
+      "elapsedMs": 2337
+    },
+    {
+      "condition": "D",
+      "model": "claude-haiku-4-5-20251001",
+      "mapping": "embedding",
+      "persona": "neutral-persona",
+      "question": "q1_satisfaction",
+      "questionType": "likert",
+      "rating": 3,
+      "confidence": 0,
+      "text": "I'd give it a 4—it's straightforward and doesn't waste my time, though I wish the payment options loaded a bit faster sometimes.",
+      "distribution": [
+        0.1997338726671763,
+        0.1935793627195102,
+        0.2037549489573607,
+        0.20344916996672693,
+        0.19948264568922586
+      ],
+      "elapsedMs": 1840
+    },
+    {
+      "condition": "D",
+      "model": "claude-haiku-4-5-20251001",
+      "mapping": "embedding",
+      "persona": "neutral-persona",
+      "question": "q2_likelihood",
+      "questionType": "likert",
+      "rating": 3,
+      "confidence": 0,
+      "text": "I'd give it a 3 — don't need much right now, but I'll probably grab something if I'm in the area and prices are fair.",
+      "distribution": [
+        0.1933742219054814,
+        0.19581984931751045,
+        0.207411334481116,
+        0.20237119106451615,
+        0.201023403231376
+      ],
+      "elapsedMs": 1118
+    },
+    {
+      "condition": "D",
+      "model": "claude-haiku-4-5-20251001",
+      "mapping": "embedding",
+      "persona": "neutral-persona",
+      "question": "q3_nps",
+      "questionType": "nps",
+      "rating": 5,
+      "confidence": 0,
+      "text": "I'd give it a 6 or 7 — it does what it's supposed to do and the price is fair, but nothing about it stands out enough that I'd go out of my way to tell people about it.",
+      "distribution": [
+        0.09048584399109046,
+        0.0870008307183882,
+        0.08968993511164051,
+        0.08996656690997144,
+        0.09290142400233838,
+        0.09099740136949758,
+        0.09504297988212891,
+        0.09360671353702038,
+        0.09031399326839641,
+        0.08993265913989071,
+        0.09006165206963701
+      ],
+      "elapsedMs": 1218
+    },
+    {
+      "condition": "D",
+      "model": "claude-haiku-4-5-20251001",
+      "mapping": "embedding",
+      "persona": "negative-persona",
+      "question": "q1_satisfaction",
+      "questionType": "likert",
+      "rating": 3,
+      "confidence": 0,
+      "text": "I'd probably give it a 2 or 3—the app itself works okay, but after that bad order I got, I'm not confident things will actually go right. It's hard to trust the whole process when something already we",
+      "distribution": [
+        0.20341435413343179,
+        0.20068537597640274,
+        0.20065777230226103,
+        0.20101808063955726,
+        0.19422441694834716
+      ],
+      "elapsedMs": 1436
+    },
+    {
+      "condition": "D",
+      "model": "claude-haiku-4-5-20251001",
+      "mapping": "embedding",
+      "persona": "negative-persona",
+      "question": "q2_likelihood",
+      "questionType": "likert",
+      "rating": 3,
+      "confidence": 0,
+      "text": "I'd probably say a 2 right now, honestly. That last order didn't go how it should have, and I'm not sure what's different this time that would make me come back so quick. I'd need to see that things a",
+      "distribution": [
+        0.19677517906616435,
+        0.1987991046433898,
+        0.2031827238459303,
+        0.20012478246758966,
+        0.2011182099769258
+      ],
+      "elapsedMs": 1578
+    },
+    {
+      "condition": "D",
+      "model": "claude-haiku-4-5-20251001",
+      "mapping": "embedding",
+      "persona": "negative-persona",
+      "question": "q3_nps",
+      "questionType": "nps",
+      "rating": 5,
+      "confidence": 0,
+      "text": "I'd probably give it around a 4 or 5, honestly—I can't really recommend it after what happened with my last order, and I'd need to see them fix that kind of thing before I'd tell someone to try them o",
+      "distribution": [
+        0.0929853915255145,
+        0.09044428663362217,
+        0.09195280237747111,
+        0.09067523190227547,
+        0.09384570044416342,
+        0.09185690634329245,
+        0.08961201298472662,
+        0.09151364806920106,
+        0.09010634371783136,
+        0.09046152372056267,
+        0.08654615228133934
+      ],
+      "elapsedMs": 1786
+    },
+    {
+      "condition": "A",
+      "model": "claude-3-haiku-20240307",
+      "mapping": "llm",
+      "persona": "positive-persona",
+      "question": "q1_satisfaction",
+      "questionType": "likert",
+      "rating": 3,
+      "confidence": 0,
+      "text": "The checkout experience on your e-commerce app is fairly satisfactory, rating it a 4 out of 5. The process is straightforward and intuitive, with clear steps to complete the transaction. However, I ha",
+      "distribution": [
+        0.2030306221377262,
+        0.1972321918312389,
+        0.19997611239749574,
+        0.1990237557479531,
+        0.20073731788558596
+      ],
+      "elapsedMs": 1037
+    },
+    {
+      "condition": "A",
+      "model": "claude-3-haiku-20240307",
+      "mapping": "llm",
+      "persona": "positive-persona",
+      "question": "q2_likelihood",
+      "questionType": "likert",
+      "rating": 3,
+      "confidence": 0,
+      "text": "Based on my experience with the product, I would rate the likelihood of purchasing again in the next month as a 4. The design and functionality have been very reliable, and I've been satisfied with th",
+      "distribution": [
+        0.1964209102012503,
+        0.19813951138526364,
+        0.20068598177595715,
+        0.20210010821904034,
+        0.20265348841848865
+      ],
+      "elapsedMs": 1378
+    },
+    {
+      "condition": "A",
+      "model": "claude-3-haiku-20240307",
+      "mapping": "llm",
+      "persona": "positive-persona",
+      "question": "q3_nps",
+      "questionType": "nps",
+      "rating": 5,
+      "confidence": 0,
+      "text": "Based on my experience, I would rate the likelihood of recommending this service as a 7 out of 10. The user interface is intuitive and the features align well with my needs as a UX designer. However, ",
+      "distribution": [
+        0.09105115007885813,
+        0.08745815176550782,
+        0.09136753669020674,
+        0.08948413611349658,
+        0.09244842900670543,
+        0.09233257759677423,
+        0.09149452362389139,
+        0.09342237002782769,
+        0.09190092023016608,
+        0.091799384092067,
+        0.087240820774499
+      ],
+      "elapsedMs": 1639
+    },
+    {
+      "condition": "A",
+      "model": "claude-3-haiku-20240307",
+      "mapping": "llm",
+      "persona": "neutral-persona",
+      "question": "q1_satisfaction",
+      "questionType": "likert",
+      "rating": 3,
+      "confidence": 0,
+      "text": "3. It gets the job done, but could be a bit smoother.",
+      "distribution": [
+        0.19868274609277226,
+        0.2090410851869141,
+        0.19904848140093231,
+        0.20005268029730533,
+        0.19317500702207607
+      ],
+      "elapsedMs": 622
+    },
+    {
+      "condition": "A",
+      "model": "claude-3-haiku-20240307",
+      "mapping": "llm",
+      "persona": "neutral-persona",
+      "question": "q2_likelihood",
+      "questionType": "likert",
+      "rating": 3,
+      "confidence": 0,
+      "text": "3. I'd say it's 50/50 whether I'll buy from you again soon. Depends on what you've got and if it fits my needs.",
+      "distribution": [
+        0.19730103415548483,
+        0.1987394345174333,
+        0.20464911529438692,
+        0.19984162619986354,
+        0.19946878983283137
+      ],
+      "elapsedMs": 851
+    },
+    {
+      "condition": "A",
+      "model": "claude-3-haiku-20240307",
+      "mapping": "llm",
+      "persona": "neutral-persona",
+      "question": "q3_nps",
+      "questionType": "nps",
+      "rating": 5,
+      "confidence": 0,
+      "text": "7. It's a decent service that gets the job done. I'd recommend it to people I know.",
+      "distribution": [
+        0.09179959889594157,
+        0.08884647512245548,
+        0.09055205845810375,
+        0.09113664996238652,
+        0.09214228238167443,
+        0.09136747993384611,
+        0.09194961710856378,
+        0.09383817642136942,
+        0.09162149763799314,
+        0.09157065195391076,
+        0.0851755121237551
+      ],
+      "elapsedMs": 676
+    },
+    {
+      "condition": "A",
+      "model": "claude-3-haiku-20240307",
+      "mapping": "llm",
+      "persona": "negative-persona",
+      "question": "q1_satisfaction",
+      "questionType": "likert",
+      "rating": 3,
+      "confidence": 0,
+      "text": "I'd say I'm a 2 on that scale. The checkout process seemed a bit convoluted, and I had some trouble getting my order placed correctly. I'd want to see a simpler, more streamlined checkout if I used th",
+      "distribution": [
+        0.2039270508888247,
+        0.1993961346448999,
+        0.20215494873674894,
+        0.20007314525755018,
+        0.19444872047197628
+      ],
+      "elapsedMs": 964
+    },
+    {
+      "condition": "A",
+      "model": "claude-3-haiku-20240307",
+      "mapping": "llm",
+      "persona": "negative-persona",
+      "question": "q2_likelihood",
+      "questionType": "likert",
+      "rating": 3,
+      "confidence": 0,
+      "text": "I'd say a 3 on that scale. I had a recent issue with an order, so I'd want to see if that gets resolved before purchasing again soon. Might depend on what else you have available and the prices.",
+      "distribution": [
+        0.19707831040508683,
+        0.19890602443910685,
+        0.2018150513500363,
+        0.2011908067316609,
+        0.2010098070741091
+      ],
+      "elapsedMs": 1262
+    },
+    {
+      "condition": "A",
+      "model": "claude-3-haiku-20240307",
+      "mapping": "llm",
+      "persona": "negative-persona",
+      "question": "q3_nps",
+      "questionType": "nps",
+      "rating": 5,
+      "confidence": 0,
+      "text": "I'd say about a 4 or 5. The service was okay, but I had some issues with a recent order that make me hesitant to fully recommend it. I'd want to know more about whether they've improved things before ",
+      "distribution": [
+        0.09215140581875655,
+        0.08970600712269719,
+        0.0918731313192668,
+        0.09205940057888005,
+        0.09411315023218132,
+        0.09235868820731838,
+        0.0886248089326788,
+        0.09255127070998181,
+        0.0915097754813224,
+        0.09114166218357043,
+        0.08391069941334621
+      ],
+      "elapsedMs": 1366
+    }
+  ]
+}

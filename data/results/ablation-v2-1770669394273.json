@@ -1,0 +1,4213 @@
+{
+  "timestamp": "2026-02-09T20:36:34.273Z",
+  "version": "v2",
+  "config": {
+    "temperature": 0.2,
+    "normalization": "minmax"
+  },
+  "testCases": 69,
+  "domains": [
+    "satisfaction",
+    "likelihood",
+    "agreement",
+    "ease",
+    "importance",
+    "trust",
+    "value",
+    "purchase_intent"
+  ],
+  "conditions": [
+    {
+      "name": "A: baseline",
+      "contextualized": false,
+      "asymmetric": false,
+      "exact": 42,
+      "exactPct": 61,
+      "withinOne": 66,
+      "withinOnePct": 96,
+      "mae": 0.43478260869565216,
+      "meanConfidence": 0.52,
+      "details": [
+        {
+          "label": "SAT-1",
+          "domain": "satisfaction",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 0.71,
+          "sims": [
+            0.8068381331893889,
+            0.753234255983664,
+            0.7107841667190293,
+            0.7336355667646925,
+            0.7391105094099475
+          ]
+        },
+        {
+          "label": "SAT-2",
+          "domain": "satisfaction",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.17,
+          "sims": [
+            0.7905561601192542,
+            0.796885930337104,
+            0.7477680720331135,
+            0.8004559137577727,
+            0.7931095003359457
+          ]
+        },
+        {
+          "label": "SAT-3",
+          "domain": "satisfaction",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 0.56,
+          "sims": [
+            0.7804926933365698,
+            0.7912156328370903,
+            0.8409656899950986,
+            0.8573998279502536,
+            0.796546535274624
+          ]
+        },
+        {
+          "label": "SAT-4",
+          "domain": "satisfaction",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.41,
+          "sims": [
+            0.740080484596227,
+            0.746825076081219,
+            0.686589519887959,
+            0.7879331159333228,
+            0.8080972105436396
+          ]
+        },
+        {
+          "label": "SAT-5",
+          "domain": "satisfaction",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.59,
+          "sims": [
+            0.7540199391445704,
+            0.7157955144738749,
+            0.6946383966956231,
+            0.7699194200306061,
+            0.8204737424749383
+          ]
+        },
+        {
+          "label": "SAT-2s",
+          "domain": "satisfaction",
+          "difficulty": "subtle",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.32,
+          "sims": [
+            0.7906432293943878,
+            0.7648373246873473,
+            0.6798048938013885,
+            0.7431008183243196,
+            0.7563917795364239
+          ]
+        },
+        {
+          "label": "SAT-4s",
+          "domain": "satisfaction",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.33,
+          "sims": [
+            0.8197672123992229,
+            0.8379643013659239,
+            0.7835202467527841,
+            0.8378956265090862,
+            0.8560495906668578
+          ]
+        },
+        {
+          "label": "SAT-3s",
+          "domain": "satisfaction",
+          "difficulty": "subtle",
+          "expected": 3,
+          "predicted": 2,
+          "confidence": 0.32,
+          "sims": [
+            0.778752437021036,
+            0.7717934716042684,
+            0.7316788145601291,
+            0.7799214139061909,
+            0.7372948528576044
+          ]
+        },
+        {
+          "label": "SAT-2e",
+          "domain": "satisfaction",
+          "difficulty": "edge",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.31,
+          "sims": [
+            0.8210267544279869,
+            0.86026479190335,
+            0.8331022961514511,
+            0.8537372953361965,
+            0.7751189288630399
+          ]
+        },
+        {
+          "label": "SAT-4e",
+          "domain": "satisfaction",
+          "difficulty": "edge",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.4,
+          "sims": [
+            0.8562708724737451,
+            0.822558092046294,
+            0.8040483312276204,
+            0.8840055251446322,
+            0.8702622608136338
+          ]
+        },
+        {
+          "label": "LIK-1",
+          "domain": "likelihood",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 0.79,
+          "sims": [
+            0.9008426959898123,
+            0.8065648222375252,
+            0.7595063569821101,
+            0.7812501945170381,
+            0.790149518803746
+          ]
+        },
+        {
+          "label": "LIK-2",
+          "domain": "likelihood",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.69,
+          "sims": [
+            0.8681305006362937,
+            0.8922866691390317,
+            0.8416774061627891,
+            0.8594625818116445,
+            0.842377333521674
+          ]
+        },
+        {
+          "label": "LIK-3",
+          "domain": "likelihood",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.81,
+          "sims": [
+            0.837600556940729,
+            0.8291373507592755,
+            0.8946271094516073,
+            0.8159788124409689,
+            0.8117889442806601
+          ]
+        },
+        {
+          "label": "LIK-4",
+          "domain": "likelihood",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.41,
+          "sims": [
+            0.7605698525128026,
+            0.783546508024445,
+            0.699554674942819,
+            0.830330314536614,
+            0.7894631524378821
+          ]
+        },
+        {
+          "label": "LIK-5",
+          "domain": "likelihood",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.53,
+          "sims": [
+            0.7504621642011513,
+            0.7697614956029981,
+            0.7363074096027512,
+            0.8068677747992752,
+            0.8278699504333175
+          ]
+        },
+        {
+          "label": "LIK-3s",
+          "domain": "likelihood",
+          "difficulty": "subtle",
+          "expected": 3,
+          "predicted": 2,
+          "confidence": 0.72,
+          "sims": [
+            0.7695930180494301,
+            0.7951519627636854,
+            0.7556329812134718,
+            0.7590084245887069,
+            0.7465883859656517
+          ]
+        },
+        {
+          "label": "LIK-4s",
+          "domain": "likelihood",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 3,
+          "confidence": 0.49,
+          "sims": [
+            0.7230819182205869,
+            0.7849653467806149,
+            0.6922876312755327,
+            0.7657100266907859,
+            0.728388378824773
+          ]
+        },
+        {
+          "label": "LIK-2e",
+          "domain": "likelihood",
+          "difficulty": "edge",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.54,
+          "sims": [
+            0.7820987028596876,
+            0.7962016173224189,
+            0.772613555022849,
+            0.7529937592586179,
+            0.7497770267968559
+          ]
+        },
+        {
+          "label": "AGR-1",
+          "domain": "agreement",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 2,
+          "confidence": 0.29,
+          "sims": [
+            0.7370604567909369,
+            0.7417550464686071,
+            0.7478461038855584,
+            0.6848953364595353,
+            0.7100788779806344
+          ]
+        },
+        {
+          "label": "AGR-2",
+          "domain": "agreement",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.41,
+          "sims": [
+            0.7578381701839886,
+            0.7802669156349772,
+            0.7674783588369023,
+            0.730406803194897,
+            0.7549308447015801
+          ]
+        },
+        {
+          "label": "AGR-3",
+          "domain": "agreement",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.67,
+          "sims": [
+            0.6467464031373699,
+            0.6872878748499793,
+            0.7367525888881937,
+            0.6762283167166485,
+            0.6771022975461822
+          ]
+        },
+        {
+          "label": "AGR-4",
+          "domain": "agreement",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.4,
+          "sims": [
+            0.6756378729388113,
+            0.6975988172688095,
+            0.707566646620098,
+            0.7194940117226916,
+            0.7016216477691162
+          ]
+        },
+        {
+          "label": "AGR-5",
+          "domain": "agreement",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.7,
+          "sims": [
+            0.6889977515506815,
+            0.6643941162689838,
+            0.6825736832065509,
+            0.6937563530098583,
+            0.7352577886735773
+          ]
+        },
+        {
+          "label": "AGR-2s",
+          "domain": "agreement",
+          "difficulty": "subtle",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.55,
+          "sims": [
+            0.6361347480167668,
+            0.6717549647327926,
+            0.6983177275854607,
+            0.6144713985014026,
+            0.6498825411970123
+          ]
+        },
+        {
+          "label": "AGR-4s",
+          "domain": "agreement",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 3,
+          "confidence": 0.68,
+          "sims": [
+            0.6252279297690782,
+            0.6434967918780836,
+            0.7029145171181966,
+            0.6604245439221998,
+            0.6542848391920104
+          ]
+        },
+        {
+          "label": "AGR-3e",
+          "domain": "agreement",
+          "difficulty": "edge",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.76,
+          "sims": [
+            0.6580864949969417,
+            0.6729708853080185,
+            0.7222139676131573,
+            0.6759438514201834,
+            0.6776350083212457
+          ]
+        },
+        {
+          "label": "EASE-1",
+          "domain": "ease",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 2,
+          "confidence": 0.47,
+          "sims": [
+            0.8264014169181979,
+            0.8195937701583772,
+            0.7514167799301064,
+            0.7767955215230246,
+            0.7409299963206442
+          ]
+        },
+        {
+          "label": "EASE-2",
+          "domain": "ease",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.62,
+          "sims": [
+            0.8617583134733863,
+            0.8882417654045277,
+            0.8045907832883433,
+            0.8269216274773519,
+            0.8104928967339297
+          ]
+        },
+        {
+          "label": "EASE-3",
+          "domain": "ease",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 2,
+          "confidence": 0.6,
+          "sims": [
+            0.8142440882224053,
+            0.8618773813214959,
+            0.8358141750455554,
+            0.7980347134903637,
+            0.7872208142670295
+          ]
+        },
+        {
+          "label": "EASE-4",
+          "domain": "ease",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 3,
+          "confidence": 0.42,
+          "sims": [
+            0.7414038720955503,
+            0.8303967090697604,
+            0.7628760957814057,
+            0.809101890430104,
+            0.7993504828087997
+          ]
+        },
+        {
+          "label": "EASE-5",
+          "domain": "ease",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 4,
+          "confidence": 0.4,
+          "sims": [
+            0.7104403481725956,
+            0.7566540580016656,
+            0.7348942651735274,
+            0.7788668679213058,
+            0.7611426192119048
+          ]
+        },
+        {
+          "label": "EASE-4s",
+          "domain": "ease",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.35,
+          "sims": [
+            0.764879181435473,
+            0.8272486839025068,
+            0.7809611642812777,
+            0.8494018677577836,
+            0.8430283974688285
+          ]
+        },
+        {
+          "label": "EASE-2s",
+          "domain": "ease",
+          "difficulty": "subtle",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.33,
+          "sims": [
+            0.7957347123974535,
+            0.8021383148537233,
+            0.7220238109445142,
+            0.7697307121704524,
+            0.7672525744356404
+          ]
+        },
+        {
+          "label": "EASE-3e",
+          "domain": "ease",
+          "difficulty": "edge",
+          "expected": 3,
+          "predicted": 2,
+          "confidence": 0.72,
+          "sims": [
+            0.778050237393343,
+            0.806114187940635,
+            0.7611839871886495,
+            0.7564203393461605,
+            0.7496437445472446
+          ]
+        },
+        {
+          "label": "EASE-4e",
+          "domain": "ease",
+          "difficulty": "edge",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.3,
+          "sims": [
+            0.7994946600114394,
+            0.8525075657851114,
+            0.8380343832958902,
+            0.8632263134132291,
+            0.8425055525499779
+          ]
+        },
+        {
+          "label": "IMP-1",
+          "domain": "importance",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 2,
+          "confidence": 0.44,
+          "sims": [
+            0.7138235950653136,
+            0.7311466151046765,
+            0.687001084445378,
+            0.6687090660586257,
+            0.7074168455165057
+          ]
+        },
+        {
+          "label": "IMP-2",
+          "domain": "importance",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.46,
+          "sims": [
+            0.6801267592188975,
+            0.7477255567726058,
+            0.7414975191583667,
+            0.6441159293094133,
+            0.6265515286805569
+          ]
+        },
+        {
+          "label": "IMP-3",
+          "domain": "importance",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.55,
+          "sims": [
+            0.6211900920755171,
+            0.6463099162445919,
+            0.6738076892449512,
+            0.6003225310393372,
+            0.6354389227083261
+          ]
+        },
+        {
+          "label": "IMP-4",
+          "domain": "importance",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.55,
+          "sims": [
+            0.6720886777450494,
+            0.7006176608820145,
+            0.6907419136871152,
+            0.6822967670238187,
+            0.7141254834324361
+          ]
+        },
+        {
+          "label": "IMP-5",
+          "domain": "importance",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 4,
+          "confidence": 0.62,
+          "sims": [
+            0.6435937970668723,
+            0.6661395293899011,
+            0.63487353675774,
+            0.6242925756103562,
+            0.6891715777204549
+          ]
+        },
+        {
+          "label": "IMP-4s",
+          "domain": "importance",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 3,
+          "confidence": 0.78,
+          "sims": [
+            0.6634907871294738,
+            0.6939643505860376,
+            0.7378990207464267,
+            0.6597271877996964,
+            0.657198278815091
+          ]
+        },
+        {
+          "label": "IMP-3s",
+          "domain": "importance",
+          "difficulty": "subtle",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.39,
+          "sims": [
+            0.6810921326627489,
+            0.7129371208105086,
+            0.7019279252984882,
+            0.6657128173346267,
+            0.6985340670160578
+          ]
+        },
+        {
+          "label": "IMP-2e",
+          "domain": "importance",
+          "difficulty": "edge",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.56,
+          "sims": [
+            0.6928048129882837,
+            0.7295942247346899,
+            0.6968098829736716,
+            0.6506649262576298,
+            0.6709741720539902
+          ]
+        },
+        {
+          "label": "IMP-4e",
+          "domain": "importance",
+          "difficulty": "edge",
+          "expected": 4,
+          "predicted": 2,
+          "confidence": 0.67,
+          "sims": [
+            0.7187887273958641,
+            0.7487193913118826,
+            0.7153940770807709,
+            0.6944821296319367,
+            0.7107196424391187
+          ]
+        },
+        {
+          "label": "TRU-1",
+          "domain": "trust",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 3,
+          "confidence": 0.46,
+          "sims": [
+            0.8414159070389357,
+            0.7901006795792589,
+            0.7934233175688802,
+            0.8581082098795539,
+            0.832894734639092
+          ]
+        },
+        {
+          "label": "TRU-2",
+          "domain": "trust",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.48,
+          "sims": [
+            0.77888764674185,
+            0.8122002958480353,
+            0.7524966926996535,
+            0.8174833046282968,
+            0.7539043898580964
+          ]
+        },
+        {
+          "label": "TRU-3",
+          "domain": "trust",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.4,
+          "sims": [
+            0.8829476299341252,
+            0.886481279790619,
+            0.8424275792671521,
+            0.8996488150201262,
+            0.8538036091621715
+          ]
+        },
+        {
+          "label": "TRU-4",
+          "domain": "trust",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.47,
+          "sims": [
+            0.7986238071270313,
+            0.7730564439683615,
+            0.7662698855606809,
+            0.8396282572843582,
+            0.8372051160195213
+          ]
+        },
+        {
+          "label": "TRU-5",
+          "domain": "trust",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 4,
+          "confidence": 0.48,
+          "sims": [
+            0.8140695630703028,
+            0.7740865112258977,
+            0.7896421863051493,
+            0.859241287474488,
+            0.8708279364554031
+          ]
+        },
+        {
+          "label": "TRU-4s",
+          "domain": "trust",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.64,
+          "sims": [
+            0.7678671360773269,
+            0.7629732352229102,
+            0.7465240805639172,
+            0.8266972022678483,
+            0.795498196342377
+          ]
+        },
+        {
+          "label": "TRU-2s",
+          "domain": "trust",
+          "difficulty": "subtle",
+          "expected": 2,
+          "predicted": 1,
+          "confidence": 0.75,
+          "sims": [
+            0.7798767854462595,
+            0.7043382871396067,
+            0.6956591280132403,
+            0.7327937080886043,
+            0.7144202342783091
+          ]
+        },
+        {
+          "label": "TRU-3e",
+          "domain": "trust",
+          "difficulty": "edge",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 0.29,
+          "sims": [
+            0.8064236731291272,
+            0.7729845663796524,
+            0.8302620589422401,
+            0.8442273528441501,
+            0.8447594054479486
+          ]
+        },
+        {
+          "label": "TRU-4e",
+          "domain": "trust",
+          "difficulty": "edge",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.53,
+          "sims": [
+            0.8078554553139876,
+            0.7961098459643836,
+            0.7902266756075363,
+            0.8777827549945827,
+            0.8664203422137869
+          ]
+        },
+        {
+          "label": "VAL-1",
+          "domain": "value",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 0.79,
+          "sims": [
+            0.8992711216070982,
+            0.7859767718826507,
+            0.8197356605770479,
+            0.7948117578204058,
+            0.8167485720132116
+          ]
+        },
+        {
+          "label": "VAL-2",
+          "domain": "value",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.46,
+          "sims": [
+            0.8681581109137823,
+            0.8655995581693376,
+            0.885529589586972,
+            0.842766034040479,
+            0.8298677909671421
+          ]
+        },
+        {
+          "label": "VAL-3",
+          "domain": "value",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.71,
+          "sims": [
+            0.8684192565414078,
+            0.8654771318391278,
+            0.9114567785842368,
+            0.8836878289269365,
+            0.8849797077585424
+          ]
+        },
+        {
+          "label": "VAL-4",
+          "domain": "value",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.26,
+          "sims": [
+            0.7752281179160828,
+            0.8931198496364393,
+            0.8483730078272559,
+            0.9063456968416461,
+            0.881816088035477
+          ]
+        },
+        {
+          "label": "VAL-5",
+          "domain": "value",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.77,
+          "sims": [
+            0.8660410720210109,
+            0.8780339233756147,
+            0.8701998623773137,
+            0.897652520125147,
+            0.938938739182919
+          ]
+        },
+        {
+          "label": "VAL-2s",
+          "domain": "value",
+          "difficulty": "subtle",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.27,
+          "sims": [
+            0.818487526197553,
+            0.9024651403283045,
+            0.8934035765815642,
+            0.887993908726247,
+            0.8587038736263785
+          ]
+        },
+        {
+          "label": "VAL-4s",
+          "domain": "value",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.29,
+          "sims": [
+            0.814551186972398,
+            0.8464972311944055,
+            0.8589112890733388,
+            0.8732053524610993,
+            0.8622674126685809
+          ]
+        },
+        {
+          "label": "VAL-3e",
+          "domain": "value",
+          "difficulty": "edge",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.34,
+          "sims": [
+            0.8444556401135886,
+            0.8847282821477574,
+            0.875651881869904,
+            0.8867352101860139,
+            0.8558430662452595
+          ]
+        },
+        {
+          "label": "PI-1",
+          "domain": "purchase_intent",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 0.56,
+          "sims": [
+            0.8714808926263342,
+            0.8393533861180116,
+            0.7835460687869349,
+            0.7841559714737721,
+            0.831861060604944
+          ]
+        },
+        {
+          "label": "PI-2",
+          "domain": "purchase_intent",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.3,
+          "sims": [
+            0.884459049856348,
+            0.888271668446243,
+            0.8450042283849282,
+            0.8744691433291119,
+            0.8177304288488764
+          ]
+        },
+        {
+          "label": "PI-3",
+          "domain": "purchase_intent",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 0.45,
+          "sims": [
+            0.8238339374058795,
+            0.8236170378548434,
+            0.8508951633646967,
+            0.8585266174458055,
+            0.8022410281952529
+          ]
+        },
+        {
+          "label": "PI-4",
+          "domain": "purchase_intent",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.75,
+          "sims": [
+            0.7961595160355305,
+            0.7954922389566513,
+            0.8252758252802423,
+            0.8804082682184234,
+            0.828869564342461
+          ]
+        },
+        {
+          "label": "PI-5",
+          "domain": "purchase_intent",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.58,
+          "sims": [
+            0.7828149281110681,
+            0.7502732297822569,
+            0.7504499932584573,
+            0.8271746827617923,
+            0.8538431383955699
+          ]
+        },
+        {
+          "label": "PI-4s",
+          "domain": "purchase_intent",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.62,
+          "sims": [
+            0.7720145763348514,
+            0.7799783869439132,
+            0.817070721781597,
+            0.8623514884572644,
+            0.8201871722611902
+          ]
+        },
+        {
+          "label": "PI-2s",
+          "domain": "purchase_intent",
+          "difficulty": "subtle",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.64,
+          "sims": [
+            0.7990720241237426,
+            0.8355567325759534,
+            0.7927814209344427,
+            0.7589573422131916,
+            0.7739581515547513
+          ]
+        },
+        {
+          "label": "PI-3e",
+          "domain": "purchase_intent",
+          "difficulty": "edge",
+          "expected": 3,
+          "predicted": 1,
+          "confidence": 0.5,
+          "sims": [
+            0.8273089518540755,
+            0.8071968153971506,
+            0.8034512758156837,
+            0.7875237871053952,
+            0.7704899658685189
+          ]
+        }
+      ]
+    },
+    {
+      "name": "B: H2 (context)",
+      "contextualized": true,
+      "asymmetric": false,
+      "exact": 37,
+      "exactPct": 54,
+      "withinOne": 64,
+      "withinOnePct": 93,
+      "mae": 0.5507246376811594,
+      "meanConfidence": 0.5,
+      "details": [
+        {
+          "label": "SAT-1",
+          "domain": "satisfaction",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 2,
+          "confidence": 0.49,
+          "sims": [
+            0.8379696243890828,
+            0.8385092485642158,
+            0.804042765531008,
+            0.8100725424940032,
+            0.7973500486939469
+          ]
+        },
+        {
+          "label": "SAT-2",
+          "domain": "satisfaction",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.65,
+          "sims": [
+            0.7819716922656033,
+            0.8077135965855656,
+            0.780846399271947,
+            0.7980805315335612,
+            0.7790661171920491
+          ]
+        },
+        {
+          "label": "SAT-3",
+          "domain": "satisfaction",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.46,
+          "sims": [
+            0.7763167014750383,
+            0.8038982832355089,
+            0.830872509418143,
+            0.8227709021987174,
+            0.785418061135974
+          ]
+        },
+        {
+          "label": "SAT-4",
+          "domain": "satisfaction",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.48,
+          "sims": [
+            0.7481077390123403,
+            0.7814528365646908,
+            0.7621938980653611,
+            0.8055306183220265,
+            0.7883968207060688
+          ]
+        },
+        {
+          "label": "SAT-5",
+          "domain": "satisfaction",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.63,
+          "sims": [
+            0.847001662030258,
+            0.8568687628947419,
+            0.8466761249095046,
+            0.881633772711569,
+            0.8972071666120499
+          ]
+        },
+        {
+          "label": "SAT-2s",
+          "domain": "satisfaction",
+          "difficulty": "subtle",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.57,
+          "sims": [
+            0.800546443879557,
+            0.8364133610432162,
+            0.7697700754804161,
+            0.8123284289954489,
+            0.7819021385143418
+          ]
+        },
+        {
+          "label": "SAT-4s",
+          "domain": "satisfaction",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.61,
+          "sims": [
+            0.7850688219581422,
+            0.8024198436446904,
+            0.7942724931209002,
+            0.8256301458647007,
+            0.8081295704149999
+          ]
+        },
+        {
+          "label": "SAT-3s",
+          "domain": "satisfaction",
+          "difficulty": "subtle",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.45,
+          "sims": [
+            0.7954496550038056,
+            0.8223502870674054,
+            0.8050245254156905,
+            0.8309002582961661,
+            0.7802425188329849
+          ]
+        },
+        {
+          "label": "SAT-2e",
+          "domain": "satisfaction",
+          "difficulty": "edge",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.27,
+          "sims": [
+            0.6961891138388062,
+            0.7131961708195309,
+            0.716912248768946,
+            0.7225917743633762,
+            0.6707539579166871
+          ]
+        },
+        {
+          "label": "SAT-4e",
+          "domain": "satisfaction",
+          "difficulty": "edge",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.82,
+          "sims": [
+            0.7680526308773199,
+            0.7676384337945256,
+            0.76527845342127,
+            0.8039619982577101,
+            0.7787723946002254
+          ]
+        },
+        {
+          "label": "LIK-1",
+          "domain": "likelihood",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 0.76,
+          "sims": [
+            0.8259953707907429,
+            0.7721969170153136,
+            0.7371834795923463,
+            0.7571256026925004,
+            0.7511731453434948
+          ]
+        },
+        {
+          "label": "LIK-2",
+          "domain": "likelihood",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 4,
+          "confidence": 0.61,
+          "sims": [
+            0.7414314326411142,
+            0.7615422696300863,
+            0.7431239058790519,
+            0.7684325141473153,
+            0.7408398220751496
+          ]
+        },
+        {
+          "label": "LIK-3",
+          "domain": "likelihood",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.45,
+          "sims": [
+            0.6961360664725337,
+            0.7170370148046554,
+            0.7519355231982152,
+            0.7466952707775997,
+            0.7152174354543609
+          ]
+        },
+        {
+          "label": "LIK-4",
+          "domain": "likelihood",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.68,
+          "sims": [
+            0.696740050593241,
+            0.7203146928042498,
+            0.7001624714734812,
+            0.7886836300437152,
+            0.7502064296580838
+          ]
+        },
+        {
+          "label": "LIK-5",
+          "domain": "likelihood",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 4,
+          "confidence": 0.46,
+          "sims": [
+            0.7014664366554831,
+            0.7195215227729232,
+            0.7360968420272,
+            0.779988528428741,
+            0.7795897742840058
+          ]
+        },
+        {
+          "label": "LIK-3s",
+          "domain": "likelihood",
+          "difficulty": "subtle",
+          "expected": 3,
+          "predicted": 2,
+          "confidence": 0.66,
+          "sims": [
+            0.71742597021719,
+            0.7535614598515313,
+            0.7278182838342572,
+            0.7341553898767278,
+            0.7119950273010927
+          ]
+        },
+        {
+          "label": "LIK-4s",
+          "domain": "likelihood",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 3,
+          "confidence": 0.39,
+          "sims": [
+            0.6998575166176515,
+            0.7483900885747058,
+            0.7207877821619332,
+            0.7437911469245034,
+            0.7255223965844484
+          ]
+        },
+        {
+          "label": "LIK-2e",
+          "domain": "likelihood",
+          "difficulty": "edge",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.44,
+          "sims": [
+            0.7336471014442872,
+            0.7660427803461378,
+            0.7528429986326063,
+            0.7599744481891256,
+            0.7375976059213781
+          ]
+        },
+        {
+          "label": "AGR-1",
+          "domain": "agreement",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 2,
+          "confidence": 0.46,
+          "sims": [
+            0.776579424956561,
+            0.7589132792774721,
+            0.7677604636711768,
+            0.7472627465776892,
+            0.7381907614788916
+          ]
+        },
+        {
+          "label": "AGR-2",
+          "domain": "agreement",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.25,
+          "sims": [
+            0.8006904018434361,
+            0.8086452470479614,
+            0.8058361224227703,
+            0.8124665631230824,
+            0.782077934520981
+          ]
+        },
+        {
+          "label": "AGR-3",
+          "domain": "agreement",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.63,
+          "sims": [
+            0.7363940594192476,
+            0.7488087047363134,
+            0.7986565662483301,
+            0.7781485093992064,
+            0.7344934178406952
+          ]
+        },
+        {
+          "label": "AGR-4",
+          "domain": "agreement",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.79,
+          "sims": [
+            0.7705605115735963,
+            0.7719551722292756,
+            0.788443369641459,
+            0.8177513636562151,
+            0.780561845299997
+          ]
+        },
+        {
+          "label": "AGR-5",
+          "domain": "agreement",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 4,
+          "confidence": 0.54,
+          "sims": [
+            0.7830753437840263,
+            0.745729782034571,
+            0.7604848786558116,
+            0.7855567200168155,
+            0.8114513160174219
+          ]
+        },
+        {
+          "label": "AGR-2s",
+          "domain": "agreement",
+          "difficulty": "subtle",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.36,
+          "sims": [
+            0.7049279403696684,
+            0.7430339864461987,
+            0.750458710099988,
+            0.7203725424037666,
+            0.6708230012663464
+          ]
+        },
+        {
+          "label": "AGR-4s",
+          "domain": "agreement",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 3,
+          "confidence": 0.49,
+          "sims": [
+            0.7128594085069961,
+            0.698231983661233,
+            0.7449303678362561,
+            0.7397012716111989,
+            0.7069567809768553
+          ]
+        },
+        {
+          "label": "AGR-3e",
+          "domain": "agreement",
+          "difficulty": "edge",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.52,
+          "sims": [
+            0.7283213675306156,
+            0.7275931307605252,
+            0.7720005746701892,
+            0.7516119352343162,
+            0.702144864113431
+          ]
+        },
+        {
+          "label": "EASE-1",
+          "domain": "ease",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 2,
+          "confidence": 0.37,
+          "sims": [
+            0.8248372956572483,
+            0.8083844337228347,
+            0.7879108792222211,
+            0.8000492272667833,
+            0.7547715332895014
+          ]
+        },
+        {
+          "label": "EASE-2",
+          "domain": "ease",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.27,
+          "sims": [
+            0.8523386004907135,
+            0.8584520632106855,
+            0.8387161495367506,
+            0.8345005214734236,
+            0.7926644927885997
+          ]
+        },
+        {
+          "label": "EASE-3",
+          "domain": "ease",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.32,
+          "sims": [
+            0.8157331858268213,
+            0.8309937322509915,
+            0.8374045072243451,
+            0.8053517900941326,
+            0.7717694641841174
+          ]
+        },
+        {
+          "label": "EASE-4",
+          "domain": "ease",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.53,
+          "sims": [
+            0.756351803455206,
+            0.7859802759881903,
+            0.7754454490568907,
+            0.7994140390528885,
+            0.7684794768814052
+          ]
+        },
+        {
+          "label": "EASE-5",
+          "domain": "ease",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 4,
+          "confidence": 0.4,
+          "sims": [
+            0.7840326002385479,
+            0.8092880318998673,
+            0.8398627226293844,
+            0.8453657890108778,
+            0.8163244989387385
+          ]
+        },
+        {
+          "label": "EASE-4s",
+          "domain": "ease",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.67,
+          "sims": [
+            0.7758014646031529,
+            0.7879465325508607,
+            0.7878644852440098,
+            0.8217690207908949,
+            0.8003627959600411
+          ]
+        },
+        {
+          "label": "EASE-2s",
+          "domain": "ease",
+          "difficulty": "subtle",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.28,
+          "sims": [
+            0.8146381464605476,
+            0.8090017614047883,
+            0.7944288108043558,
+            0.8021818839975222,
+            0.7673395191204944
+          ]
+        },
+        {
+          "label": "EASE-3e",
+          "domain": "ease",
+          "difficulty": "edge",
+          "expected": 3,
+          "predicted": 2,
+          "confidence": 0.39,
+          "sims": [
+            0.8185701651640647,
+            0.8321821309876828,
+            0.8186908827607703,
+            0.8058755569664118,
+            0.7867576032231872
+          ]
+        },
+        {
+          "label": "EASE-4e",
+          "domain": "ease",
+          "difficulty": "edge",
+          "expected": 4,
+          "predicted": 3,
+          "confidence": 0.35,
+          "sims": [
+            0.7811837743502609,
+            0.8040579983779987,
+            0.8062182042034741,
+            0.8104558425776696,
+            0.7797268544148507
+          ]
+        },
+        {
+          "label": "IMP-1",
+          "domain": "importance",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 2,
+          "confidence": 0.39,
+          "sims": [
+            0.871612898412163,
+            0.902662612555887,
+            0.8953749023310396,
+            0.8842454230359187,
+            0.8547864341412542
+          ]
+        },
+        {
+          "label": "IMP-2",
+          "domain": "importance",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.39,
+          "sims": [
+            0.7490536110714909,
+            0.7757587510276795,
+            0.7964064746541245,
+            0.7548584814780278,
+            0.7017744871982343
+          ]
+        },
+        {
+          "label": "IMP-3",
+          "domain": "importance",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.54,
+          "sims": [
+            0.7917976324407542,
+            0.8365682444379333,
+            0.8542819896526361,
+            0.8195154238836173,
+            0.7891831404521091
+          ]
+        },
+        {
+          "label": "IMP-4",
+          "domain": "importance",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 3,
+          "confidence": 0.31,
+          "sims": [
+            0.8555110808397172,
+            0.9018221194472773,
+            0.9002061846607472,
+            0.8958071649312619,
+            0.8624659259341183
+          ]
+        },
+        {
+          "label": "IMP-5",
+          "domain": "importance",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 3,
+          "confidence": 0.32,
+          "sims": [
+            0.8425677965536158,
+            0.8797349941320279,
+            0.877563120311744,
+            0.8711981705959568,
+            0.8555415197041562
+          ]
+        },
+        {
+          "label": "IMP-4s",
+          "domain": "importance",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 3,
+          "confidence": 0.49,
+          "sims": [
+            0.8019006579748852,
+            0.8327054269786401,
+            0.8578038115824077,
+            0.8214626654590941,
+            0.7768636143901468
+          ]
+        },
+        {
+          "label": "IMP-3s",
+          "domain": "importance",
+          "difficulty": "subtle",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.38,
+          "sims": [
+            0.768032115375735,
+            0.8007339611862937,
+            0.8058545838216461,
+            0.7951383243664484,
+            0.7702105394548416
+          ]
+        },
+        {
+          "label": "IMP-2e",
+          "domain": "importance",
+          "difficulty": "edge",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.37,
+          "sims": [
+            0.8185717450649951,
+            0.8591215037065354,
+            0.8603552441520449,
+            0.8346964325827481,
+            0.7913016646655788
+          ]
+        },
+        {
+          "label": "IMP-4e",
+          "domain": "importance",
+          "difficulty": "edge",
+          "expected": 4,
+          "predicted": 2,
+          "confidence": 0.37,
+          "sims": [
+            0.8642798560162968,
+            0.9034590244410012,
+            0.8930199448313807,
+            0.886091027279612,
+            0.8472193356340224
+          ]
+        },
+        {
+          "label": "TRU-1",
+          "domain": "trust",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 4,
+          "confidence": 0.4,
+          "sims": [
+            0.809427366584911,
+            0.8206103615603091,
+            0.7904091944074841,
+            0.8163969056735104,
+            0.8323018328821464
+          ]
+        },
+        {
+          "label": "TRU-2",
+          "domain": "trust",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.66,
+          "sims": [
+            0.7542087961691113,
+            0.8005128912758681,
+            0.7469629905623136,
+            0.7762842924473882,
+            0.7659894726430881
+          ]
+        },
+        {
+          "label": "TRU-3",
+          "domain": "trust",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 2,
+          "confidence": 0.74,
+          "sims": [
+            0.8082175473430147,
+            0.8588654034800749,
+            0.8018718231497449,
+            0.8238389490311202,
+            0.8225355943476405
+          ]
+        },
+        {
+          "label": "TRU-4",
+          "domain": "trust",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 5,
+          "confidence": 0.54,
+          "sims": [
+            0.7892118048505546,
+            0.8183909408419417,
+            0.7854276438488664,
+            0.8175526159029517,
+            0.8395228830198546
+          ]
+        },
+        {
+          "label": "TRU-5",
+          "domain": "trust",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.65,
+          "sims": [
+            0.8011619489493277,
+            0.8187860431023437,
+            0.798188737327679,
+            0.8340324053669628,
+            0.8585401226005873
+          ]
+        },
+        {
+          "label": "TRU-4s",
+          "domain": "trust",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.29,
+          "sims": [
+            0.7973980606035185,
+            0.8281803197841324,
+            0.7909581340452415,
+            0.825831131156937,
+            0.8271868708300583
+          ]
+        },
+        {
+          "label": "TRU-2s",
+          "domain": "trust",
+          "difficulty": "subtle",
+          "expected": 2,
+          "predicted": 1,
+          "confidence": 0.51,
+          "sims": [
+            0.8102918384636314,
+            0.8070850857099163,
+            0.7765555774689985,
+            0.7849511505691569,
+            0.7810160374813448
+          ]
+        },
+        {
+          "label": "TRU-3e",
+          "domain": "trust",
+          "difficulty": "edge",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 0.45,
+          "sims": [
+            0.8501861522170412,
+            0.8612805458374542,
+            0.8569954340383449,
+            0.8747590989513337,
+            0.8747784923887697
+          ]
+        },
+        {
+          "label": "TRU-4e",
+          "domain": "trust",
+          "difficulty": "edge",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.42,
+          "sims": [
+            0.7905711452069125,
+            0.8177340807228942,
+            0.7820971707524984,
+            0.8314111197418512,
+            0.840895232903513
+          ]
+        },
+        {
+          "label": "VAL-1",
+          "domain": "value",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 0.7,
+          "sims": [
+            0.8524777603285032,
+            0.786278867742755,
+            0.7992884328490149,
+            0.760490507178486,
+            0.7897478735013392
+          ]
+        },
+        {
+          "label": "VAL-2",
+          "domain": "value",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.43,
+          "sims": [
+            0.8191538100660047,
+            0.836171272233549,
+            0.8197742715395803,
+            0.7837624864576107,
+            0.7773657134194132
+          ]
+        },
+        {
+          "label": "VAL-3",
+          "domain": "value",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.8,
+          "sims": [
+            0.8448771852375917,
+            0.8481197260654152,
+            0.8611288872541135,
+            0.8455561329837256,
+            0.8504895857433928
+          ]
+        },
+        {
+          "label": "VAL-4",
+          "domain": "value",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 3,
+          "confidence": 0.34,
+          "sims": [
+            0.7508499019557427,
+            0.840608755119386,
+            0.7959099955334753,
+            0.8265853921629376,
+            0.8087305549218572
+          ]
+        },
+        {
+          "label": "VAL-5",
+          "domain": "value",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.72,
+          "sims": [
+            0.8187379161184118,
+            0.8419106526224133,
+            0.8222607351266552,
+            0.8328210952814676,
+            0.8674620649179563
+          ]
+        },
+        {
+          "label": "VAL-2s",
+          "domain": "value",
+          "difficulty": "subtle",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.64,
+          "sims": [
+            0.775831868143549,
+            0.8546828146274137,
+            0.815517276347274,
+            0.8123359296673187,
+            0.7875052191771373
+          ]
+        },
+        {
+          "label": "VAL-4s",
+          "domain": "value",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 3,
+          "confidence": 0.17,
+          "sims": [
+            0.7973218911209463,
+            0.8215893292316777,
+            0.8169089784543238,
+            0.818585368809661,
+            0.8198971186877032
+          ]
+        },
+        {
+          "label": "VAL-3e",
+          "domain": "value",
+          "difficulty": "edge",
+          "expected": 3,
+          "predicted": 2,
+          "confidence": 0.48,
+          "sims": [
+            0.8338666811233457,
+            0.8667807705971073,
+            0.8601884604067943,
+            0.8498996786328754,
+            0.8407654262531543
+          ]
+        },
+        {
+          "label": "PI-1",
+          "domain": "purchase_intent",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 0.56,
+          "sims": [
+            0.8075064253086102,
+            0.7783125271146343,
+            0.7401124221803004,
+            0.7193788929210023,
+            0.7552872080560232
+          ]
+        },
+        {
+          "label": "PI-2",
+          "domain": "purchase_intent",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.45,
+          "sims": [
+            0.8024827526897946,
+            0.7912620369721282,
+            0.7713591050699352,
+            0.7941433214199637,
+            0.7753931905656738
+          ]
+        },
+        {
+          "label": "PI-3",
+          "domain": "purchase_intent",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.44,
+          "sims": [
+            0.7690078442242889,
+            0.7541009789055155,
+            0.7823297178991345,
+            0.7796253975504628,
+            0.7564937366203911
+          ]
+        },
+        {
+          "label": "PI-4",
+          "domain": "purchase_intent",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.53,
+          "sims": [
+            0.7553461612124311,
+            0.7476175378299401,
+            0.7832400960792587,
+            0.8109171232966854,
+            0.7884225189734269
+          ]
+        },
+        {
+          "label": "PI-5",
+          "domain": "purchase_intent",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.57,
+          "sims": [
+            0.7094616620757566,
+            0.6839355361241966,
+            0.7111419332130661,
+            0.7390866019833008,
+            0.7657393159525928
+          ]
+        },
+        {
+          "label": "PI-4s",
+          "domain": "purchase_intent",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.51,
+          "sims": [
+            0.7348282449651377,
+            0.7371256853921737,
+            0.7695073969391951,
+            0.7914112809458732,
+            0.7720567972310838
+          ]
+        },
+        {
+          "label": "PI-2s",
+          "domain": "purchase_intent",
+          "difficulty": "subtle",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.55,
+          "sims": [
+            0.7416039768676677,
+            0.7556564017912559,
+            0.7392697389578211,
+            0.7185773015854883,
+            0.7230982927012565
+          ]
+        },
+        {
+          "label": "PI-3e",
+          "domain": "purchase_intent",
+          "difficulty": "edge",
+          "expected": 3,
+          "predicted": 1,
+          "confidence": 0.68,
+          "sims": [
+            0.7728110416714181,
+            0.736167763001265,
+            0.7487098881179726,
+            0.7458200088796464,
+            0.7531962753039235
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C: H3 (asymm)",
+      "contextualized": false,
+      "asymmetric": true,
+      "exact": 45,
+      "exactPct": 65,
+      "withinOne": 63,
+      "withinOnePct": 91,
+      "mae": 0.43478260869565216,
+      "meanConfidence": 0.5,
+      "details": [
+        {
+          "label": "SAT-1",
+          "domain": "satisfaction",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 0.73,
+          "sims": [
+            0.5872086529021169,
+            0.5180655916289917,
+            0.46744484221103005,
+            0.4965767956607177,
+            0.49872146092453784
+          ]
+        },
+        {
+          "label": "SAT-2",
+          "domain": "satisfaction",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.31,
+          "sims": [
+            0.527615734489794,
+            0.5355427085374221,
+            0.4579398841959505,
+            0.5044661425403427,
+            0.5059599521660049
+          ]
+        },
+        {
+          "label": "SAT-3",
+          "domain": "satisfaction",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.5,
+          "sims": [
+            0.546597963100416,
+            0.5747499334207327,
+            0.6580325725919363,
+            0.6559117506298852,
+            0.5645068596713582
+          ]
+        },
+        {
+          "label": "SAT-4",
+          "domain": "satisfaction",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.42,
+          "sims": [
+            0.49599402558576083,
+            0.5136353428072596,
+            0.46219861794195866,
+            0.5583657049338725,
+            0.5621897907996095
+          ]
+        },
+        {
+          "label": "SAT-5",
+          "domain": "satisfaction",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.64,
+          "sims": [
+            0.5395354718971572,
+            0.5151198460691302,
+            0.479190334567944,
+            0.5785380988718268,
+            0.6517583494654738
+          ]
+        },
+        {
+          "label": "SAT-2s",
+          "domain": "satisfaction",
+          "difficulty": "subtle",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.27,
+          "sims": [
+            0.4833301531369649,
+            0.4506313940412597,
+            0.3703368883539848,
+            0.4437654449741638,
+            0.46161712141929934
+          ]
+        },
+        {
+          "label": "SAT-4s",
+          "domain": "satisfaction",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.38,
+          "sims": [
+            0.5519434320359601,
+            0.5888976892253355,
+            0.5063242942435592,
+            0.5807552503738634,
+            0.6161264107146633
+          ]
+        },
+        {
+          "label": "SAT-3s",
+          "domain": "satisfaction",
+          "difficulty": "subtle",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.51,
+          "sims": [
+            0.44434150433901415,
+            0.4540334626064979,
+            0.41454102120726055,
+            0.4715938052412822,
+            0.42849607803321366
+          ]
+        },
+        {
+          "label": "SAT-2e",
+          "domain": "satisfaction",
+          "difficulty": "edge",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.24,
+          "sims": [
+            0.6346573075963203,
+            0.6772657926663002,
+            0.6626695911384357,
+            0.6754206783325811,
+            0.5696148747211348
+          ]
+        },
+        {
+          "label": "SAT-4e",
+          "domain": "satisfaction",
+          "difficulty": "edge",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.71,
+          "sims": [
+            0.5841367380802358,
+            0.5680756273599009,
+            0.5691603458351191,
+            0.6685282151549562,
+            0.6252950902251688
+          ]
+        },
+        {
+          "label": "LIK-1",
+          "domain": "likelihood",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 0.73,
+          "sims": [
+            0.7019984449170993,
+            0.5907351425480877,
+            0.4966657998060816,
+            0.5534460915636159,
+            0.5267641045952365
+          ]
+        },
+        {
+          "label": "LIK-2",
+          "domain": "likelihood",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.56,
+          "sims": [
+            0.7524890756818067,
+            0.7939953426987036,
+            0.7113044733847256,
+            0.7525260185582598,
+            0.6956496902381922
+          ]
+        },
+        {
+          "label": "LIK-3",
+          "domain": "likelihood",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.75,
+          "sims": [
+            0.6708096914319719,
+            0.6788742934983287,
+            0.7678046834788075,
+            0.6823100797191889,
+            0.6413567099778673
+          ]
+        },
+        {
+          "label": "LIK-4",
+          "domain": "likelihood",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.68,
+          "sims": [
+            0.5583039297873693,
+            0.5997863221390725,
+            0.541966939086461,
+            0.6723793802272882,
+            0.5987348249565154
+          ]
+        },
+        {
+          "label": "LIK-5",
+          "domain": "likelihood",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 4,
+          "confidence": 0.46,
+          "sims": [
+            0.5502295388451102,
+            0.5813531314015266,
+            0.5773648221724881,
+            0.6371843389197909,
+            0.6388275972751433
+          ]
+        },
+        {
+          "label": "LIK-3s",
+          "domain": "likelihood",
+          "difficulty": "subtle",
+          "expected": 3,
+          "predicted": 2,
+          "confidence": 0.37,
+          "sims": [
+            0.4993324588571646,
+            0.5286706633553654,
+            0.5142777314668696,
+            0.49586378691065175,
+            0.459611311057639
+          ]
+        },
+        {
+          "label": "LIK-4s",
+          "domain": "likelihood",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 3,
+          "confidence": 0.5,
+          "sims": [
+            0.5077154863224448,
+            0.59518381471545,
+            0.534193180174474,
+            0.5828381567698137,
+            0.5248547294122708
+          ]
+        },
+        {
+          "label": "LIK-2e",
+          "domain": "likelihood",
+          "difficulty": "edge",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.4,
+          "sims": [
+            0.5927559204547876,
+            0.6290184392861865,
+            0.6144093662044566,
+            0.5940782474232427,
+            0.5569742643619494
+          ]
+        },
+        {
+          "label": "AGR-1",
+          "domain": "agreement",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 2,
+          "confidence": 0.39,
+          "sims": [
+            0.5464480803350233,
+            0.5377680942598116,
+            0.5140394392242883,
+            0.46140565164242264,
+            0.4826237607328574
+          ]
+        },
+        {
+          "label": "AGR-2",
+          "domain": "agreement",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.66,
+          "sims": [
+            0.5561619520185375,
+            0.6046439080028105,
+            0.5424988231857475,
+            0.5398094999239468,
+            0.5097748931549483
+          ]
+        },
+        {
+          "label": "AGR-3",
+          "domain": "agreement",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.32,
+          "sims": [
+            0.46356947576732693,
+            0.5556505276103483,
+            0.5741544191003628,
+            0.5681736469614856,
+            0.479499551249869
+          ]
+        },
+        {
+          "label": "AGR-4",
+          "domain": "agreement",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.67,
+          "sims": [
+            0.4825074771668995,
+            0.5457011731754082,
+            0.5176431523614426,
+            0.5933702743608457,
+            0.49148969060991554
+          ]
+        },
+        {
+          "label": "AGR-5",
+          "domain": "agreement",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.55,
+          "sims": [
+            0.5343442869103648,
+            0.4975880757522767,
+            0.49683584716877344,
+            0.5522397267586464,
+            0.5762413411711087
+          ]
+        },
+        {
+          "label": "AGR-2s",
+          "domain": "agreement",
+          "difficulty": "subtle",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.5,
+          "sims": [
+            0.3401663640618354,
+            0.402714986845526,
+            0.39039305256626894,
+            0.34956434751515353,
+            0.32454201098217245
+          ]
+        },
+        {
+          "label": "AGR-4s",
+          "domain": "agreement",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.48,
+          "sims": [
+            0.40753263888369756,
+            0.4567218801649538,
+            0.5002929323873224,
+            0.5212510291210923,
+            0.4325049686125683
+          ]
+        },
+        {
+          "label": "AGR-3e",
+          "domain": "agreement",
+          "difficulty": "edge",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 0.45,
+          "sims": [
+            0.42079767436074494,
+            0.4621657137272835,
+            0.49349739140532617,
+            0.5020782744692038,
+            0.43015714218854717
+          ]
+        },
+        {
+          "label": "EASE-1",
+          "domain": "ease",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 3,
+          "confidence": 0.26,
+          "sims": [
+            0.6045714756346565,
+            0.6102058577052109,
+            0.5484711910857599,
+            0.616548776966816,
+            0.5849581345605429
+          ]
+        },
+        {
+          "label": "EASE-2",
+          "domain": "ease",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 4,
+          "confidence": 0.44,
+          "sims": [
+            0.5393318952779432,
+            0.5919279956582979,
+            0.5246644810014129,
+            0.6276120067642065,
+            0.6021624989178582
+          ]
+        },
+        {
+          "label": "EASE-3",
+          "domain": "ease",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.23,
+          "sims": [
+            0.5782552599379243,
+            0.6482891239593505,
+            0.6500989961089293,
+            0.634527980779021,
+            0.6277953240615627
+          ]
+        },
+        {
+          "label": "EASE-4",
+          "domain": "ease",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.31,
+          "sims": [
+            0.4981536857749736,
+            0.6222782107690379,
+            0.5627394073465262,
+            0.6592675355545514,
+            0.6522664854988959
+          ]
+        },
+        {
+          "label": "EASE-5",
+          "domain": "ease",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 4,
+          "confidence": 0.43,
+          "sims": [
+            0.47436764486558075,
+            0.5343279601464014,
+            0.5282544352538497,
+            0.5897355168165601,
+            0.6087126040725923
+          ]
+        },
+        {
+          "label": "EASE-4s",
+          "domain": "ease",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.42,
+          "sims": [
+            0.486777357383157,
+            0.5812487168556991,
+            0.5550234588944827,
+            0.6725146435987509,
+            0.6721200213355766
+          ]
+        },
+        {
+          "label": "EASE-2s",
+          "domain": "ease",
+          "difficulty": "subtle",
+          "expected": 2,
+          "predicted": 4,
+          "confidence": 0.34,
+          "sims": [
+            0.5234917061326676,
+            0.5473449070931936,
+            0.4741243574808486,
+            0.585758815162353,
+            0.5785383565567604
+          ]
+        },
+        {
+          "label": "EASE-3e",
+          "domain": "ease",
+          "difficulty": "edge",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.37,
+          "sims": [
+            0.49142446703506426,
+            0.5502178798152231,
+            0.5264681101130168,
+            0.5333288883019967,
+            0.5256660775406138
+          ]
+        },
+        {
+          "label": "EASE-4e",
+          "domain": "ease",
+          "difficulty": "edge",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.39,
+          "sims": [
+            0.5515522004594389,
+            0.6320324028437286,
+            0.6229478253630031,
+            0.7061320657710121,
+            0.6863337574181096
+          ]
+        },
+        {
+          "label": "IMP-1",
+          "domain": "importance",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 2,
+          "confidence": 0.44,
+          "sims": [
+            0.5925671629502565,
+            0.5983257716875253,
+            0.5292431771567473,
+            0.48583178316437325,
+            0.5302232424781429
+          ]
+        },
+        {
+          "label": "IMP-2",
+          "domain": "importance",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.45,
+          "sims": [
+            0.5557033601561189,
+            0.64538321544715,
+            0.6352430445732494,
+            0.5367519196123697,
+            0.49256263555598556
+          ]
+        },
+        {
+          "label": "IMP-3",
+          "domain": "importance",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.45,
+          "sims": [
+            0.5124603820931039,
+            0.5441509628066171,
+            0.5575116193072758,
+            0.47163535958475844,
+            0.4975519605789431
+          ]
+        },
+        {
+          "label": "IMP-4",
+          "domain": "importance",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 2,
+          "confidence": 0.51,
+          "sims": [
+            0.49508434507542654,
+            0.5333525344755228,
+            0.47858445141450223,
+            0.44292768309987346,
+            0.4954285950501064
+          ]
+        },
+        {
+          "label": "IMP-5",
+          "domain": "importance",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 4,
+          "confidence": 0.49,
+          "sims": [
+            0.4827783996590954,
+            0.511964017526913,
+            0.4483201292619582,
+            0.43709335426918305,
+            0.5318139368532401
+          ]
+        },
+        {
+          "label": "IMP-4s",
+          "domain": "importance",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 2,
+          "confidence": 0.42,
+          "sims": [
+            0.5661601295392619,
+            0.5969984129648708,
+            0.5933337060772853,
+            0.5290433104478286,
+            0.5427700293030867
+          ]
+        },
+        {
+          "label": "IMP-3s",
+          "domain": "importance",
+          "difficulty": "subtle",
+          "expected": 3,
+          "predicted": 2,
+          "confidence": 0.34,
+          "sims": [
+            0.5303914321781703,
+            0.5504026586233645,
+            0.537942019551526,
+            0.48768795954543176,
+            0.5176502012061146
+          ]
+        },
+        {
+          "label": "IMP-2e",
+          "domain": "importance",
+          "difficulty": "edge",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.45,
+          "sims": [
+            0.5208390366333459,
+            0.5587657153590587,
+            0.5311191792918343,
+            0.4691551492279167,
+            0.454216302167914
+          ]
+        },
+        {
+          "label": "IMP-4e",
+          "domain": "importance",
+          "difficulty": "edge",
+          "expected": 4,
+          "predicted": 2,
+          "confidence": 0.72,
+          "sims": [
+            0.49524729858040883,
+            0.561051044149419,
+            0.5055527002319345,
+            0.4605916322469793,
+            0.47036180331787464
+          ]
+        },
+        {
+          "label": "TRU-1",
+          "domain": "trust",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 2,
+          "confidence": 0.56,
+          "sims": [
+            0.6894752415662805,
+            0.6101277310250268,
+            0.6119394073921429,
+            0.6661276064573864,
+            0.6450829546026657
+          ]
+        },
+        {
+          "label": "TRU-2",
+          "domain": "trust",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.36,
+          "sims": [
+            0.5808430688108019,
+            0.6056234657002582,
+            0.5407702703904017,
+            0.5984125224971981,
+            0.5220862077502904
+          ]
+        },
+        {
+          "label": "TRU-3",
+          "domain": "trust",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 0.68,
+          "sims": [
+            0.7380376285381752,
+            0.7342389830483785,
+            0.7126157076334075,
+            0.7794707906323282,
+            0.7018057005615101
+          ]
+        },
+        {
+          "label": "TRU-4",
+          "domain": "trust",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.47,
+          "sims": [
+            0.6156879028585893,
+            0.6151609531438611,
+            0.5929650767618184,
+            0.6545074774181207,
+            0.6445317461451547
+          ]
+        },
+        {
+          "label": "TRU-5",
+          "domain": "trust",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.53,
+          "sims": [
+            0.6106422167898866,
+            0.6054636900218481,
+            0.6077966823822555,
+            0.6459014111457698,
+            0.6506888853198036
+          ]
+        },
+        {
+          "label": "TRU-4s",
+          "domain": "trust",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.76,
+          "sims": [
+            0.591178604540448,
+            0.6176319595169384,
+            0.5994840329175715,
+            0.6790207069741322,
+            0.6238081787319896
+          ]
+        },
+        {
+          "label": "TRU-2s",
+          "domain": "trust",
+          "difficulty": "subtle",
+          "expected": 2,
+          "predicted": 1,
+          "confidence": 0.61,
+          "sims": [
+            0.6177074945800284,
+            0.5663833821424631,
+            0.550010154620647,
+            0.5803127366113464,
+            0.5292813309303452
+          ]
+        },
+        {
+          "label": "TRU-3e",
+          "domain": "trust",
+          "difficulty": "edge",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 0.32,
+          "sims": [
+            0.6031021768146863,
+            0.5764707381142631,
+            0.6349449293883985,
+            0.6456064733243563,
+            0.6293813733118153
+          ]
+        },
+        {
+          "label": "TRU-4e",
+          "domain": "trust",
+          "difficulty": "edge",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.65,
+          "sims": [
+            0.6420740567349268,
+            0.6298055442231246,
+            0.6366201782685026,
+            0.7281642770227704,
+            0.694796653247769
+          ]
+        },
+        {
+          "label": "VAL-1",
+          "domain": "value",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 0.73,
+          "sims": [
+            0.6424632298676399,
+            0.5046485285672927,
+            0.5766355932687162,
+            0.5014279499072256,
+            0.5209380454873427
+          ]
+        },
+        {
+          "label": "VAL-2",
+          "domain": "value",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.58,
+          "sims": [
+            0.6743269987402176,
+            0.6597930387692206,
+            0.7115640323512279,
+            0.6247486205647111,
+            0.6114320406091291
+          ]
+        },
+        {
+          "label": "VAL-3",
+          "domain": "value",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.85,
+          "sims": [
+            0.6536675668437906,
+            0.6521322807914847,
+            0.7767885012933187,
+            0.6759388885957269,
+            0.6446002017388167
+          ]
+        },
+        {
+          "label": "VAL-4",
+          "domain": "value",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.17,
+          "sims": [
+            0.5879955817426856,
+            0.6761905791177891,
+            0.6784936255510584,
+            0.6954763358687083,
+            0.6885484206069065
+          ]
+        },
+        {
+          "label": "VAL-5",
+          "domain": "value",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.66,
+          "sims": [
+            0.6507687596162328,
+            0.607768292849118,
+            0.6463777996246044,
+            0.6193794818907918,
+            0.6958448529405705
+          ]
+        },
+        {
+          "label": "VAL-2s",
+          "domain": "value",
+          "difficulty": "subtle",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.56,
+          "sims": [
+            0.5375624250428269,
+            0.5804182240835403,
+            0.6018122540352284,
+            0.5640401641595103,
+            0.5549842824688267
+          ]
+        },
+        {
+          "label": "VAL-4s",
+          "domain": "value",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.36,
+          "sims": [
+            0.6295022488416318,
+            0.6419075359565645,
+            0.6838834095987765,
+            0.6739352120395845,
+            0.6703775694177538
+          ]
+        },
+        {
+          "label": "VAL-3e",
+          "domain": "value",
+          "difficulty": "edge",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.43,
+          "sims": [
+            0.6284635223046546,
+            0.6349488591152295,
+            0.6497649314322789,
+            0.6206361359737571,
+            0.5982381750877002
+          ]
+        },
+        {
+          "label": "PI-1",
+          "domain": "purchase_intent",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 0.49,
+          "sims": [
+            0.667662495796732,
+            0.6401805984986895,
+            0.5511758254549562,
+            0.5292120059580744,
+            0.5938748077401247
+          ]
+        },
+        {
+          "label": "PI-2",
+          "domain": "purchase_intent",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.43,
+          "sims": [
+            0.6678993753283134,
+            0.69529477790424,
+            0.6214468894017914,
+            0.6386674510623184,
+            0.5735096601730537
+          ]
+        },
+        {
+          "label": "PI-3",
+          "domain": "purchase_intent",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.44,
+          "sims": [
+            0.5946012658844863,
+            0.6249796258941306,
+            0.6634214213329646,
+            0.647943614752061,
+            0.5765058713573978
+          ]
+        },
+        {
+          "label": "PI-4",
+          "domain": "purchase_intent",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.73,
+          "sims": [
+            0.5815759498045467,
+            0.5913963092885653,
+            0.6220122981200037,
+            0.7052620168798135,
+            0.6355471777510828
+          ]
+        },
+        {
+          "label": "PI-5",
+          "domain": "purchase_intent",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.76,
+          "sims": [
+            0.5981883863350095,
+            0.5904208442753465,
+            0.5994805347271025,
+            0.6409119290347017,
+            0.6973730251568535
+          ]
+        },
+        {
+          "label": "PI-4s",
+          "domain": "purchase_intent",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.71,
+          "sims": [
+            0.5265895448040566,
+            0.5397502766679438,
+            0.5729822052581628,
+            0.6147360662761926,
+            0.5451137782132593
+          ]
+        },
+        {
+          "label": "PI-2s",
+          "domain": "purchase_intent",
+          "difficulty": "subtle",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.66,
+          "sims": [
+            0.5241193170227539,
+            0.5837855396350784,
+            0.5410387773409836,
+            0.4892297263877169,
+            0.49781315562118456
+          ]
+        },
+        {
+          "label": "PI-3e",
+          "domain": "purchase_intent",
+          "difficulty": "edge",
+          "expected": 3,
+          "predicted": 2,
+          "confidence": 0.37,
+          "sims": [
+            0.6221449356250722,
+            0.6252000087628913,
+            0.6063348674292167,
+            0.5682308124694417,
+            0.561150202131722
+          ]
+        }
+      ]
+    },
+    {
+      "name": "D: H2+H3 (both)",
+      "contextualized": true,
+      "asymmetric": true,
+      "exact": 43,
+      "exactPct": 62,
+      "withinOne": 64,
+      "withinOnePct": 93,
+      "mae": 0.4492753623188406,
+      "meanConfidence": 0.51,
+      "details": [
+        {
+          "label": "SAT-1",
+          "domain": "satisfaction",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 0.56,
+          "sims": [
+            0.6505350991735366,
+            0.6352395050105805,
+            0.5950558258748448,
+            0.5980216104257732,
+            0.5827136995039728
+          ]
+        },
+        {
+          "label": "SAT-2",
+          "domain": "satisfaction",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.65,
+          "sims": [
+            0.5336723712145954,
+            0.5541033050283916,
+            0.5130213257509412,
+            0.5225947860255556,
+            0.5059419394467816
+          ]
+        },
+        {
+          "label": "SAT-3",
+          "domain": "satisfaction",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.53,
+          "sims": [
+            0.543271560496574,
+            0.5832856700356222,
+            0.6423509758640055,
+            0.6184608391675092,
+            0.5578529641520358
+          ]
+        },
+        {
+          "label": "SAT-4",
+          "domain": "satisfaction",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.55,
+          "sims": [
+            0.49129151360606976,
+            0.5253189259348966,
+            0.5164674655995022,
+            0.5525062536950125,
+            0.5216825459012621
+          ]
+        },
+        {
+          "label": "SAT-5",
+          "domain": "satisfaction",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.75,
+          "sims": [
+            0.622365675855438,
+            0.623557085261859,
+            0.6257849219963753,
+            0.6606528775135112,
+            0.6948498798030727
+          ]
+        },
+        {
+          "label": "SAT-2s",
+          "domain": "satisfaction",
+          "difficulty": "subtle",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.51,
+          "sims": [
+            0.49513205662044824,
+            0.5242188597952815,
+            0.4693312000285703,
+            0.5096857352343184,
+            0.4811130403793711
+          ]
+        },
+        {
+          "label": "SAT-4s",
+          "domain": "satisfaction",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.62,
+          "sims": [
+            0.4802664446380633,
+            0.500795097634748,
+            0.49352387472262055,
+            0.5412645862059995,
+            0.5174341465406934
+          ]
+        },
+        {
+          "label": "SAT-3s",
+          "domain": "satisfaction",
+          "difficulty": "subtle",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.42,
+          "sims": [
+            0.5042946739611874,
+            0.5334327389176885,
+            0.5240242343086554,
+            0.5434768811422052,
+            0.4919067314893776
+          ]
+        },
+        {
+          "label": "SAT-2e",
+          "domain": "satisfaction",
+          "difficulty": "edge",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.25,
+          "sims": [
+            0.45630200010869043,
+            0.4778610966853302,
+            0.4860642307883351,
+            0.4910131638343951,
+            0.4131237416190395
+          ]
+        },
+        {
+          "label": "SAT-4e",
+          "domain": "satisfaction",
+          "difficulty": "edge",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.79,
+          "sims": [
+            0.47564082326197615,
+            0.4771721426248811,
+            0.4931023474669916,
+            0.5400114474035712,
+            0.49641259486545725
+          ]
+        },
+        {
+          "label": "LIK-1",
+          "domain": "likelihood",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 0.72,
+          "sims": [
+            0.6640619574393594,
+            0.5937287658483276,
+            0.5181855752779935,
+            0.5520184839720955,
+            0.5308000768704383
+          ]
+        },
+        {
+          "label": "LIK-2",
+          "domain": "likelihood",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.46,
+          "sims": [
+            0.6159978359922964,
+            0.6531686840384598,
+            0.6129530843089662,
+            0.646860934580272,
+            0.5941552932526306
+          ]
+        },
+        {
+          "label": "LIK-3",
+          "domain": "likelihood",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 0.42,
+          "sims": [
+            0.5196343751949575,
+            0.5640157112583953,
+            0.6003100513238775,
+            0.6053253113288958,
+            0.546672325884722
+          ]
+        },
+        {
+          "label": "LIK-4",
+          "domain": "likelihood",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.67,
+          "sims": [
+            0.49575960442053263,
+            0.5445542168567057,
+            0.5295039197511544,
+            0.6398355247325715,
+            0.5679827268929075
+          ]
+        },
+        {
+          "label": "LIK-5",
+          "domain": "likelihood",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 4,
+          "confidence": 0.44,
+          "sims": [
+            0.5103665952350174,
+            0.5482059232535514,
+            0.5719047533851486,
+            0.6283517304369366,
+            0.6069760537226003
+          ]
+        },
+        {
+          "label": "LIK-3s",
+          "domain": "likelihood",
+          "difficulty": "subtle",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.37,
+          "sims": [
+            0.4623494745352774,
+            0.521398392835938,
+            0.5064057862124387,
+            0.5087800786659888,
+            0.4559923834669793
+          ]
+        },
+        {
+          "label": "LIK-4s",
+          "domain": "likelihood",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 3,
+          "confidence": 0.41,
+          "sims": [
+            0.4470706009903807,
+            0.5109447609882948,
+            0.48889347297391966,
+            0.526876389000983,
+            0.4841347785790118
+          ]
+        },
+        {
+          "label": "LIK-2e",
+          "domain": "likelihood",
+          "difficulty": "edge",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.33,
+          "sims": [
+            0.5475893908064008,
+            0.604057635239179,
+            0.5921214419807617,
+            0.6014769833332373,
+            0.5567652857577607
+          ]
+        },
+        {
+          "label": "AGR-1",
+          "domain": "agreement",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 2,
+          "confidence": 0.38,
+          "sims": [
+            0.597676487381009,
+            0.588152937633505,
+            0.5784123080244183,
+            0.5461840129579324,
+            0.5339714390963132
+          ]
+        },
+        {
+          "label": "AGR-2",
+          "domain": "agreement",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.32,
+          "sims": [
+            0.6044193922367527,
+            0.6368806119808559,
+            0.6059258820010455,
+            0.6282554472704053,
+            0.5584819924926937
+          ]
+        },
+        {
+          "label": "AGR-3",
+          "domain": "agreement",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.49,
+          "sims": [
+            0.5232048399534364,
+            0.5511168089888281,
+            0.6029293010964134,
+            0.6002895876457771,
+            0.5241801043511383
+          ]
+        },
+        {
+          "label": "AGR-4",
+          "domain": "agreement",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.76,
+          "sims": [
+            0.5773968396319532,
+            0.6047712175145229,
+            0.6190014428325253,
+            0.6861432417653893,
+            0.5956749380669868
+          ]
+        },
+        {
+          "label": "AGR-5",
+          "domain": "agreement",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 4,
+          "confidence": 0.61,
+          "sims": [
+            0.6370091411753933,
+            0.5896626908815449,
+            0.5970424630330535,
+            0.6276554258650133,
+            0.6705812185738255
+          ]
+        },
+        {
+          "label": "AGR-2s",
+          "domain": "agreement",
+          "difficulty": "subtle",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.3,
+          "sims": [
+            0.4099914094300643,
+            0.46119835175093443,
+            0.4609143617144877,
+            0.4360238210305649,
+            0.3574151537379227
+          ]
+        },
+        {
+          "label": "AGR-4s",
+          "domain": "agreement",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.63,
+          "sims": [
+            0.4917607362443147,
+            0.4944380753364107,
+            0.5344499090839219,
+            0.5521184223284185,
+            0.49885545633039863
+          ]
+        },
+        {
+          "label": "AGR-3e",
+          "domain": "agreement",
+          "difficulty": "edge",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.45,
+          "sims": [
+            0.4943058668519509,
+            0.5134995682369309,
+            0.5653667106049699,
+            0.5610196742013863,
+            0.47380241719508637
+          ]
+        },
+        {
+          "label": "EASE-1",
+          "domain": "ease",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 2,
+          "confidence": 0.38,
+          "sims": [
+            0.6342430959583786,
+            0.6242038748458163,
+            0.5869240122164031,
+            0.6215076536455635,
+            0.5838975459670241
+          ]
+        },
+        {
+          "label": "EASE-2",
+          "domain": "ease",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.45,
+          "sims": [
+            0.5845694191672028,
+            0.6025894438479376,
+            0.5744712023856662,
+            0.6068365742949918,
+            0.5648850112195763
+          ]
+        },
+        {
+          "label": "EASE-3",
+          "domain": "ease",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.37,
+          "sims": [
+            0.58200595652783,
+            0.6046449672521249,
+            0.6105069795552459,
+            0.5912714903518103,
+            0.5620755824498975
+          ]
+        },
+        {
+          "label": "EASE-4",
+          "domain": "ease",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.48,
+          "sims": [
+            0.5200213006880557,
+            0.5644482968317668,
+            0.5489388428173859,
+            0.602321265430978,
+            0.5764494502788612
+          ]
+        },
+        {
+          "label": "EASE-5",
+          "domain": "ease",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 4,
+          "confidence": 0.36,
+          "sims": [
+            0.5435217723988538,
+            0.5724917862394558,
+            0.6015902268450811,
+            0.627250969865437,
+            0.6292171311624868
+          ]
+        },
+        {
+          "label": "EASE-4s",
+          "domain": "ease",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.48,
+          "sims": [
+            0.5124912527497769,
+            0.5408466318273397,
+            0.5428574194315727,
+            0.5978564191121786,
+            0.5838725571594182
+          ]
+        },
+        {
+          "label": "EASE-2s",
+          "domain": "ease",
+          "difficulty": "subtle",
+          "expected": 2,
+          "predicted": 4,
+          "confidence": 0.58,
+          "sims": [
+            0.5906116936953251,
+            0.5918514556734099,
+            0.5704736355994137,
+            0.6082049470821943,
+            0.5764690293458693
+          ]
+        },
+        {
+          "label": "EASE-3e",
+          "domain": "ease",
+          "difficulty": "edge",
+          "expected": 3,
+          "predicted": 2,
+          "confidence": 0.69,
+          "sims": [
+            0.5521279548513515,
+            0.5791070460609454,
+            0.552946366425685,
+            0.549792393677747,
+            0.535935289870846
+          ]
+        },
+        {
+          "label": "EASE-4e",
+          "domain": "ease",
+          "difficulty": "edge",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.55,
+          "sims": [
+            0.5414949390761172,
+            0.5744001443192734,
+            0.5679693359726519,
+            0.6024096926994694,
+            0.5717435836872268
+          ]
+        },
+        {
+          "label": "IMP-1",
+          "domain": "importance",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 0.43,
+          "sims": [
+            0.7310377668518818,
+            0.7213755112050939,
+            0.7128334725108716,
+            0.6952967611453631,
+            0.6847703938586431
+          ]
+        },
+        {
+          "label": "IMP-2",
+          "domain": "importance",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 3,
+          "confidence": 0.32,
+          "sims": [
+            0.6371095803641611,
+            0.6579670948559131,
+            0.6751210527444154,
+            0.6406424519457329,
+            0.5814570320513628
+          ]
+        },
+        {
+          "label": "IMP-3",
+          "domain": "importance",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.47,
+          "sims": [
+            0.687802168630938,
+            0.7137717650448766,
+            0.7266263771717492,
+            0.6947358185994869,
+            0.6674142022421086
+          ]
+        },
+        {
+          "label": "IMP-4",
+          "domain": "importance",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 2,
+          "confidence": 0.48,
+          "sims": [
+            0.680178925638946,
+            0.7046914166024918,
+            0.6973652223460916,
+            0.6851444904286256,
+            0.6696746909595361
+          ]
+        },
+        {
+          "label": "IMP-5",
+          "domain": "importance",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.71,
+          "sims": [
+            0.7018179128381328,
+            0.7089384090121819,
+            0.7018822812509667,
+            0.7013844743154648,
+            0.7141347541703198
+          ]
+        },
+        {
+          "label": "IMP-4s",
+          "domain": "importance",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 3,
+          "confidence": 0.35,
+          "sims": [
+            0.6921484319181752,
+            0.6997454088573463,
+            0.7087893836414353,
+            0.6843778802395146,
+            0.6613321815907505
+          ]
+        },
+        {
+          "label": "IMP-3s",
+          "domain": "importance",
+          "difficulty": "subtle",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.39,
+          "sims": [
+            0.6113379350720222,
+            0.6249787956015294,
+            0.6289658852525667,
+            0.6152902494249113,
+            0.5987530746818454
+          ]
+        },
+        {
+          "label": "IMP-2e",
+          "domain": "importance",
+          "difficulty": "edge",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.26,
+          "sims": [
+            0.6522919134793236,
+            0.6705858638418721,
+            0.6712155202210282,
+            0.645666831650503,
+            0.5973876953366968
+          ]
+        },
+        {
+          "label": "IMP-4e",
+          "domain": "importance",
+          "difficulty": "edge",
+          "expected": 4,
+          "predicted": 2,
+          "confidence": 0.4,
+          "sims": [
+            0.6860736741369131,
+            0.7154878413516624,
+            0.7006687925885211,
+            0.6939155960530462,
+            0.6598308176728903
+          ]
+        },
+        {
+          "label": "TRU-1",
+          "domain": "trust",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 3,
+          "confidence": 0.3,
+          "sims": [
+            0.6357923160593045,
+            0.6303615817789424,
+            0.5979215123399966,
+            0.6075312075274545,
+            0.6333396749402339
+          ]
+        },
+        {
+          "label": "TRU-2",
+          "domain": "trust",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.82,
+          "sims": [
+            0.55637323597401,
+            0.5967089737788389,
+            0.5515253071231573,
+            0.5654192009032588,
+            0.5500977884516492
+          ]
+        },
+        {
+          "label": "TRU-3",
+          "domain": "trust",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 2,
+          "confidence": 0.65,
+          "sims": [
+            0.6271322082436601,
+            0.6740637109948105,
+            0.63104284375014,
+            0.6563795530537981,
+            0.6405088478637604
+          ]
+        },
+        {
+          "label": "TRU-4",
+          "domain": "trust",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.43,
+          "sims": [
+            0.5908169872477591,
+            0.6301909628223955,
+            0.5980661094097715,
+            0.6193312474830507,
+            0.6387026182051331
+          ]
+        },
+        {
+          "label": "TRU-5",
+          "domain": "trust",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.58,
+          "sims": [
+            0.5669540742695287,
+            0.5942095990320225,
+            0.5777776482419811,
+            0.5922709453468669,
+            0.6155327153900937
+          ]
+        },
+        {
+          "label": "TRU-4s",
+          "domain": "trust",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 3,
+          "confidence": 0.34,
+          "sims": [
+            0.6029549850046019,
+            0.6433292380843121,
+            0.6098508530857466,
+            0.6442130254757897,
+            0.6352886559103629
+          ]
+        },
+        {
+          "label": "TRU-2s",
+          "domain": "trust",
+          "difficulty": "subtle",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.52,
+          "sims": [
+            0.6183480580460343,
+            0.6315425019689995,
+            0.6070337539318608,
+            0.6025946968820192,
+            0.5880139511124038
+          ]
+        },
+        {
+          "label": "TRU-3e",
+          "domain": "trust",
+          "difficulty": "edge",
+          "expected": 3,
+          "predicted": 4,
+          "confidence": 0.26,
+          "sims": [
+            0.6381522853070529,
+            0.6553738646110794,
+            0.6528229569541186,
+            0.6605724791281307,
+            0.6559677911955865
+          ]
+        },
+        {
+          "label": "TRU-4e",
+          "domain": "trust",
+          "difficulty": "edge",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.44,
+          "sims": [
+            0.5969148800637312,
+            0.6193765882229867,
+            0.5941936867091867,
+            0.6397760986516038,
+            0.6420466051349367
+          ]
+        },
+        {
+          "label": "VAL-1",
+          "domain": "value",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 0.72,
+          "sims": [
+            0.5781213242406023,
+            0.49264667942719037,
+            0.5142556789190194,
+            0.4645793753290526,
+            0.4946238031370491
+          ]
+        },
+        {
+          "label": "VAL-2",
+          "domain": "value",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.37,
+          "sims": [
+            0.6075637604721694,
+            0.6192200217164101,
+            0.6048768324310424,
+            0.5547163983599518,
+            0.5556364249681977
+          ]
+        },
+        {
+          "label": "VAL-3",
+          "domain": "value",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.83,
+          "sims": [
+            0.6153411110821295,
+            0.6214421875918196,
+            0.6816239028275414,
+            0.6321871009781681,
+            0.6130304673293154
+          ]
+        },
+        {
+          "label": "VAL-4",
+          "domain": "value",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.22,
+          "sims": [
+            0.5444852867930923,
+            0.6140912602068836,
+            0.5887025464573679,
+            0.6172615442489606,
+            0.6143479731271582
+          ]
+        },
+        {
+          "label": "VAL-5",
+          "domain": "value",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.77,
+          "sims": [
+            0.5706981084863193,
+            0.5526277922632423,
+            0.5384891484626202,
+            0.5480443723919328,
+            0.6164996287447622
+          ]
+        },
+        {
+          "label": "VAL-2s",
+          "domain": "value",
+          "difficulty": "subtle",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.73,
+          "sims": [
+            0.4837948732505514,
+            0.5336420368933231,
+            0.5083581187118127,
+            0.4919264961956983,
+            0.4912250806274659
+          ]
+        },
+        {
+          "label": "VAL-4s",
+          "domain": "value",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 5,
+          "confidence": 0.52,
+          "sims": [
+            0.5985179348390075,
+            0.6059069248489897,
+            0.6092292441582028,
+            0.6210809608592155,
+            0.6280884669869087
+          ]
+        },
+        {
+          "label": "VAL-3e",
+          "domain": "value",
+          "difficulty": "edge",
+          "expected": 3,
+          "predicted": 2,
+          "confidence": 0.26,
+          "sims": [
+            0.5833702522395264,
+            0.5815463446511323,
+            0.5804845058285933,
+            0.5668354723009921,
+            0.5754546436502904
+          ]
+        },
+        {
+          "label": "PI-1",
+          "domain": "purchase_intent",
+          "difficulty": "clear",
+          "expected": 1,
+          "predicted": 1,
+          "confidence": 0.56,
+          "sims": [
+            0.6121617590825446,
+            0.5700025431831481,
+            0.4973164965533988,
+            0.4687853254345884,
+            0.5222064581034005
+          ]
+        },
+        {
+          "label": "PI-2",
+          "domain": "purchase_intent",
+          "difficulty": "clear",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.49,
+          "sims": [
+            0.5898061532434649,
+            0.5899305750569777,
+            0.5411946457037178,
+            0.5581737482043313,
+            0.5430807910170585
+          ]
+        },
+        {
+          "label": "PI-3",
+          "domain": "purchase_intent",
+          "difficulty": "clear",
+          "expected": 3,
+          "predicted": 3,
+          "confidence": 0.55,
+          "sims": [
+            0.5511627709504889,
+            0.5468608185746495,
+            0.5800387414947906,
+            0.5747093770953765,
+            0.5497492529028409
+          ]
+        },
+        {
+          "label": "PI-4",
+          "domain": "purchase_intent",
+          "difficulty": "clear",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.57,
+          "sims": [
+            0.5536631997144481,
+            0.5519218642368308,
+            0.5868727545271216,
+            0.63358004281722,
+            0.6086676261336356
+          ]
+        },
+        {
+          "label": "PI-5",
+          "domain": "purchase_intent",
+          "difficulty": "clear",
+          "expected": 5,
+          "predicted": 5,
+          "confidence": 0.69,
+          "sims": [
+            0.5626414741443543,
+            0.5485529206121144,
+            0.5714007192022431,
+            0.6019825200873483,
+            0.6466139684123245
+          ]
+        },
+        {
+          "label": "PI-4s",
+          "domain": "purchase_intent",
+          "difficulty": "subtle",
+          "expected": 4,
+          "predicted": 4,
+          "confidence": 0.64,
+          "sims": [
+            0.48937964047447896,
+            0.49031780605760983,
+            0.5130377290541273,
+            0.5380117484272986,
+            0.5147383621539652
+          ]
+        },
+        {
+          "label": "PI-2s",
+          "domain": "purchase_intent",
+          "difficulty": "subtle",
+          "expected": 2,
+          "predicted": 2,
+          "confidence": 0.53,
+          "sims": [
+            0.4953307199980773,
+            0.5114881405281813,
+            0.495634427461105,
+            0.47077765971653524,
+            0.4757883975912441
+          ]
+        },
+        {
+          "label": "PI-3e",
+          "domain": "purchase_intent",
+          "difficulty": "edge",
+          "expected": 3,
+          "predicted": 1,
+          "confidence": 0.72,
+          "sims": [
+            0.5867371792817172,
+            0.5572418121066305,
+            0.5553369419367713,
+            0.5466962452043552,
+            0.5645841511004859
+          ]
+        }
+      ]
+    }
+  ]
+}
