@@ -2,7 +2,7 @@
 
 Replication data, code, and anchor library for:
 
-> **Vera Pichardo, E. (2026).** Measuring Self-Rating Bias in LLM-Generated Survey Data: A Semantic Similarity Framework for Independent Scale Mapping. *Preprint available on SSRN* (ID: 6208718).
+> **Vera Pichardo, E. (2026).** Measuring Self-Rating Bias in LLM-Generated Survey Data: A Semantic Similarity Framework for Independent Scale Mapping. *arXiv preprint.*
 
 ## Repository Structure
 
@@ -52,12 +52,13 @@ figures/data/          # CSV data underlying paper figures
 
 ```bibtex
 @misc{verapichardo2026ssr,
-  author    = {Vera Pichardo, Eduardo},
-  title     = {Measuring Self-Rating Bias in {LLM}-Generated Survey Data:
-               A Semantic Similarity Framework for Independent Scale Mapping},
-  year      = {2026},
-  note      = {SSRN ID: 6208718},
-  url       = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6208718},
+  author        = {Vera Pichardo, Eduardo},
+  title         = {Measuring Self-Rating Bias in {LLM}-Generated Survey Data:
+                   A Semantic Similarity Framework for Independent Scale Mapping},
+  year          = {2026},
+  eprint        = {XXXX.XXXXX},
+  archiveprefix = {arXiv},
+  primaryclass  = {cs.CL},
 }
 ```
 
